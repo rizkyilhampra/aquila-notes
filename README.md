@@ -1,1 +1,1 @@
-# Aquila's Vault - Taking Note System
+# Aquila's Vault - Note Taking System
