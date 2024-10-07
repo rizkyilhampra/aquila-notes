@@ -1,6 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Catppuccin",
-  "textFontFamily": "GeistMono Nerd Font Mono",
-  "monospaceFontFamily": ""
+  "textFontFamily": "Iosevka Etoile",
+  "monospaceFontFamily": "JetBrains Mono",
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }
