@@ -1,3 +1,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/rizkyilhampra/blog_posts.git
+[submodule "dotfiles-wiki"]
+	path = dotfiles-wiki
+	url = https://github.com/rizkyilhampra/dotfiles.wiki.git
