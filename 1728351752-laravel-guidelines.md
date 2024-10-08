@@ -1,5 +1,5 @@
 ---
-id: 1728313726-YZOG
+id: 1728351752-laravel-guidelines
 aliases:
   - Laravel Guidelines
 tags: []
