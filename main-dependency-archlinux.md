@@ -1,3 +1,0 @@
-- bat-extras
-- bat
-- yazi
