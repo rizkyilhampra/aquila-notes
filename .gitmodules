@@ -4,3 +4,6 @@
 [submodule "dotfiles-wiki"]
 	path = dotfiles-wiki
 	url = https://github.com/rizkyilhampra/dotfiles.wiki.git
+[submodule "vault-notes"]
+	path = vault-notes
+	url = https://github.com/rizkyilhampra/vault-notes.git
