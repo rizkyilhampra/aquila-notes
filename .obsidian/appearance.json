@@ -4,5 +4,6 @@
   "textFontFamily": "Iosevka Etoile",
   "monospaceFontFamily": "JetBrains Mono",
   "showViewHeader": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }

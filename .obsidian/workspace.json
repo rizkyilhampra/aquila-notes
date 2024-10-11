@@ -4,22 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ac085deb00bdfa23",
+        "id": "d38aba725662cc8c",
         "type": "tabs",
         "children": [
           {
-            "id": "101dc41d3f137ee9",
+            "id": "eba2b3097c482a78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1728313726-YZOG.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ffc0899d49e689e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331
+    "width": 266
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1728313726-YZOG.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1728313726-YZOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +127,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1728313726-YZOG.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,40 +147,49 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "101dc41d3f137ee9",
+  "active": "9ffc0899d49e689e",
   "lastOpenFiles": [
-    "1728315388-JNOV.md",
-    "1728313726-YZOG.md",
-    "2024-08-09.md",
-    "Bagaimana Memperbaiki 404 Not Found livewire.js di CloudPanel.md",
-    "deploy laravel.md",
-    "how use ssl with aapanel and let's encrypt.md",
-    "Stars.md",
-    "templates/templater.md",
-    "laravel/2024-10-07 My Meeting.md",
-    "default vhost conf.md",
-    "laravel-guideline.md",
-    "fasdfadf.md",
-    "Main Dependency I Used in Laravel App.md",
-    "main-dependency-archlinux.md",
+    "1728688475-some-usefull-web-apps.md",
+    "sdlc/1728527572-agile.md",
+    "sdlc/1728528543-board.md",
+    "sdlc/1728528605-kanban-board.md",
+    "sdlc/1728530975-user-stories.md",
+    "sdlc/1728529486-software-development-life-cycle.md",
+    "sdlc/1728528598-scrum-board.md",
+    "sdlc/1728528769-sprints.md",
+    "sdlc/1728531469-kanban.md",
+    "sdlc/1728531496-backlog.md",
+    "sdlc/1728531579-epics.md",
+    "sdlc/1728540342-product-backlog.md",
+    "sdlc/1728540835-product-roadmap.md",
+    "sdlc/1728539292-artifacts.md",
+    "Excalidraw/Drawing 2024-10-11 02.37.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-11 02.37.06.excalidraw.md",
+    "Sistem Informasi Laboratorium/Main.md",
+    "dotfiles-wiki/Zen Browser.md",
+    "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.md",
+    "Sistem Informasi Laboratorium",
+    "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png",
+    "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
+    "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.md",
     "README.md",
-    "resume.md",
-    "some cool stuff.md",
-    "aasd.md",
-    "templates/main.md",
-    "guideline for laravel.md",
-    "laravel/Untitled.md",
-    "laravel/1728296525.md",
-    "laravel/test.md",
-    "templates",
-    "laravel/youtube.md",
-    "Untitled 1.md",
-    "laravel",
-    "Untitled 1",
-    "15 juta.md",
+    "empashize.md",
+    "waterfall.md",
+    "continuous.md",
+    "sdlc/1728527555-scrum.md",
+    "project-managements/1728506838-jira.md",
+    "sdlc/1728539292-artifacts.md~",
+    "sdlc/1728527555-scrum.md~",
+    "Excalidraw",
+    "cpns",
+    "dotfiles-wiki/browsers",
+    "1728351874-function-to-sanitize-indonesian-currency-format.md~",
+    "1728315388-JNOV.md.bak~",
+    "1728351797-function-to-sanitize-indonesian-currency-format.md~",
+    "1728315388-JNOV.md.bak",
     "attachment/Pasted image 20240802232142.png",
     "attachment/resend.png",
     "attachment/2024-08-09--20240809.png",
@@ -189,12 +198,6 @@
     "attachment/Pasted image 20240809064216.png",
     "attachment/resend-1.png",
     "attachment/some cool stuff.png",
-    "attachment/resend.png",
-    "attachment/Pasted image 20240809050751.png",
-    "some cool stuff.md~",
-    "attachment",
-    "Untitled.canvas",
-    "aksjldf",
-    "Aplikasi Penjualan Mobil.md~"
+    "Untitled.canvas"
   ]
 }

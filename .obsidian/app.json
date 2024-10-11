@@ -7,7 +7,7 @@
   "promptDelete": false,
   "showUnsupportedFiles": true,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachment",
   "showRibbon": true,
