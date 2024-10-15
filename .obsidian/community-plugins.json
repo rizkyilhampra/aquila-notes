@@ -1,8 +1,8 @@
 [
-  "mini-vimrc",
   "obsidian-git",
   "obsidian-relative-line-numbers",
   "obsidian-paste-image-rename",
   "obsidian-excalidraw-plugin",
-  "quickadd"
+  "quickadd",
+  "obsidian-vimrc-support"
 ]
