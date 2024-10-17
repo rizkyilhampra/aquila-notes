@@ -5,7 +5,7 @@ aliases:
 tags: []
 ---
 
-# Indonesian Spell Check Neovim
+# Indonesian Spell Check [[1728601745-neovim|Neovim]]
 
 *Spell checker* di [[1728601745-neovim|Neovim]] dapat kita konfigurasi dengan mendefinisikan *option* berikut:
 
