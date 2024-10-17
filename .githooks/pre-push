@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd ~
+
+yadm add Notes/aquila-notes
+
+yadm commit -q -m "chore(notes): sync head"
+
+yadm push -q
