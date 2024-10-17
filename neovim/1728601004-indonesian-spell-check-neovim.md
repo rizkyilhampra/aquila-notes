@@ -4,7 +4,6 @@ aliases:
   - Indonesian Spell Check Neovim
 tags: []
 ---
-
 # Indonesian Spell Check [[1728601745-neovim|Neovim]]
 
 *Spell checker* di [[1728601745-neovim|Neovim]] dapat kita konfigurasi dengan mendefinisikan *option* berikut:
@@ -25,7 +24,7 @@ atau jika ingin spesifik
 vim.opt.spellang = "en,id"
 ```
 
-Setelah itu Bahasa Indonesia akan ter-*download* otomatis (jika tidak ada), namun sebelumnya kita akan mendapatkan *prompt* dari [[1728601745-neovim|Neovim]] untuk mengonfirmasi untuk men-*donwload*.
+Setelah itu Bahasa Indonesia akan ter-*download* otomatis (jika tidak ada), namun sebelumnya kita akan mendapatkan *prompt* dari [[1728601745-neovim|Neovim]] untuk mengonfirmasi untuk men-*download*.
 
 > [!NOTE]
 > Di suatu kasus kemungkinan *prompt* tidak akan tampil dan Bahasa Indonesia tidak akan ter-*download* secara otomatis. Maka pastikan untuk tidak menonaktifkan `netrw`. Berikut adalah contoh menghapus `netrw` dari daftar *rtp plugin* yang dinonaktifkan di `lazy.nvim`  
