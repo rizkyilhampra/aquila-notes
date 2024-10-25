@@ -108,8 +108,14 @@ TeamViewer like
 
 ## https://www.reddit.com/r/neovim/comments/1dfmeuw/how_do_you_handle_very_long_tailwind_css/
 
-## https://github.com/mcthomas/Apple-Music-CLI-Player 
+## https://github.com/mcthomas/Apple-Music-CLI-Player
 
 ## https://medium.com/@hosnyben/laravel-11-authentication-using-jwt-with-asymmetric-key-and-auth-middleware-e61c7e5303d5
 
 ## https://github.com/Jas-SinghFSU/HyprPanel
+
+## https://www.reddit.com/r/selfhosted/comments/1eh6l2j/reverse_proxy_using_vps_wireguard_caddy_porkbun/
+
+## https://gist.github.com/mblarsen/96eaff4f92ee79d9ece6eaf9bd1af0c9
+
+Show Notion Calendar event in Neovim tabline
