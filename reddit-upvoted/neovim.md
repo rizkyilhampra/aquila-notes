@@ -66,3 +66,9 @@ Neovim plugin to generate text using LLMs with customizable prompts
 ## https://github.com/fbuchlak/cmp-symfony-router/
 
 ## https://github.com/OXY2DEV/foldtext.nvim
+
+## https://github.com/p5quared/apple-music.nvim
+
+## https://github.com/rudionrails/quarry.nvim
+
+Simplify mason, mason-lspconfig and lspconfig configuration.

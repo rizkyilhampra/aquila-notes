@@ -107,3 +107,9 @@ TeamViewer like
 ## https://meatfighter.com/ascii-silhouettify/#install
 
 ## https://www.reddit.com/r/neovim/comments/1dfmeuw/how_do_you_handle_very_long_tailwind_css/
+
+## https://github.com/mcthomas/Apple-Music-CLI-Player 
+
+## https://medium.com/@hosnyben/laravel-11-authentication-using-jwt-with-asymmetric-key-and-auth-middleware-e61c7e5303d5
+
+## https://github.com/Jas-SinghFSU/HyprPanel

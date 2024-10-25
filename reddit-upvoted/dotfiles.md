@@ -6,62 +6,35 @@ tags: []
 
 # Dotfiles
 
-## https://github.com/bibjaw99/workstation
+## Hyprland
 
-Neovim
+- https://github.com/vernette/hyprsnap
+- https://github.com/LierB/dotfiles
+- https://github.com/Spelljinxer/dotfiles
+- https://github.com/zDyanTB/HyprNova
+- https://github.com/Aylur/dotfiles
+- https://github.com/MrVivekRajan/Hypr-Dots
+- https://github.com/Frost-Phoenix/nixos-config (NixOS)
 
-## https://github.com/foreverd34d/.dotfiles
+## Neovim
 
-Yabai
+- https://github.com/mobily/.nvim
+- https://github.com/namishh/kodo
+- https://github.com/bibjaw99/workstation
 
-## https://github.com/LoneWolf4713/2024-i3dotfiles
+## Awesome WM
 
-i3
+- https://github.com/namishh/crystal (NixOS)
 
-## https://github.com/druxorey/dotfiles
+## BSPWM
 
-BSPWM
+- https://github.com/pznguin-kyun/pengudotfiles
+- https://github.com/druxorey/dotfiles
 
-## https://github.com/pznguin-kyun/pengudotfiles
+## Yabai
 
-BSPWM
+- https://github.com/foreverd34d/.dotfiles
 
-## https://github.com/Frost-Phoenix/nixos-config
+## i3
 
-NixOS Hyprland
-
-## https://github.com/MrVivekRajan/Hypr-Dots
-
-Hyprland
-
-## https://github.com/namishh/crystal
-
-NixOS Awesome WM
-
-## https://github.com/namishh/kodo
-
-Neovim
-
-## https://github.com/Aylur/dotfiles
-
-Hyprland
-
-## https://github.com/zDyanTB/HyprNova
-
-Hyprland
-
-## https://github.com/mobily/.nvim
-
-Neovim
-
-## https://github.com/Spelljinxer/dotfiles
-
-Hyprland
-
-## https://github.com/LierB/dotfiles
-
-Hyprland
-
-## https://github.com/BIIJESH/dotfiles/
-
-Hyprland
+- https://github.com/LoneWolf4713/2024-i3dotfiles
