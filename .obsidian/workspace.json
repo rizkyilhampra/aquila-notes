@@ -11,15 +11,22 @@
             "id": "0125423650c3245f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9d69a06ec4f307e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "cpns/Bela Negara.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Bela Negara"
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -78,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 266,
+    "collapsed": true
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -179,6 +187,8 @@
   },
   "active": "0125423650c3245f",
   "lastOpenFiles": [
+    "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
+    "1728526878-multivariate-testing.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "Untitled.md",
     "1729711500-different-between-usr-bin-env-bash-and-bin-bash.md",
@@ -206,7 +216,6 @@
     "Untitled.canvas",
     "hyprland/Hyprtrails.md",
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
-    "1728526878-multivariate-testing.md",
     "1728688664-excalidraw.md",
     "1728688475-some-usefull-web-apps.md",
     "1728526578-ab-testing.md",
@@ -216,7 +225,6 @@
     "dotfiles-wiki/Packages Or Applications.md",
     "dotfiles-wiki/Home.md",
     "dotfiles-wiki/Browser.md",
-    "Excalidraw/Drawing 2024-10-11 02.37.41.excalidraw.md",
     "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
     "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png",
     "attachment/Pasted image 20240802232142.png",
