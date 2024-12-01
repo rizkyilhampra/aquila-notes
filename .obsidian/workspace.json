@@ -16,18 +16,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9d69a06ec4f307e0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
         ]
       }
@@ -187,6 +175,12 @@
   },
   "active": "0125423650c3245f",
   "lastOpenFiles": [
+    "vault-notes/dailies/2024-10-11.md",
+    "vault-notes/psychology-tests/1728792224-rspi.md",
+    "1728526578-ab-testing.md",
+    "1728688475-some-usefull-web-apps.md",
+    "1728688664-excalidraw.md",
+    "vault-notes/dailies/2024-10-24.md",
     "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
     "1728526878-multivariate-testing.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
@@ -216,15 +210,9 @@
     "Untitled.canvas",
     "hyprland/Hyprtrails.md",
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
-    "1728688664-excalidraw.md",
-    "1728688475-some-usefull-web-apps.md",
-    "1728526578-ab-testing.md",
     "php-library/pan.md",
     "php-library/pan.png",
     "PHP Library.md",
-    "dotfiles-wiki/Packages Or Applications.md",
-    "dotfiles-wiki/Home.md",
-    "dotfiles-wiki/Browser.md",
     "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
     "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png",
     "attachment/Pasted image 20240802232142.png",
