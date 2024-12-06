@@ -16,6 +16,8 @@ tags: []
 - https://github.com/chrismwilliams/astro-theme-cactus
 - https://gaurshubham.com/
   - https://github.com/shubhamessier/portfolio
+- https://github.com/educlopez/nextjs-13-educalvolopez.com
+- https://github.com/manuarora700/manuarora.in
 
 ## Does not have a repository but looks good though to reverse-engineer
 
