@@ -11,10 +11,15 @@
             "id": "0125423650c3245f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "neovim/dotfiles/1733336586-others-neovim-dotfiles-should-i-take-a-look.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1733336586-others-neovim-dotfiles-should-i-take-a-look"
             }
           }
         ]
@@ -73,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266,
-    "collapsed": true
+    "width": 266
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -175,6 +179,11 @@
   },
   "active": "0125423650c3245f",
   "lastOpenFiles": [
+    "1729804552-neovim-plugin-development.md",
+    "1729869196-git-hooks-wrapper.md",
+    "1730138599-dependency-for-building-cli-with-javascript.md",
+    "project-managements/1728506822-project-management.md",
+    "project-managements/1728506838-jira.md",
     "vault-notes/dailies/2024-10-11.md",
     "vault-notes/psychology-tests/1728792224-rspi.md",
     "1728526578-ab-testing.md",
@@ -206,13 +215,8 @@
     "psychology-tests/1728792224-rspi.md",
     "hyprland/Pyprland.md",
     "hyprland/Hyprfocus.md",
-    "1728351752-laravel-guidelines.md",
     "Untitled.canvas",
-    "hyprland/Hyprtrails.md",
-    "1728351874-function-to-sanitize-indonesian-currency-format.md",
-    "php-library/pan.md",
     "php-library/pan.png",
-    "PHP Library.md",
     "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
     "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png",
     "attachment/Pasted image 20240802232142.png",
