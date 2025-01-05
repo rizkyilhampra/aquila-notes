@@ -119,3 +119,7 @@ TeamViewer like
 ## https://gist.github.com/mblarsen/96eaff4f92ee79d9ece6eaf9bd1af0c9
 
 Show Notion Calendar event in Neovim tabline
+
+## https://www.reddit.com/r/selfhosted/comments/1hu755z/what_are_you_selfhosting_in_2025/
+
+The curated list of self-hosted services
