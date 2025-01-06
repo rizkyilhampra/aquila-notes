@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "1736090627-dotfiles"
             }
+          },
+          {
+            "id": "e98e9f90e4934355",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.27.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,9 +166,29 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cf04a1eadbc75664",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "24565610de99b081",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,10 +205,12 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "4e569f533484fcce",
+  "active": "e98e9f90e4934355",
   "lastOpenFiles": [
     "docker/commands/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "awesome/repositories/1736092466-browser-use.md",
