@@ -33,3 +33,5 @@ docker run --rm \
   | gzip \
   > /mnt/Windows/sik9.sql.gz
 ```
+
+> If you want to backup a structure database only, you can add `--no-data` flag
