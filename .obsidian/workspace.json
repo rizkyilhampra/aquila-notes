@@ -11,10 +11,15 @@
             "id": "13dac56ba5739590",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "snippets/commands/docker/standalone database container.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "standalone database container"
             }
           }
         ]
@@ -136,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpns/Bela Negara.md"
+                "file": "snippets/commands/docker/standalone database container.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bela Negara"
+              "title": "Outline of standalone database container"
             }
           },
           {
@@ -211,12 +216,22 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "13dac56ba5739590",
+  "active": "08f9cf94b2d9def7",
   "lastOpenFiles": [
+    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
+    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
+    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
+    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
+    "cheatsheets/1736135014-clone-private-repository.md",
+    "cheatsheets/git ignore permission changed.md",
+    "cheatsheets/tar gzip compression of folder.md",
+    "cheatsheets/tar gzip uncompress to spesific folder.md",
+    "cheatsheets/lazysql.md",
+    "blog/2024-05-16-formatting-blade-layaknya-jsx-syntax-dengan-prettier.md",
+    "blog/automatisasi-pencadangan-datase.md",
+    "blog/2024-04-20-memulai-dengan-vps.md",
     "2025-01-26.md",
     "Untitled.canvas",
-    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
-    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "articles/1734123658-talking-about-laravel-and-kubernetes.md",
     "awesome/1736092179-awesome-repositories.md",
     "awesome/1736148346-pangolin.md",
@@ -243,16 +258,6 @@
     "Excalidraw/Drawing 2025-01-26 14.50.21.excalidraw.md",
     "project-managements/1728506822-project-management.md",
     "project-managements/1728506838-jira.md",
-    "project-managements/1728506917-trello.md",
-    "project-managements/1728506930-confluence.md",
-    "reddit-upvoted/neovim.md",
-    "reddit-upvoted/others.md",
-    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "snippets/commands/tar gzip compression of folder.md",
-    "snippets/commands/tar gzip uncompress to spesific folder.md",
-    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
-    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
-    "1729869196-git-hooks-wrapper.md",
     "repositories",
     "awesome/repositories",
     "awesome",
