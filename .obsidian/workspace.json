@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "363f90fd200d0a37",
+        "id": "6ad4208282bcdf53",
         "type": "tabs",
         "children": [
           {
-            "id": "4e569f533484fcce",
+            "id": "13dac56ba5739590",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.md",
-                "bFile": "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Drawing 2024-10-10 05.07.40.excalidraw"
-            }
-          },
-          {
-            "id": "7823301dba4f9692",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "cheatsheets/gitlab.md",
-                "bFile": "cheatsheets/gitlab.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: gitlab"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,6 +82,7 @@
       {
         "id": "60682b2fa965f4f0",
         "type": "tabs",
+        "dimension": 56.767955801104975,
         "children": [
           {
             "id": "05885c4fe63c8ed5",
@@ -196,6 +178,7 @@
       {
         "id": "33e565c03ab023a3",
         "type": "tabs",
+        "dimension": 43.232044198895025,
         "children": [
           {
             "id": "a214e7fa18a1d6e5",
@@ -211,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463
+    "width": 281
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +211,33 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "7823301dba4f9692",
+  "active": "13dac56ba5739590",
   "lastOpenFiles": [
+    "2025-01-26.md",
+    "Untitled.canvas",
+    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
+    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
+    "articles/1734123658-talking-about-laravel-and-kubernetes.md",
+    "awesome/1736092179-awesome-repositories.md",
+    "awesome/1736148346-pangolin.md",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
+    "1732332291-composer-private-packagist.md",
+    "1729804552-neovim-plugin-development.md",
+    "1728688684-resend-email-service.md",
+    "1728688475-some-usefull-web-apps.md",
+    "1728688664-excalidraw.md",
+    "1728688673-tldraw.md",
+    "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
     "attachment/2024-08-09--20240809.png",
     "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png",
     "Excalidraw/Drawing 2025-01-26 14.50.21.excalidraw.md",
@@ -244,26 +250,12 @@
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
     "snippets/commands/tar gzip compression of folder.md",
     "snippets/commands/tar gzip uncompress to spesific folder.md",
-    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
-    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
-    "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "1729869196-git-hooks-wrapper.md",
-    "1730138599-dependency-for-building-cli-with-javascript.md",
-    "1729804552-neovim-plugin-development.md",
-    "1728688664-excalidraw.md",
-    "vault-notes/dailies/2024-12-22.md",
-    "vault-notes/dailies/2024-12-24.md",
-    "dotfiles/1736090627-dotfiles.md",
-    "docker/commands/1736003618-create-a-single-container-to-estimate-the-database-size.md",
-    "awesome/repositories/1736092466-browser-use.md",
-    "repositories/1736092466-browser-use.md",
     "repositories",
     "awesome/repositories",
     "awesome",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "articles",
     "Awesome Repositories.md.bak",
     "\"Difference between #!/usr/bin/env bash and #!/bin",
