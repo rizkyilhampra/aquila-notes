@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1730797330-chart-db.md",
+                "file": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1730797330-chart-db"
+              "title": "1736003618-create-a-single-container-to-estimate-the-database-size"
             }
           }
         ]
@@ -218,8 +218,10 @@
   },
   "active": "13dac56ba5739590",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
+    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "1730797330-chart-db.md",
+    "Untitled.canvas",
     "awesome/1736092179-awesome-repositories.md",
     "awesome/1736148346-pangolin.md",
     "cheatsheets/tar gzip uncompress to spesific folder.md",
@@ -243,7 +245,6 @@
     "1732332291-composer-private-packagist.md",
     "1728688475-some-usefull-web-apps.md",
     "1728526878-multivariate-testing.md",
-    "1728526578-ab-testing.md",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
     "Untitled 10.canvas",
