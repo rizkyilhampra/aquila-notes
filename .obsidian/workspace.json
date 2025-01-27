@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
+                "file": "dailies/2025-01-28.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1736003618-create-a-single-container-to-estimate-the-database-size"
+              "title": "2025-01-28"
             }
           }
         ]
@@ -218,6 +218,22 @@
   },
   "active": "13dac56ba5739590",
   "lastOpenFiles": [
+    "1728688664-excalidraw.md",
+    "1728688684-resend-email-service.md",
+    "1728688475-some-usefull-web-apps.md",
+    "1728526578-ab-testing.md",
+    "1728351752-laravel-guidelines.md",
+    "php-library/1736090894-skywarth-chaotic-schedule.md",
+    "php-library/1735483897-laradock.md",
+    "php-library/pan.md",
+    "php-library/pan.png",
+    "blog/2024-04-20-memulai-dengan-vps.md",
+    "blog/2024-05-16-formatting-blade-layaknya-jsx-syntax-dengan-prettier.md",
+    "blog/automatisasi-pencadangan-datase.md",
+    "neovim/1728601004-indonesian-spell-check-neovim.md",
+    "neovim/1728601745-neovim.md",
+    "neovim/1733336586-neovim-dotfiles.md",
+    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
     "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "1730797330-chart-db.md",
@@ -230,21 +246,6 @@
     "cheatsheets/1736135014-clone-private-repository.md",
     "cheatsheets/git ignore permission changed.md",
     "hyprland/Hyprfocus.md",
-    "hyprland/Pyprland.md",
-    "neovim/1728601004-indonesian-spell-check-neovim.md",
-    "neovim/1733336586-neovim-dotfiles.md",
-    "neovim/1728601745-neovim.md",
-    "blog/2024-05-16-formatting-blade-layaknya-jsx-syntax-dengan-prettier.md",
-    "blog/2024-04-20-memulai-dengan-vps.md",
-    "1729804552-neovim-plugin-development.md",
-    "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
-    "1733471063-awesome-portfolios-web-apps.md",
-    "1734123509-platforms-learning.md",
-    "1733476131-openstatus.md",
-    "1733466869-laravel-inertia-resources.md",
-    "1732332291-composer-private-packagist.md",
-    "1728688475-some-usefull-web-apps.md",
-    "1728526878-multivariate-testing.md",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
     "Untitled 10.canvas",
@@ -268,7 +269,6 @@
     "\"Difference between #!/usr/bin",
     "\"Difference between #!/usr",
     "\"Difference between #!",
-    "php-library/pan.png",
     "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
     "attachment/Pasted image 20240809045921.png",
     "attachment/some cool stuff--20240809.png",
