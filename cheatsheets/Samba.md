@@ -2,12 +2,10 @@
 ```bash
 sudoedit /etc/samba/smb.conf
 ```
-
 ## Reload
 ```bash
 sudo systemctl reload smb.service
 ```
-
 ## Start
 ```bash
 sudo systemctl start smb.service
