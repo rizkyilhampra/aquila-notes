@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-01-29.md",
+                "file": "cheatsheets/Samba.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-29"
+              "title": "Samba"
             }
           }
         ]
@@ -216,9 +216,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "a214e7fa18a1d6e5",
+  "active": "13dac56ba5739590",
   "lastOpenFiles": [
     "dailies/2025-01-29.md",
+    "cheatsheets/Samba.md",
     "dailies/2025-01-28.md",
     "1728688664-excalidraw.md",
     "1728688684-resend-email-service.md",
@@ -245,7 +246,6 @@
     "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/tar gzip compression of folder.md",
     "cheatsheets/lazysql.md",
-    "cheatsheets/1736135014-clone-private-repository.md",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
     "Untitled 10.canvas",
