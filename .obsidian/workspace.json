@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheets/Samba.md",
+                "file": "dailies/2025-01-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Samba"
+              "title": "2025-01-29"
             }
           }
         ]
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "33e565c03ab023a3",
@@ -218,11 +218,11 @@
   },
   "active": "13dac56ba5739590",
   "lastOpenFiles": [
+    "cheatsheets/Samba.md",
     "cheatsheets/lazysql.md",
     "cheatsheets/1736135014-clone-private-repository.md",
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "cheatsheets/git ignore permission changed.md",
-    "cheatsheets/Samba.md",
     "cheatsheets/tar gzip compression of folder.md",
     "dailies/2025-01-29.md",
     "dailies/2025-01-28.md",
