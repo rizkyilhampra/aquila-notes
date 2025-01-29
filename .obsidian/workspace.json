@@ -74,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 266,
+    "collapsed": true
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -178,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "33e565c03ab023a3",
@@ -216,7 +218,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "08f9cf94b2d9def7",
+  "active": "13dac56ba5739590",
   "lastOpenFiles": [
     "dailies/2025-01-28.md",
     "dailies/2025-01-29.md",
