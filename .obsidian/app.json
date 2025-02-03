@@ -10,6 +10,5 @@
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachment",
-  "showRibbon": true,
   "propertiesInDocument": "visible"
 }

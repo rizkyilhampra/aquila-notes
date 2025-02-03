@@ -15,14 +15,27 @@
               "state": {
                 "file": "dailies/2025-01-29.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "2025-01-29"
             }
+          },
+          {
+            "id": "bb8a898657ae4eb1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,13 +88,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266,
-    "collapsed": true
+    "width": 266
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -218,7 +230,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "13dac56ba5739590",
+  "active": "bb8a898657ae4eb1",
   "lastOpenFiles": [
     "dailies/2025-01-28.md",
     "dailies/2025-01-29.md",
