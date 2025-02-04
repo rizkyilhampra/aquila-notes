@@ -26,12 +26,15 @@
             "id": "bb8a898657ae4eb1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "dailies/2025-01-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "2025-01-28"
             }
           }
         ],
@@ -232,16 +235,18 @@
   },
   "active": "bb8a898657ae4eb1",
   "lastOpenFiles": [
-    "dailies/2025-01-28.md",
     "dailies/2025-01-29.md",
-    "attachment/2025-01-29.png",
+    "dailies/2025-01-28.md",
     "cheatsheets/Check Network Driver Used.md",
-    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
+    "1728688673-tldraw.md",
+    "cheatsheets/tar gzip compression of folder.md",
+    "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/Samba.md",
     "cheatsheets/lazysql.md",
-    "cheatsheets/1736135014-clone-private-repository.md",
     "cheatsheets/git ignore permission changed.md",
-    "cheatsheets/tar gzip compression of folder.md",
+    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
+    "cheatsheets/1736135014-clone-private-repository.md",
+    "attachment/2025-01-29.png",
     "1728688664-excalidraw.md",
     "1728688684-resend-email-service.md",
     "1728688475-some-usefull-web-apps.md",
@@ -258,7 +263,6 @@
     "neovim/1728601745-neovim.md",
     "neovim/1733336586-neovim-dotfiles.md",
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
-    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
     "Untitled.canvas",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
