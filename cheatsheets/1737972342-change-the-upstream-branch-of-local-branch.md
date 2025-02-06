@@ -2,7 +2,8 @@
 id: 1737972342-change-the-upstream-branch-of-local-branch
 aliases:
   - change the upstream branch of local branch
-tags: []
+tags:
+  - cheatsheets
 ---
 
 # change the upstream branch of local branch

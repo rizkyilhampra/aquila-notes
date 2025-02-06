@@ -2,7 +2,10 @@
 id: 1736135014-clone-private-repository
 aliases:
   - Clone Private Repository
-tags: []
+tags:
+  - cheatsheets
+  - github
+  - gitlab
 ---
 
 # Clone Private Repository
