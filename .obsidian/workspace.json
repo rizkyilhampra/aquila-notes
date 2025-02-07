@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6ad4208282bcdf53",
+        "id": "e7327fa8c2839f9b",
         "type": "tabs",
         "children": [
           {
-            "id": "13dac56ba5739590",
+            "id": "4599a812d876ccad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/2025-01-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-29"
-            }
-          },
-          {
-            "id": "bb8a898657ae4eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault-notes/dailies/2025-02-07.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-07"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault-notes/dailies/2025-02-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-07"
+              "title": "Outline"
             }
           },
           {
@@ -198,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "33e565c03ab023a3",
@@ -236,12 +214,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "bb8a898657ae4eb1",
+  "active": "4599a812d876ccad",
   "lastOpenFiles": [
+    "dailies/2025-01-29.md",
+    "1733466869-laravel-inertia-resources.md",
     "1728688475-some-usefull-web-apps.md",
+    "vault-notes/dailies/2025-02-07.md",
     "1728526578-ab-testing.md",
     "dailies/2025-01-28.md",
-    "dailies/2025-01-29.md",
     "cheatsheets/Check Network Driver Used.md",
     "1728688673-tldraw.md",
     "cheatsheets/tar gzip compression of folder.md",
@@ -264,8 +244,6 @@
     "blog/automatisasi-pencadangan-datase.md",
     "neovim/1728601004-indonesian-spell-check-neovim.md",
     "neovim/1728601745-neovim.md",
-    "neovim/1733336586-neovim-dotfiles.md",
-    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "Untitled.canvas",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
