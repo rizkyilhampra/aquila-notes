@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/dailies/2025-02-07.md",
+                "file": "1739644546-downgrade-arch-linux-installed-package.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-07"
+              "title": "1739644546-downgrade-arch-linux-installed-package"
             }
           }
         ]
@@ -221,6 +221,9 @@
   },
   "active": "a214e7fa18a1d6e5",
   "lastOpenFiles": [
+    "1739644546-downgrade-arch-linux-installed-package.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "1739606203-linux-folder-or-file-permission.md",
     "vault-notes/dailies/2025-02-07.md",
     "dailies/2025-01-29.md",
     "1733466869-laravel-inertia-resources.md",
@@ -246,9 +249,6 @@
     "php-library/pan.png",
     "blog/2024-04-20-memulai-dengan-vps.md",
     "blog/2024-05-16-formatting-blade-layaknya-jsx-syntax-dengan-prettier.md",
-    "blog/automatisasi-pencadangan-datase.md",
-    "neovim/1728601004-indonesian-spell-check-neovim.md",
-    "neovim/1728601745-neovim.md",
     "Untitled.canvas",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
