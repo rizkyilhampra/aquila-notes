@@ -1,0 +1,2 @@
+- Darimana, jika sebut lantai, tanya lagi ruangan apa
+- Jika berhubungan dengan hak akses, minta nama
