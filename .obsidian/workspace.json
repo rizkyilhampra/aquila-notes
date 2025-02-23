@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1728526578-ab-testing.md",
+                "file": "snippets/commands/Remove Executable Flag from Conflicted Files in Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1728526578-ab-testing"
+              "title": "Remove Executable Flag from Conflicted Files in Git"
             }
           }
         ],
@@ -283,6 +283,7 @@
   },
   "active": "85c9745e0e83399d",
   "lastOpenFiles": [
+    "1728526578-ab-testing.md",
     "1728688475-some-usefull-web-apps.md",
     "1728688673-tldraw.md",
     "1728688684-resend-email-service.md",
@@ -308,7 +309,6 @@
     "sdlc/1728527572-agile.md",
     "vault-notes/Stars.md",
     "vault-notes/Tes Teknis TLab.md",
-    "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "Excalidraw",
     "attachment/2025-01-29.png",
     "php-library/pan.png",
