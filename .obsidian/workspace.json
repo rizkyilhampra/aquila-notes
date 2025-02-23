@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 261,
+    "collapsed": true
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -223,16 +224,16 @@
   },
   "active": "8c7a663259924fa3",
   "lastOpenFiles": [
-    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
-    "Laravel News.md",
     "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md",
+    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
+    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel 1.md",
+    "Laravel News.md",
     "Clippings/Harnessing Full-Text Search in Laravel - Laravel News 1.md",
     "Telpon RSPI.md",
     "repro for git tracking existing directory.md",
     "blog/2024-05-16-formatting-blade-layaknya-jsx-syntax-dengan-prettier.md",
     "blog/2024-04-20-memulai-dengan-vps.md",
     "dailies/2025-01-28.md",
-    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel 1.md",
     "vault-notes/rspi/Dockerize.md",
     "project-managements/1728506822-project-management.md",
     "Clippings",
