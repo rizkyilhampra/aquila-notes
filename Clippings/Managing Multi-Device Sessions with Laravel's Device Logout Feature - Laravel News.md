@@ -1,13 +1,13 @@
 ---
-title: "Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News"
-source: "https://laravel-news.com/logout-other-devices"
-author:
-  - "[[Laravel News]]"
+title: Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News
+source: https://laravel-news.com/logout-other-devices
+author: "[[Laravel News]]"
 published: 2025-02-15
 created: 2025-02-24
-description: "Master the implementation of multi-device session management in Laravel. A comprehensive guide to terminating user sessions across devices and strengthening application security."
+description: Master the implementation of multi-device session management in Laravel. A comprehensive guide to terminating user sessions across devices and strengthening application security.
 tags:
-  - "clippings"
+  - clippings
+  - laravel
 ---
 Laravel offers a robust security feature through Auth::logoutOtherDevices() that enables users to terminate their sessions across all devices except the current one. This capability is particularly valuable for maintaining account security in applications handling sensitive data.
 
