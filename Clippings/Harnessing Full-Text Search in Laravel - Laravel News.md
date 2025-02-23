@@ -1,13 +1,12 @@
 ---
-title: "Harnessing Full-Text Search in Laravel - Laravel News"
-source: "https://laravel-news.com/whereFullText?bento_uuid=2895b17f-fff8-4626-a29b-6ca3d7c4db87"
-author:
-  - "[[Laravel News]]"
+title: Harnessing Full-Text Search in Laravel - Laravel News
+source: https://laravel-news.com/whereFullText?bento_uuid=2895b17f-fff8-4626-a29b-6ca3d7c4db87
+author: "[[Laravel News]]"
 published: 2025-02-15
 created: 2025-02-24
-description: "Explore Laravel's built-in full-text search capabilities using whereFullText methods. Learn how to implement efficient search functionality across MariaDB, MySQL, and PostgreSQL databases with minimal configuration."
+description: Explore Laravel's built-in full-text search capabilities using whereFullText methods. Learn how to implement efficient search functionality across MariaDB, MySQL, and PostgreSQL databases with minimal configuration.
 tags:
-  - "clippings"
+  - clippings
 ---
 Laravel provides robust full-text search capabilities through the whereFullText and orWhereFullText methods, offering a more sophisticated approach to data queries compared to basic LIKE clauses.
 
