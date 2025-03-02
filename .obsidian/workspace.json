@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1728688684-resend-email-service.md",
+                "file": "Polar.sh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1728688684-resend-email-service"
+              "title": "Polar.sh"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "Polar.sh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,7 +236,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "95a47556ce99bc75",
+  "active": "15d5b88e233a6208",
   "lastOpenFiles": [
     "1728688684-resend-email-service.md",
     "Polar.sh.md",
