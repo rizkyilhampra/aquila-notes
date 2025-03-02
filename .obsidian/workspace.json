@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
+                "file": "1728688684-resend-email-service.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Type-Safe Shared Data and Page Props in Inertia.js - Laravel News"
+              "title": "1728688684-resend-email-service"
+            }
+          },
+          {
+            "id": "95a47556ce99bc75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polar.sh.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Polar.sh"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 313
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -221,17 +237,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "15d5b88e233a6208",
+  "active": "95a47556ce99bc75",
   "lastOpenFiles": [
-    "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
+    "1728688684-resend-email-service.md",
+    "Polar.sh.md",
+    "1728688673-tldraw.md",
+    "1728688664-excalidraw.md",
+    "1728688475-some-usefull-web-apps.md",
     "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
+    "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
     "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md",
     "Clippings/Getting started with Kubernetes.md",
     "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
     "Laravel News.md",
     "articles/1734123658-talking-about-laravel-and-kubernetes.md",
     "repro for git tracking existing directory.md",
-    "Untitled.md",
     "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel 1.md",
     "Clippings/Harnessing Full-Text Search in Laravel - Laravel News 1.md",
     "Telpon RSPI.md",
@@ -243,13 +263,9 @@
     "Clippings",
     "snippets/commands/Remove Executable Flag from Conflicted Files in Git.md",
     "1728526578-ab-testing.md",
-    "1728688475-some-usefull-web-apps.md",
-    "1728688673-tldraw.md",
-    "1728688684-resend-email-service.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "1729804552-neovim-plugin-development.md",
     "1730138599-dependency-for-building-cli-with-javascript.md",
-    "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
     "Excalidraw",
     "attachment/2025-01-29.png",
     "php-library/pan.png",
