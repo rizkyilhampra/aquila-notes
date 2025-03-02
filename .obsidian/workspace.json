@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
+                "file": "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News"
+              "title": "Type-Safe Shared Data and Page Props in Inertia.js - Laravel News"
             }
           }
         ]
@@ -223,11 +223,11 @@
   },
   "active": "15d5b88e233a6208",
   "lastOpenFiles": [
+    "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
     "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
     "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md",
     "Clippings/Getting started with Kubernetes.md",
     "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
-    "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
     "Laravel News.md",
     "articles/1734123658-talking-about-laravel-and-kubernetes.md",
     "repro for git tracking existing directory.md",
