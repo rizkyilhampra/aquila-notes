@@ -1,5 +1,5 @@
 # Breakdown Undangan
-![[attachment/Breakdown Undangan.png]]
+![](attachment/Breakdown-Undangan.png)
 - **Espionage/Data Theft:**
     - **Notification Monitoring (`NotificationService`, `MainActivity`):** Steals notification content from other apps and sends it to a Telegram bot. This can capture sensitive information from messaging apps, banking apps, etc.
     - **SMS Interception (`ReceiveSms`):** Intercepts all incoming SMS messages and forwards them, along with detailed device information, to the Telegram bot. This is crucial for stealing SMS-based 2-factor authentication codes (OTPs) and other sensitive information.

@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +237,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "08f9cf94b2d9def7",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
-    "attachment/Breakdown Undangan.png",
-    "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
+    "attachment/Breakdown.md",
     "Breakdown Undangan.md",
+    "attachment/Breakdown-Undangan.png",
+    "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
     "1733466869-laravel-inertia-resources.md",
     "Polar.sh.md",
     "articles/1734123658-talking-about-laravel-and-kubernetes.md",
@@ -293,7 +294,6 @@
     "\"Difference between #!/usr/bin/env bash and #!",
     "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
     "attachment/Pasted image 20240809045921.png",
-    "attachment/some cool stuff--20240809.png",
-    "attachment/Pasted image 20240809064216.png"
+    "attachment/some cool stuff--20240809.png"
   ]
 }
