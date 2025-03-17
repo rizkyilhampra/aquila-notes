@@ -12,3 +12,7 @@ git remote add origin git@github.com:it-rspi/mlite.git
 git fetch origin prod
 git checkout -b prod origin/prod
 ```
+
+```bash
+tar --exclude="upload" --exclude=".wwebjs*" -czf picare.tar.gz -C /opt/lampp/htdocs/PICare .
+```
