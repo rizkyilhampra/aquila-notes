@@ -1,10 +1,16 @@
 ---
-creation date: <% tp.file.creation_date() %>
-modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+<%*
+   let title = tp.file.title;
+   let id = tp.date.now('YYYYMMDD');
+   if (title.startsWith('Untitled')) {
+      title = await tp.system.prompt('Enter title');
+      await tp.file.rename(`${id}-${title}`);
+   }
+-%>
+id: <% tp.date.now('YYYYMMDD') %>-<%* tR += `${title}` %>
+alias: <%* tR += `${title}` %>
+tags: []
 ---
+# <%* tR += `${title}` %>
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD", 1) %>]] >>
-
-# <% tp.file.title %>
-
-<% tp.web.daily_quote() %>
+<% tp.file.cursor() %>
