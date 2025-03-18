@@ -200,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,11 +212,13 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "3d-graph-new:Global 3D Graph": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "d0d9122b63841a93",
   "lastOpenFiles": [
+    "templates",
     "202503181121.md",
     "Breakdown Undangan.md",
     "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
@@ -242,7 +245,6 @@
     "1733471063-awesome-portfolios-web-apps.md",
     "1733476131-openstatus.md",
     "1734123509-platforms-learning.md",
-    "1734320387-dosudotdev.md",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
     "Clippings",
     "Excalidraw",
