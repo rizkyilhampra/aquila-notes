@@ -50,3 +50,29 @@ They are several ways to check, but in my case I do is
 ```bash
 resolvctl
 ```
+Here is what's looks like on my host
+```txt
+Global
+           Protocols: +LLMNR +mDNS +DNSOverTLS DNSSEC=no/unsupported
+    resolv.conf mode: stub
+  Current DNS Server: 1.1.1.1#cloudflare-dns.com
+         DNS Servers: 1.1.1.1#cloudflare-dns.com 1.0.0.1#cloudflare-dns.com
+                      2606:4700:4700::1111#cloudflare-dns.com
+                      2606:4700:4700::1001#cloudflare-dns.com
+Fallback DNS Servers: 1.1.1.1#cloudflare-dns.com 9.9.9.9#dns.quad9.net
+                      8.8.8.8#dns.google 2606:4700:4700::1111#cloudflare-dns.com
+                      2620:fe::9#dns.quad9.net 2001:4860:4860::8888#dns.google
+
+Link 2 (enp1s0f1)
+    Current Scopes: none
+         Protocols: -DefaultRoute +LLMNR +mDNS +DNSOverTLS DNSSEC=no/unsupported
+     Default Route: no
+
+Link 3 (wlp2s0)
+    Current Scopes: DNS LLMNR/IPv4 LLMNR/IPv6 mDNS/IPv4 mDNS/IPv6
+         Protocols: +DefaultRoute +LLMNR +mDNS +DNSOverTLS DNSSEC=no/unsupported
+Current DNS Server: 192.168.130.196
+       DNS Servers: 192.168.130.196
+     Default Route: yes
+```
+Then do `nslookup` of blocked 
