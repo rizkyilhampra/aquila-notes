@@ -5,7 +5,7 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "0.14.0",
+  "version": "1.13.2",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {
@@ -68,7 +68,7 @@
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
-    "setVersionAfterUpdateModalRelease": false,
-    "addDefaultAIProviders": false
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
   }
 }
