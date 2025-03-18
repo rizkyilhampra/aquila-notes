@@ -2,7 +2,8 @@
 id: 1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland
 aliases:
   - Freeze or Hang Randomly on Arch Linux with Hyprland
-tags: []
+tags:
+  - linux
 ---
 
 # Freeze or Hang Randomly on Arch Linux with Hyprland

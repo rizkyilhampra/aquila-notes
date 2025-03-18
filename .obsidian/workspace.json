@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1728526578-ab-testing.md",
+                "file": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728526578-ab-testing"
+              "title": "Outline of 1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland"
             }
           },
           {
@@ -212,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -252,11 +252,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84cc22c3f0186bb3",
+  "active": "daec79f4a6730db6",
   "lastOpenFiles": [
-    "1742317908-MOLQ.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "Polar.sh.md",
+    "1739606203-linux-folder-or-file-permission.md",
+    "1739644546-downgrade-arch-linux-installed-package.md",
+    "1742317908-MOLQ.md",
     "1742316019-Setting Up DNS on My Arch Linux.md",
     "templates/main.md",
     "1742316963-test.md",
@@ -274,14 +277,11 @@
     "attachment/Breakdown.md",
     "attachment/Breakdown-Undangan.png",
     "1733466869-laravel-inertia-resources.md",
-    "Polar.sh.md",
     "articles/1734123658-talking-about-laravel-and-kubernetes.md",
     "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
     "Clippings/Getting started with Kubernetes.md",
     "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md",
     "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
-    "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
-    "awesome/repositories/1736093146-paperless-ai.md",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
     "Clippings",
     "Excalidraw",

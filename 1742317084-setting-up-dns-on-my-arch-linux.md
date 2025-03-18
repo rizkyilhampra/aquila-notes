@@ -1,11 +1,16 @@
 ---
 id: 1742317101-setting-up-dns-on-my-arch-linux
-alias: Setting Up DNS on My Arch Linux
-tags: []
+aliases:
+  - Setting Up DNS on My Arch Linux
+tags:
+  - linux
+  - dns
+  - cloudflare
+  - blocking
 ---
 # Setting Up DNS on My Arch Linux
 ## Why
-I was tried [Glance](https://github.com/glanceapp/glance) , one of the widget is [Reddit](https://www.reddit.com) which do call of the reserved IP's from reddit for getting list of top of content of subreddit. I notice my host unable to call those IP's, so that's cause I live in the country that one of the ISP blocked access to reddit. Commonly I still able connect to reddit when using browser which do through use Cloudflare as an DNS. But now I need my network host do still able connect to reddit. So this is my writing how I was able to connect to reddit but not only those thing, but I able to change and use other DNS provider.
+I was tried [Glance](https://github.com/glanceapp/glance) , one of the widget is [Reddit](https://www.reddit.com) which do call of the reserved IP's from reddit for getting list of top of content of subreddit. I notice my host unable to call those IP's, so that's cause I live in the country that one of the ISP blocked access to reddit. Commonly I still able connect to reddit when using browser which do through use Cloudflare as an DNS. But now I need my network host do able connect to reddit too. So this is my writing how I was able to connect to reddit but not only those thing, but I able to change and use other DNS provider.
 
 ## Steps
 ### Enable and start `systemd-resolved`
@@ -93,3 +98,16 @@ Name:   reddit.map.fastly.net
 Address: 151.101.193.140
 ```
 
+Then here is what's should looks like when reddit **is blocked**.
+
+```
+Server:         192.168.130.196
+Address:        192.168.130.196#53
+
+Non-authoritative answer:
+www.reddit.com  canonical name = internetpositif.ioh.co.id.
+Name:   internetpositif.ioh.co.id
+Address: 114.7.94.231
+Name:   internetpositif.ioh.co.id
+Address: 64:ff9b::7207:5ee7
+```
