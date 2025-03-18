@@ -75,7 +75,21 @@ Current DNS Server: 192.168.130.196
        DNS Servers: 192.168.130.196
      Default Route: yes
 ```
-Then do `nslookup` of blocked website, if it's didn't found the "internetpositif" thing then it's worked. Here is what's should looks like 
+Then do `nslookup` of blocked website, if it's didn't found the "internetpositif" thing then it's worked. Here is what's should looks like when reddit it's not blocked again
 
 ```
+Server:         127.0.0.53
+Address:        127.0.0.53#53
+
+Non-authoritative answer:
+www.reddit.com  canonical name = reddit.map.fastly.net.
+Name:   reddit.map.fastly.net
+Address: 151.101.1.140
+Name:   reddit.map.fastly.net
+Address: 151.101.129.140
+Name:   reddit.map.fastly.net
+Address: 151.101.65.140
+Name:   reddit.map.fastly.net
+Address: 151.101.193.140
 ```
+
