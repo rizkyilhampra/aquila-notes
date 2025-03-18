@@ -19,8 +19,8 @@
       await tp.file.rename(`${timestamp}-${suffix}`);
    }
 -%>
-id: <% tp.date.now('X') %>-<%* tR += `${title}` %>
+id: <% tp.date.now('X') %>-<%* tR += `${suffix}` %>
 alias: <%* tR += `${title}` %>
 tags: []
 ---
-# <%* tR += `${title}` %>
+# <%* tR += `${title ?? ''}` %>
