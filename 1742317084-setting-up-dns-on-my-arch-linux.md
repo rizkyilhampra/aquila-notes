@@ -75,4 +75,7 @@ Current DNS Server: 192.168.130.196
        DNS Servers: 192.168.130.196
      Default Route: yes
 ```
-Then do `nslookup` of blocked 
+Then do `nslookup` of blocked website, if it's didn't found the "internetpositif" thing then it's worked. Here is what's should looks like 
+
+```
+```
