@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0d9122b63841a93",
+            "id": "3db4cc95c3f6e025",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -216,8 +216,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0d9122b63841a93",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
+    "templates/main.md",
+    "aaa.md",
     "templates",
     "202503181121.md",
     "Breakdown Undangan.md",
@@ -244,7 +246,6 @@
     "awesome/1736148346-pangolin.md",
     "1733471063-awesome-portfolios-web-apps.md",
     "1733476131-openstatus.md",
-    "1734123509-platforms-learning.md",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
     "Clippings",
     "Excalidraw",
@@ -270,7 +271,6 @@
     "articles",
     "Awesome Repositories.md.bak",
     "\"Difference between #!/usr/bin/env bash and #!/bin",
-    "\"Difference between #!/usr/bin/env bash and #!",
     "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
     "attachment/Pasted image 20240809045921.png",
     "attachment/some cool stuff--20240809.png"
