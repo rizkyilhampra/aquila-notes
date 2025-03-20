@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breakdown Undangan.md",
+                "file": "1733466869-laravel-inertia-resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Breakdown Undangan"
+              "title": "1733466869-laravel-inertia-resources"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Breakdown Undangan.md",
+                "file": "1733466869-laravel-inertia-resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Breakdown Undangan"
+              "title": "Outline of 1733466869-laravel-inertia-resources"
             }
           },
           {
@@ -236,7 +236,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -254,14 +253,20 @@
   },
   "active": "daec79f4a6730db6",
   "lastOpenFiles": [
+    "1733471063-awesome-portfolios-web-apps.md",
+    "1729869196-git-hooks-wrapper.md",
+    "1730138599-dependency-for-building-cli-with-javascript.md",
+    "1729804552-neovim-plugin-development.md",
+    "1733476131-openstatus.md",
+    "1739644546-downgrade-arch-linux-installed-package.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "Breakdown Undangan.md",
     "repro for git tracking existing directory.md",
     "youtube.md",
     "Telpon RSPI.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "Polar.sh.md",
     "1739606203-linux-folder-or-file-permission.md",
-    "1739644546-downgrade-arch-linux-installed-package.md",
     "1742317908-MOLQ.md",
     "1742316019-Setting Up DNS on My Arch Linux.md",
     "templates/main.md",
@@ -273,15 +278,9 @@
     "aaa.md",
     "templates",
     "202503181121.md",
-    "Breakdown Undangan.md",
     "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
     "202503181120.md",
-    "attachment/Breakdown.md",
     "attachment/Breakdown-Undangan.png",
-    "1733466869-laravel-inertia-resources.md",
-    "articles/1734123658-talking-about-laravel-and-kubernetes.md",
-    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
-    "Clippings/Getting started with Kubernetes.md",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
     "Clippings",
     "Excalidraw",
