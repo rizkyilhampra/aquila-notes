@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/rspi/1742454304-picare.md",
+                "file": "1742317084-setting-up-dns-on-my-arch-linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1742454304-picare"
+              "title": "1742317084-setting-up-dns-on-my-arch-linux"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,12 +106,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -255,8 +255,8 @@
   },
   "active": "daec79f4a6730db6",
   "lastOpenFiles": [
-    "1733466869-laravel-inertia-resources.md",
     "vault-notes/rspi/1742454304-picare.md",
+    "1733466869-laravel-inertia-resources.md",
     "1733471063-awesome-portfolios-web-apps.md",
     "1729869196-git-hooks-wrapper.md",
     "1730138599-dependency-for-building-cli-with-javascript.md",
