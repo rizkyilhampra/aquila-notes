@@ -25,7 +25,7 @@ sudo systemctl start systemd-resolved.service
 ### Symlink the `/etc/resolv.conf`
 
 ```bash
-ln -sf ../run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
+sudo ln -sf ../run/systemd/resolve/stub-resolv.conf /etc/resolv.conf
 ```
 
 ### Configure the `/etc/systemd/resolved.conf`
