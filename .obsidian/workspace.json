@@ -52,8 +52,7 @@
               "title": "1742317084-setting-up-dns-on-my-arch-linux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +105,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +251,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "daec79f4a6730db6",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
+    "1742317084-setting-up-dns-on-my-arch-linux.md",
     "vault-notes/rspi/1742454304-picare.md",
     "1733466869-laravel-inertia-resources.md",
     "1733471063-awesome-portfolios-web-apps.md",
@@ -268,7 +267,6 @@
     "repro for git tracking existing directory.md",
     "youtube.md",
     "Telpon RSPI.md",
-    "1742317084-setting-up-dns-on-my-arch-linux.md",
     "Polar.sh.md",
     "1739606203-linux-folder-or-file-permission.md",
     "1742317908-MOLQ.md",
