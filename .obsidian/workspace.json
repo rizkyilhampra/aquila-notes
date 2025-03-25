@@ -67,8 +67,7 @@
               "title": "1742317084-setting-up-dns-on-my-arch-linux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,8 +266,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "467c278329e90a4f",
+  "active": "816c1480310605cc",
   "lastOpenFiles": [
+    "Breakdown Undangan.md",
     "README.md",
     "repro for git tracking existing directory.md",
     "Polar.sh.md",
@@ -286,7 +286,6 @@
     "1729804552-neovim-plugin-development.md",
     "1733476131-openstatus.md",
     "1739644546-downgrade-arch-linux-installed-package.md",
-    "Breakdown Undangan.md",
     "youtube.md",
     "Telpon RSPI.md",
     "1739606203-linux-folder-or-file-permission.md",
