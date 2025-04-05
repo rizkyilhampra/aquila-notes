@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault-notes/rspi/1742454304-picare.md",
+                "file": "1743844407-docker-compose-file-examples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1742454304-picare"
+              "title": "Outline of 1743844407-docker-compose-file-examples"
             }
           },
           {
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 272,
     "collapsed": true
   },
   "left-ribbon": {
