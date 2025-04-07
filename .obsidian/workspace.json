@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1743844407-docker-compose-file-examples.md",
+                "file": "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1743844407-docker-compose-file-examples"
+              "title": "1743987838-backup-manual-pendaftaranpasien-database"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "182583409f74c97b",
   "lastOpenFiles": [
-    "scripts/1743735338-redirect-and-sync.md",
     "1743844407-docker-compose-file-examples.md",
+    "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
+    "scripts/1743735338-redirect-and-sync.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "scripts",
     "Breakdown Undangan.md",
@@ -266,7 +267,6 @@
     "1742317908-MOLQ.md",
     "1742316019-Setting Up DNS on My Arch Linux.md",
     "1742316963-test.md",
-    "1742316951-KYDR.md",
     "templates",
     "attachment/Breakdown-Undangan.png",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
