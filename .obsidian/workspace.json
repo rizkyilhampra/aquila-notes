@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
+                "file": "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1743987838-backup-manual-pendaftaranpasien-database"
+              "title": "1744094891-change-indexresep-to-antrian-resep"
             }
           }
         ],
@@ -239,8 +239,9 @@
   },
   "active": "182583409f74c97b",
   "lastOpenFiles": [
-    "1743844407-docker-compose-file-examples.md",
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
+    "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
+    "1743844407-docker-compose-file-examples.md",
     "scripts/1743735338-redirect-and-sync.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "scripts",
@@ -266,7 +267,6 @@
     "1739606203-linux-folder-or-file-permission.md",
     "1742317908-MOLQ.md",
     "1742316019-Setting Up DNS on My Arch Linux.md",
-    "1742316963-test.md",
     "templates",
     "attachment/Breakdown-Undangan.png",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
