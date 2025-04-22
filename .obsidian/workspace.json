@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
+                "file": "vault-notes/rspi/improve backup database flow.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1744094891-change-indexresep-to-antrian-resep"
+              "title": "improve backup database flow"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "182583409f74c97b",
   "lastOpenFiles": [
-    "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
     "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
+    "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
     "1743844407-docker-compose-file-examples.md",
     "scripts/1743735338-redirect-and-sync.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
