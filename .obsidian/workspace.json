@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/rspi/log util besok hari.md",
+                "file": "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "log util besok hari"
+              "title": "1743987838-backup-manual-pendaftaranpasien-database"
             }
           }
         ],
@@ -239,9 +239,16 @@
   },
   "active": "182583409f74c97b",
   "lastOpenFiles": [
-    "vault-notes/rspi/improve backup database flow.md",
-    "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
+    "vault-notes/rspi/1742454304-picare.md",
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
+    "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
+    "vault-notes/rspi/Dockerize.md",
+    "vault-notes/rspi/Why We should Rewrite to Laravel.md",
+    "vault-notes/rspi/todos.md",
+    "vault-notes/rspi/redirect.md",
+    "vault-notes/rspi/persiapan deploy untuk besok hari.md",
+    "vault-notes/rspi/log util besok hari.md",
+    "vault-notes/rspi/improve backup database flow.md",
     "1743844407-docker-compose-file-examples.md",
     "scripts/1743735338-redirect-and-sync.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
@@ -253,7 +260,6 @@
     "Polar.sh.md",
     "1742740082-akhlakul-kharimah-dan-disiplin-diri.md",
     "attachment/Pasted image 20250323223734.png",
-    "vault-notes/rspi/1742454304-picare.md",
     "vault-notes/rspi/19-02-2025.md",
     "templates/main.md",
     "1733466869-laravel-inertia-resources.md",
@@ -261,12 +267,6 @@
     "1729869196-git-hooks-wrapper.md",
     "1730138599-dependency-for-building-cli-with-javascript.md",
     "1729804552-neovim-plugin-development.md",
-    "1733476131-openstatus.md",
-    "1739644546-downgrade-arch-linux-installed-package.md",
-    "youtube.md",
-    "Telpon RSPI.md",
-    "1739606203-linux-folder-or-file-permission.md",
-    "1742317908-MOLQ.md",
     "templates",
     "attachment/Breakdown-Undangan.png",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
