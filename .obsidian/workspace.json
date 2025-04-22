@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/rspi/improve backup database flow.md",
+                "file": "vault-notes/rspi/log util besok hari.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "improve backup database flow"
+              "title": "log util besok hari"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "182583409f74c97b",
   "lastOpenFiles": [
+    "vault-notes/rspi/improve backup database flow.md",
     "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
     "1743844407-docker-compose-file-examples.md",
@@ -266,7 +267,6 @@
     "Telpon RSPI.md",
     "1739606203-linux-folder-or-file-permission.md",
     "1742317908-MOLQ.md",
-    "1742316019-Setting Up DNS on My Arch Linux.md",
     "templates",
     "attachment/Breakdown-Undangan.png",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
