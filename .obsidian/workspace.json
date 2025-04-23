@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "1743987838-backup-manual-pendaftaranpasien-database"
             }
+          },
+          {
+            "id": "01b24c6f436a351b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +249,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "182583409f74c97b",
+  "active": "01b24c6f436a351b",
   "lastOpenFiles": [
     "vault-notes/rspi/1742454304-picare.md",
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
