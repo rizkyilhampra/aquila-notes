@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scripts/1743735338-redirect-and-sync.md",
+                "file": "2025-05-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1743735338-redirect-and-sync"
+              "title": "2025-05-01"
             }
           },
           {
@@ -43,17 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/cpns/Pilar Negara.md",
+                "file": "vault-notes/rspi/redirect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pilar Negara"
+              "title": "redirect"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,20 +251,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01b24c6f436a351b",
+  "active": "84cc22c3f0186bb3",
   "lastOpenFiles": [
-    "vault-notes/rspi/1742454304-picare.md",
+    "scripts/1743735338-redirect-and-sync.md",
+    "2025-05-01.md",
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
+    "vault-notes/rspi/redirect.md",
+    "vault-notes/rspi/persiapan deploy untuk besok hari.md",
+    "vault-notes/cpns/Korupsi.md",
+    "vault-notes/cpns/Bela Negara.md",
+    "vault-notes/cpns/Pilar Negara.md",
+    "vault-notes/rspi/1742454304-picare.md",
     "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
     "vault-notes/rspi/Dockerize.md",
     "vault-notes/rspi/Why We should Rewrite to Laravel.md",
     "vault-notes/rspi/todos.md",
-    "vault-notes/rspi/redirect.md",
-    "vault-notes/rspi/persiapan deploy untuk besok hari.md",
     "vault-notes/rspi/log util besok hari.md",
     "vault-notes/rspi/improve backup database flow.md",
     "1743844407-docker-compose-file-examples.md",
-    "scripts/1743735338-redirect-and-sync.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "scripts",
     "Breakdown Undangan.md",
@@ -278,10 +281,6 @@
     "vault-notes/rspi/19-02-2025.md",
     "templates/main.md",
     "1733466869-laravel-inertia-resources.md",
-    "1733471063-awesome-portfolios-web-apps.md",
-    "1729869196-git-hooks-wrapper.md",
-    "1730138599-dependency-for-building-cli-with-javascript.md",
-    "1729804552-neovim-plugin-development.md",
     "templates",
     "attachment/Breakdown-Undangan.png",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
