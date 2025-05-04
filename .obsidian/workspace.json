@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rspi",
+                "query": "disc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,7 +237,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "182583409f74c97b",
+  "active": "05ea27116dfd5e6d",
   "lastOpenFiles": [
     "1746299677-discharge-planning.md",
     "1743844407-docker-compose-file-examples.md",
