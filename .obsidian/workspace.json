@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/main.md",
+                "file": "dailies/2025-01-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "main"
+              "title": "2025-01-28"
             }
           }
         ],
@@ -239,9 +239,12 @@
   },
   "active": "01b24c6f436a351b",
   "lastOpenFiles": [
-    "2025-05-08.md",
+    "dailies/Untitled.md",
+    "1746719238-TEDT.md",
     "dailies/2025-01-28.md",
     "dailies/2025-01-29.md",
+    "templates/main.md",
+    "2025-05-08.md",
     "Breakdown Undangan.md",
     "Polar.sh.md",
     "1743844407-docker-compose-file-examples.md",
@@ -262,10 +265,7 @@
     "vault-notes/rspi/Why We should Rewrite to Laravel.md",
     "vault-notes/rspi/todos.md",
     "vault-notes/rspi/log util besok hari.md",
-    "vault-notes/rspi/improve backup database flow.md",
-    "1742317084-setting-up-dns-on-my-arch-linux.md",
     "scripts",
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "attachment/Pasted image 20250323223734.png",
     "templates",
     "attachment/Breakdown-Undangan.png",
