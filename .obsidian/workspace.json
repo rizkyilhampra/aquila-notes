@@ -106,8 +106,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,13 +252,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d99f13fb32371201",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
-    "1746381051-discharge-planning.md",
+    "vault-notes/rspi/redirect.md",
     "1743844407-docker-compose-file-examples.md",
+    "1746381051-discharge-planning.md",
     "1746299677-discharge-planning.md",
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
-    "vault-notes/rspi/redirect.md",
     "1746156600-.md",
     "2025-05-01.md",
     "scripts/1743735338-redirect-and-sync.md",
