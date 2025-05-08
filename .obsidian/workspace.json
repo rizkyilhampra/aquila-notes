@@ -28,32 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault-notes/rspi/redirect.md",
+                "file": "2025-05-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "redirect"
-            }
-          },
-          {
-            "id": "d99f13fb32371201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1746381051-discharge-planning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "1746381051-discharge-planning"
+              "title": "2025-05-08"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,11 +237,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "01b24c6f436a351b",
   "lastOpenFiles": [
-    "vault-notes/rspi/redirect.md",
+    "Breakdown Undangan.md",
+    "2025-05-08.md",
+    "Polar.sh.md",
     "1743844407-docker-compose-file-examples.md",
     "1746381051-discharge-planning.md",
+    "vault-notes/rspi/redirect.md",
     "1746299677-discharge-planning.md",
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
     "1746156600-.md",
@@ -275,12 +263,9 @@
     "vault-notes/rspi/improve backup database flow.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "scripts",
-    "Breakdown Undangan.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "README.md",
     "repro for git tracking existing directory.md",
-    "Polar.sh.md",
-    "1742740082-akhlakul-kharimah-dan-disiplin-diri.md",
     "attachment/Pasted image 20250323223734.png",
     "templates",
     "attachment/Breakdown-Undangan.png",
