@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-05-08.md",
+                "file": "course-notes/1746720943-python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-08"
+              "title": "1746720943-python"
             }
           }
         ]
@@ -233,6 +233,8 @@
   "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
     "dailies/2025-05-08.md",
+    "course-notes/1746720943-python.md",
+    "course-notes",
     "dailies/2025-01-28.md",
     "1743844407-docker-compose-file-examples.md",
     "dailies/Untitled.md",
@@ -257,7 +259,6 @@
     "vault-notes/rspi/1744094891-change-indexresep-to-antrian-resep.md",
     "vault-notes/rspi/Dockerize.md",
     "vault-notes/rspi/Why We should Rewrite to Laravel.md",
-    "vault-notes/rspi/todos.md",
     "scripts",
     "attachment/Pasted image 20250323223734.png",
     "templates",
@@ -285,7 +286,6 @@
     "awesome/repositories",
     "awesome",
     "articles",
-    "Awesome Repositories.md.bak",
     "Excalidraw/Drawing 2024-10-10 09.39.39.excalidraw.png",
     "attachment/Pasted image 20240809045921.png"
   ]
