@@ -22,7 +22,7 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "^[^/]+$",
+      "regex": "^(?!dailies/).*",
       "template": "templates/main.md"
     }
   ],
