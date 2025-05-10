@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-05-10.md",
+                "file": "snippets/commands/docker/standalone database container.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-10"
+              "title": "standalone database container"
             }
           }
         ]
@@ -231,10 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05ea27116dfd5e6d",
+  "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
-    "course-notes/1746720943-python.md",
     "dailies/2025-05-10.md",
+    "course-notes/1746720943-python.md",
     "dailies/2025-05-08.md",
     "course-notes",
     "dailies/2025-01-28.md",
