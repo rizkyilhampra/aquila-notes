@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d09e9cecb5c396fa",
+  "active": "05ea27116dfd5e6d",
   "lastOpenFiles": [
     "course-notes/1746720943-python.md",
     "dailies/2025-05-10.md",
