@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/commands/docker/standalone database container.md",
+                "file": "dailies/2025-05-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "standalone database container"
+              "title": "2025-05-10"
             }
           }
         ]
@@ -233,13 +233,13 @@
   },
   "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
+    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
+    "snippets/commands/docker/standalone database container.md",
     "vault-notes/rspi/Dockerize.md",
     "1743844407-docker-compose-file-examples.md",
-    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
-    "snippets/commands/docker/standalone database container.md",
     "dailies/2025-05-10.md",
     "course-notes/1746720943-python.md",
     "dailies/2025-05-08.md",
