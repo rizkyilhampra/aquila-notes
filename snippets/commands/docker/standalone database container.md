@@ -21,3 +21,22 @@ docker run -d \
   --health-timeout=10s \
   mariadb:10.1.25
 ```
+
+```bash
+docker run -d \
+  --name my-shared-mariadb \
+  --network shared-database-network \
+  --restart unless-stopped \
+  -v mariadb_data_volume:/var/lib/mysql \
+  # Or your host mount: -v /path/to/your/host/data:/var/lib/mysql \
+  -e MYSQL_ROOT_PASSWORD="your_strong_root_password" \
+  -e MYSQL_DATABASE="default_app_db" \
+  -e MYSQL_USER="default_app_user" \
+  -e MYSQL_PASSWORD="default_app_user_password" \
+  -p 3306:3306 \ 
+  --health-cmd="mysqladmin ping -h 127.0.0.1 -u root -p$$MYSQL_ROOT_PASSWORD" \
+  --health-interval=30s \
+  --health-retries=3 \
+  --health-timeout=10s \
+  mariadb:10.11 # Or your desired version (prefer LTS or stable recent)
+```
