@@ -24,6 +24,20 @@ docker run -d \
 
 ```bash
 docker run -d \
+  --name mariadb-rspi-database \
+  --network mariadb-rspi-database-network \
+  --restart unless-stopped \
+  -v mariadb-rspi-database-volume:/var/lib/mysql \
+  -p 3306:3306 \
+  --health-cmd="mysqladmin ping -h 127.0.0.1" \
+  --health-interval=30s \
+  --health-retries=3 \
+  --health-timeout=10s \
+  mariadb:10.1.25
+```
+
+```bash
+docker run -d \
   --name my-shared-mariadb \
   --network shared-database-network \
   --restart unless-stopped \
