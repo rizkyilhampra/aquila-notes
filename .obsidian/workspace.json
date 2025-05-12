@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neovim/1728601004-indonesian-spell-check-neovim.md",
+                "file": "1734320387-dosudotdev.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728601004-indonesian-spell-check-neovim"
+              "title": "1734320387-dosudotdev"
             }
           }
         ]
@@ -232,6 +232,7 @@
   },
   "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
+    "neovim/1728601004-indonesian-spell-check-neovim.md",
     "dailies/2025-05-12.md",
     "dailies/2025-05-10.md",
     "snippets/commands/docker/standalone database container.md",
@@ -258,7 +259,6 @@
     "vault-notes/rspi/1743987838-backup-manual-pendaftaranpasien-database.md",
     "1746156600-.md",
     "2025-05-01.md",
-    "scripts/1743735338-redirect-and-sync.md",
     "scripts",
     "attachment/Pasted image 20250323223734.png",
     "templates",
