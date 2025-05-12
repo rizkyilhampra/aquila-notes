@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
+                "file": "cheatsheets/tar gzip compression of folder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1736003618-create-a-single-container-to-estimate-the-database-size"
+              "title": "tar gzip compression of folder"
             }
           }
         ]
@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "cheatsheets/tar gzip compression of folder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of tar gzip compression of folder"
             }
           },
           {
@@ -228,8 +229,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a214e7fa18a1d6e5",
+  "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
+    "cheatsheets/1747073827-tar.md",
+    "cheatsheets/tar gzip compression of folder.md",
+    "cheatsheets/1747073738-mv.md",
+    "cheatsheets/1747073694-curl.md",
+    "cheatsheets/1736135014-clone-private-repository.md",
+    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
+    "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
+    "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
+    "cheatsheets/1747073820-PRBP.md",
+    "cheatsheets/tar gzip uncompress to spesific folder.md",
+    "cheatsheets/Samba.md",
+    "cheatsheets/git ignore permission changed.md",
+    "cheatsheets/Check Network Driver Used.md",
+    "cheatsheets/1747073553-move-command-with-include-the-dotfile.md",
+    "cheatsheets/curl.md",
+    "cheatsheets/1747073635-download-a-file-from-a-url-with-keep-the-original-file-name-and-follow-redirects.md",
+    "cheatsheets/lazysql.md",
+    "cheatsheets/move command.md",
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
     "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
@@ -238,24 +257,6 @@
     "1728688475-some-usefull-web-apps.md",
     "1730797330-chart-db.md",
     "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
-    "1742317084-setting-up-dns-on-my-arch-linux.md",
-    "awesome/1736092179-awesome-repositories.md",
-    "dotfiles/1736090627-dotfiles.md",
-    "vault-notes/dailies/2024-10-24.md",
-    "awesome/repositories/1734123069-ascii-image-converter.md",
-    "awesome/repositories/1736091752-chrono-mind.md",
-    "awesome/repositories/1736091960-gsh.md",
-    "awesome/repositories/1736148346-pangolin.md",
-    "awesome/repositories/1736092466-browser-use.md",
-    "awesome/repositories/1736091276-streamyfin.md",
-    "1728526578-ab-testing.md",
-    "1739606203-linux-folder-or-file-permission.md",
-    "1739644546-downgrade-arch-linux-installed-package.md",
-    "1734123509-platforms-learning.md",
-    "1733476131-openstatus.md",
-    "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md",
-    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
     "course-notes",
     "scripts",
     "attachment/Pasted image 20250323223734.png",

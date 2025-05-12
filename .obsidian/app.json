@@ -3,7 +3,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "promptDelete": false,
   "showUnsupportedFiles": true,
   "newLinkFormat": "absolute",
