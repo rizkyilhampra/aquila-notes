@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awesome/repositories/1736091752-chrono-mind.md",
+                "file": "awesome/repositories/1734123069-ascii-image-converter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1736091752-chrono-mind"
+              "title": "1734123069-ascii-image-converter"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awesome/repositories/1736091752-chrono-mind.md",
+                "file": "awesome/repositories/1734123069-ascii-image-converter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1736091752-chrono-mind"
+              "title": "Outline of 1734123069-ascii-image-converter"
             }
           },
           {
@@ -231,14 +231,19 @@
   },
   "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
-    "awesome/repositories/1736091960-gsh.md",
-    "awesome/repositories/1736093146-paperless-ai.md",
-    "awesome/repositories/1736148346-pangolin.md",
+    "awesome/repositories/1736091276-streamyfin.md",
     "awesome/repositories/1736092466-browser-use.md",
-    "awesome/repositories/1736091752-chrono-mind.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "1739644546-downgrade-arch-linux-installed-package.md",
     "awesome/repositories/1734123006-vhs.md",
     "awesome/repositories/1734123069-ascii-image-converter.md",
-    "awesome/repositories/1736091276-streamyfin.md",
+    "awesome/repositories/1736091752-chrono-mind.md",
+    "awesome/repositories/1736093146-paperless-ai.md",
+    "awesome/repositories/1736091960-gsh.md",
+    "neovim/1747056391-unable-to-download-spell-file-even-had-enable-netrw.md",
+    "neovim/1728601745-neovim.md",
+    "articles/1734123658-talking-about-laravel-and-kubernetes.md",
+    "awesome/repositories/1736148346-pangolin.md",
     "awesome/1736092179-awesome-repositories.md",
     "1730797330-chart-db.md",
     "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
@@ -247,16 +252,11 @@
     "1733471063-awesome-portfolios-web-apps.md",
     "1733476131-openstatus.md",
     "1734123509-platforms-learning.md",
-    "1739644546-downgrade-arch-linux-installed-package.md",
     "1739606203-linux-folder-or-file-permission.md",
     "1734320387-dosudotdev.md",
     "awesome/1747060301-advcpmv.md",
     "neovim/1728601004-indonesian-spell-check-neovim.md",
-    "neovim/1747056391-unable-to-download-spell-file-even-had-enable-netrw.md",
     "1743844407-docker-compose-file-examples.md",
-    "1742317084-setting-up-dns-on-my-arch-linux.md",
-    "1742740082-akhlakul-kharimah-dan-disiplin-diri.md",
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "course-notes",
     "scripts",
     "attachment/Pasted image 20250323223734.png",

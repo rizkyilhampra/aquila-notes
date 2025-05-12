@@ -4,7 +4,6 @@ aliases:
   - Unable to download spell file even had enable netrw
 tags:
   - neovim
-  - spell
   - workaround
 ---
 # Unable to download spell file even had enable netrw
@@ -20,3 +19,6 @@ set spelllang=en,id
 ```
 
 > If `id` is the spell you want to use or download  
+
+---
+Source: https://www.reddit.com/r/neovim/comments/yi6e4a/comment/iuhlvwt/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
