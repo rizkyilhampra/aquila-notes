@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "awesome/repositories/1734123069-ascii-image-converter.md",
+                "file": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1734123069-ascii-image-converter"
+              "title": "1736003618-create-a-single-container-to-estimate-the-database-size"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "awesome",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "awesome/repositories/1734123069-ascii-image-converter.md",
+                "file": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1734123069-ascii-image-converter"
+              "title": "Outline of 1736003618-create-a-single-container-to-estimate-the-database-size"
             }
           },
           {
@@ -231,6 +231,20 @@
   },
   "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
+    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
+    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
+    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
+    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
+    "1733471063-awesome-portfolios-web-apps.md",
+    "1728688475-some-usefull-web-apps.md",
+    "1730797330-chart-db.md",
+    "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "1742317084-setting-up-dns-on-my-arch-linux.md",
+    "awesome/1736092179-awesome-repositories.md",
+    "dotfiles/1736090627-dotfiles.md",
+    "vault-notes/dailies/2024-10-24.md",
+    "awesome/repositories/1734123069-ascii-image-converter.md",
     "awesome/repositories/1736091752-chrono-mind.md",
     "awesome/repositories/1736091960-gsh.md",
     "awesome/repositories/1736148346-pangolin.md",
@@ -241,22 +255,8 @@
     "1739644546-downgrade-arch-linux-installed-package.md",
     "1734123509-platforms-learning.md",
     "1733476131-openstatus.md",
-    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
-    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
-    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md",
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
-    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
-    "snippets/commands/Remove Executable Flag from Conflicted Files in Git.md",
-    "snippets/commands/docker/standalone database container.md",
-    "awesome/repositories/1747060301-advcpmv.md",
-    "awesome/repositories/1736093146-paperless-ai.md",
-    "templates/main.md",
-    "awesome/repositories/1734123069-ascii-image-converter.md",
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
-    "awesome/repositories/1734123006-vhs.md",
-    "neovim/1747056391-unable-to-download-spell-file-even-had-enable-netrw.md",
     "course-notes",
     "scripts",
     "attachment/Pasted image 20250323223734.png",
