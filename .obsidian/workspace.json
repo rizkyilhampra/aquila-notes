@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1736003618-create-a-single-container-to-estimate-the-database-size"
+              "title": "Outline"
             }
           },
           {
@@ -229,12 +228,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d09e9cecb5c396fa",
+  "active": "a214e7fa18a1d6e5",
   "lastOpenFiles": [
+    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
     "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
-    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "1733471063-awesome-portfolios-web-apps.md",
     "1728688475-some-usefull-web-apps.md",
     "1730797330-chart-db.md",
