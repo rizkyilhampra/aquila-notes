@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-05-10.md",
+                "file": "neovim/1728601004-indonesian-spell-check-neovim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-10"
+              "title": "1728601004-indonesian-spell-check-neovim"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,8 +232,9 @@
   },
   "active": "d09e9cecb5c396fa",
   "lastOpenFiles": [
-    "snippets/commands/docker/standalone database container.md",
+    "dailies/2025-05-12.md",
     "dailies/2025-05-10.md",
+    "snippets/commands/docker/standalone database container.md",
     "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "vault-notes/rspi/Dockerize.md",
     "1743844407-docker-compose-file-examples.md",
@@ -259,7 +259,6 @@
     "1746156600-.md",
     "2025-05-01.md",
     "scripts/1743735338-redirect-and-sync.md",
-    "vault-notes/rspi/persiapan deploy untuk besok hari.md",
     "scripts",
     "attachment/Pasted image 20250323223734.png",
     "templates",
