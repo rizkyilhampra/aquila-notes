@@ -10,5 +10,6 @@
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachment",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "focusNewTab": true
 }
