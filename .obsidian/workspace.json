@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neovim/1747056391-unable-to-download-spell-file-even-had-enable-netrw.md",
+                "file": "neovim/1728601004-indonesian-spell-check-neovim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1747056391-unable-to-download-spell-file-even-had-enable-netrw"
+              "title": "1728601004-indonesian-spell-check-neovim"
             }
           }
         ]
@@ -230,10 +230,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d09e9cecb5c396fa",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
-    "neovim/1728601004-indonesian-spell-check-neovim.md",
     "neovim/1747056391-unable-to-download-spell-file-even-had-enable-netrw.md",
+    "neovim/1728601004-indonesian-spell-check-neovim.md",
+    "1743844407-docker-compose-file-examples.md",
+    "1742317084-setting-up-dns-on-my-arch-linux.md",
+    "1742740082-akhlakul-kharimah-dan-disiplin-diri.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "1728688475-some-usefull-web-apps.md",
     "1734320387-dosudotdev.md",
     "dailies/2025-05-12.md",
@@ -241,7 +245,6 @@
     "snippets/commands/docker/standalone database container.md",
     "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "vault-notes/rspi/Dockerize.md",
-    "1743844407-docker-compose-file-examples.md",
     "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
@@ -256,9 +259,6 @@
     "2025-05-08.md",
     "Breakdown Undangan.md",
     "Polar.sh.md",
-    "1746381051-discharge-planning.md",
-    "vault-notes/rspi/redirect.md",
-    "1746299677-discharge-planning.md",
     "scripts",
     "attachment/Pasted image 20250323223734.png",
     "templates",

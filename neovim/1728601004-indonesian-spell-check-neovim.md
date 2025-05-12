@@ -2,7 +2,8 @@
 id: 1728601004-indonesian-spell-check-neovim
 aliases:
   - Indonesian Spell Check Neovim
-tags: []
+tags:
+  - neovim
 ---
 # Indonesian Spell Check [[1728601745-neovim|Neovim]]
 
