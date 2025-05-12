@@ -2,7 +2,9 @@
 id: 1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file
 aliases:
   - Backup a large MySQL MariaDB database to a GZIP file
-tags: []
+tags:
+  - docker
+  - mysql
 ---
 
 # Backup a large MySQL MariaDB database to a GZIP file

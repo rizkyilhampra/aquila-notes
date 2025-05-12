@@ -1,8 +1,12 @@
 ---
-id: Remove Executable Flag from Conflicted Files in Git
-aliases: []
-tags: []
+id: 1747061746-remove-executable-flag-from-conflicted-files-in-git
+aliases:
+  - Remove Executable Flag from Conflicted Files in Git
+tags:
+  - git
+  - tipsandtrick
 ---
+# Remove Executable Flag from Conflicted Files in Git
 
 This command chain removes the executable permission flag from files that are currently in a merge conflict state in a Git repository.
 

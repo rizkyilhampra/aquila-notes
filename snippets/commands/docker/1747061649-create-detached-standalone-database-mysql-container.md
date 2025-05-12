@@ -1,8 +1,12 @@
 ---
-id: standalone database container
-aliases: []
-tags: []
+id: 1747061684-create-detached-standalone-database-mysql-container
+aliases:
+  - create detached standalone database (mysql) container
+tags:
+  - mysql
+  - docker
 ---
+# Create detached standalone database (mysql) container
 
 Creates a reliable, networked MariaDB container that runs on a custom Docker network. It ensures the database remains operational with data persistence, automatic restarts, and regular health checks to monitor its status.
 

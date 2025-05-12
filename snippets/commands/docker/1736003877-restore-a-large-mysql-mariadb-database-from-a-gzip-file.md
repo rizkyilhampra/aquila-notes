@@ -2,7 +2,9 @@
 id: 1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file
 aliases:
   - Restore a large MySQL MariaDB database from a GZIP file
-tags: []
+tags:
+  - mysql
+  - docker
 ---
 
 # Restore a large MySQL MariaDB database from a GZIP file

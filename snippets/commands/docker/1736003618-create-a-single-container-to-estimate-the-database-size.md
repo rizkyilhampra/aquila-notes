@@ -2,7 +2,9 @@
 id: 1736003618-create-a-single-container-to-estimate-the-database-size
 aliases:
   - Create a single container to estimate the database size
-tags: []
+tags:
+  - docker
+  - mysql
 ---
 
 # Create a single container to estimate the database size

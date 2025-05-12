@@ -2,7 +2,9 @@
 id: 1736003661-create-a-single-detached-container
 aliases:
   - Create a single detached container
-tags: []
+tags:
+  - docker
+  - mysql
 ---
 
 # Create a single detached container
