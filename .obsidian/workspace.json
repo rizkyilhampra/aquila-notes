@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan"
             }
+          },
+          {
+            "id": "b7c8ccee489b5c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
+                "file": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan"
+              "title": "Outline of 1747146392-making-a-wsl2-web-service-accessible-on-the-local-network"
             }
           },
           {
@@ -288,8 +312,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "916f46ee38c0615a",
+  "active": "b7c8ccee489b5c6c",
   "lastOpenFiles": [
+    "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
     "1747143035-XYME.md",
     "attachment/Pasted image 20250323223734.png",
@@ -320,7 +345,6 @@
     "awesome/repositories/1736148346-pangolin.md",
     "cheatsheets/1747073827-tar.md",
     "cheatsheets/1747073694-curl.md",
-    "cheatsheets/1747073738-mv.md",
     "course-notes",
     "scripts",
     "templates",
