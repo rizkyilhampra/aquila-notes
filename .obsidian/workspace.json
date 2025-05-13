@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1728351874-function-to-sanitize-indonesian-currency-format.md",
+                "file": "dailies/2025-05-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728351874-function-to-sanitize-indonesian-currency-format"
+              "title": "2025-05-13"
+            }
+          },
+          {
+            "id": "dd40230fd1c53a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1728351874-function-to-sanitize-indonesian-currency-format.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728351874-function-to-sanitize-indonesian-currency-format"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -200,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -239,10 +264,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08f9cf94b2d9def7",
+  "active": "dd40230fd1c53a53",
   "lastOpenFiles": [
-    "awesome/repositories/1736091276-streamyfin.md",
+    "dailies/2025-05-13.md",
+    "Untitled.md",
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
+    "awesome/repositories/1736091276-streamyfin.md",
     "awesome/repositories/1734123069-ascii-image-converter.md",
     "awesome/repositories/1734123006-vhs.md",
     "awesome/repositories/1736092466-browser-use.md",
@@ -265,8 +292,6 @@
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
     "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
-    "cheatsheets/1747073820-PRBP.md",
-    "cheatsheets/tar gzip uncompress to spesific folder.md",
     "course-notes",
     "scripts",
     "attachment/Pasted image 20250323223734.png",
