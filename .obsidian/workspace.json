@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1747143035-XYME"
             }
+          },
+          {
+            "id": "916f46ee38c0615a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1747143035-XYME.md",
+                "file": "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1747143035-XYME"
+              "title": "Outline of 1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan"
             }
           },
           {
@@ -264,11 +288,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd40230fd1c53a53",
+  "active": "916f46ee38c0615a",
   "lastOpenFiles": [
+    "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
+    "1747143035-XYME.md",
     "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
-    "1747143035-XYME.md",
     "Breakdown Undangan.md",
     "Polar.sh.md",
     "attachment/Breakdown-Undangan.png",
