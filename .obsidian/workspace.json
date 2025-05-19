@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1747143035-XYME.md",
+                "file": "Breakdown Undangan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1747143035-XYME"
-            }
-          },
-          {
-            "id": "916f46ee38c0615a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan"
+              "title": "Breakdown Undangan"
             }
           },
           {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+                "file": "1728526578-ab-testing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network"
+              "title": "1728526578-ab-testing"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -233,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+                "file": "1728526578-ab-testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1747146392-making-a-wsl2-web-service-accessible-on-the-local-network"
+              "title": "Outline of 1728526578-ab-testing"
             }
           },
           {
@@ -314,12 +290,14 @@
   },
   "active": "b7c8ccee489b5c6c",
   "lastOpenFiles": [
+    "1728526878-multivariate-testing.md",
+    "dailies/2025-05-19.md",
     "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
-    "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
     "1747143035-XYME.md",
+    "Breakdown Undangan.md",
+    "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
     "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
-    "Breakdown Undangan.md",
     "Polar.sh.md",
     "attachment/Breakdown-Undangan.png",
     "attachment/Pasted image 20240802232142.png",
@@ -343,8 +321,6 @@
     "awesome/repositories/1736093146-paperless-ai.md",
     "awesome/repositories/1736091752-chrono-mind.md",
     "awesome/repositories/1736148346-pangolin.md",
-    "cheatsheets/1747073827-tar.md",
-    "cheatsheets/1747073694-curl.md",
     "course-notes",
     "scripts",
     "templates",

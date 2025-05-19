@@ -48,8 +48,6 @@ Run this in PowerShell (as Administrator):
 Set-NetFirewallHyperVVMSetting -Name '{40E0AC32-46A5-438A-A0B2-2B479E8F2E90}' -DefaultInboundAction Allow
 ```
 
-> **Note:** This step might not be needed. The firewall rule in Step 1 usually does the job. Try it only if you still have issues.
-
 ## Useful Resources
 
 - [Windows WSL Networking Documentation](https://learn.microsoft.com/en-us/windows/wsl/networking)
