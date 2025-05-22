@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42d73cea8eea3c43",
+        "id": "10e140dcb7b075ad",
         "type": "tabs",
         "children": [
           {
-            "id": "66cf54631a798997",
+            "id": "4a8ac5efb6460277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-05-13.md",
+                "file": "dailies/2025-05-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-13"
-            }
-          },
-          {
-            "id": "dd40230fd1c53a53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Breakdown Undangan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Breakdown Undangan"
-            }
-          },
-          {
-            "id": "b7c8ccee489b5c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1734320387-dosudotdev.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1734320387-dosudotdev"
+              "title": "2025-05-23"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "awesome",
+                "query": "panphp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1734320387-dosudotdev.md",
+                "file": "dailies/2025-05-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1734320387-dosudotdev"
+              "title": "Outline of 2025-05-23"
             }
           },
           {
@@ -288,12 +239,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7c8ccee489b5c6c",
+  "active": "4a8ac5efb6460277",
   "lastOpenFiles": [
+    "dailies/2025-05-23.md",
+    "php-library/pan.md",
+    "Breakdown Undangan.md",
+    "dailies/2025-05-13.md",
+    "1728526878-multivariate-testing.md",
+    "1734320387-dosudotdev.md",
     "1728688475-some-usefull-web-apps.md",
     "1733471063-awesome-portfolios-web-apps.md",
     "1734123509-platforms-learning.md",
-    "1734320387-dosudotdev.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
@@ -306,21 +262,16 @@
     "1739606203-linux-folder-or-file-permission.md",
     "1733476131-openstatus.md",
     "1728526578-ab-testing.md",
-    "1728526878-multivariate-testing.md",
     "dailies/2025-05-19.md",
     "1747143035-XYME.md",
-    "Breakdown Undangan.md",
     "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
     "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
     "Polar.sh.md",
     "attachment/Breakdown-Undangan.png",
     "attachment/Pasted image 20240802232142.png",
-    "dailies/2025-05-13.md",
     "attachment/Pasted image 20250513214012.png",
     "1739644546-downgrade-arch-linux-installed-package.md",
-    "1728351874-function-to-sanitize-indonesian-currency-format.md",
-    "awesome/repositories/1736091276-streamyfin.md",
     "course-notes",
     "scripts",
     "templates",
