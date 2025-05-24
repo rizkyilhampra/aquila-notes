@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "10e140dcb7b075ad",
+        "id": "9c937dbaa4603f19",
         "type": "tabs",
         "children": [
           {
-            "id": "4a8ac5efb6460277",
+            "id": "c91a555ba53ccf4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/2025-05-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-23"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "panphp",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +80,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/2025-05-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-23"
+              "title": "Outline"
             }
           },
           {
@@ -190,7 +176,7 @@
             }
           },
           {
-            "id": "24565610de99b081",
+            "id": "b1a2eceb1be69d46",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -239,12 +225,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a8ac5efb6460277",
+  "active": "05ea27116dfd5e6d",
   "lastOpenFiles": [
+    "dailies/2025-05-10.md",
     "dailies/2025-05-23.md",
+    "dailies/2025-05-12.md",
+    "dailies/2025-05-13.md",
+    "dailies/2025-05-19.md",
     "php-library/pan.md",
     "Breakdown Undangan.md",
-    "dailies/2025-05-13.md",
     "1728526878-multivariate-testing.md",
     "1734320387-dosudotdev.md",
     "1728688475-some-usefull-web-apps.md",
@@ -262,16 +251,13 @@
     "1739606203-linux-folder-or-file-permission.md",
     "1733476131-openstatus.md",
     "1728526578-ab-testing.md",
-    "dailies/2025-05-19.md",
     "1747143035-XYME.md",
     "1747145934-exposing-a-wsl2-hosted-web-service-to-other-machines-on-your-lan.md",
     "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
-    "Polar.sh.md",
     "attachment/Breakdown-Undangan.png",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250513214012.png",
-    "1739644546-downgrade-arch-linux-installed-package.md",
     "course-notes",
     "scripts",
     "templates",
