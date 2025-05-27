@@ -80,8 +80,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,7 +224,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05ea27116dfd5e6d",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "dailies/2025-05-10.md",
     "dailies/2025-05-23.md",
