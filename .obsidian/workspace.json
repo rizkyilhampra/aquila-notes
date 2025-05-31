@@ -245,10 +245,11 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c91a555ba53ccf4a",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "vault-notes/test.md",
     "vault-notes/some cool stuff.md",
