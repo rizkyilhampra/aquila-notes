@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "1749374600-execute-sql-migration-script-inside-mysql-docker-container",
+      "path": "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md"
+    },
+    {
+      "basename": "1736003618-create-a-single-container-to-estimate-the-database-size",
+      "path": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md"
+    },
+    {
+      "basename": "1736003661-create-a-single-detached-container",
+      "path": "snippets/commands/docker/1736003661-create-a-single-detached-container.md"
+    },
+    {
+      "basename": "1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file",
+      "path": "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md"
+    },
+    {
+      "basename": "1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file",
+      "path": "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md"
+    },
+    {
+      "basename": "1747061744-remove-executable-flag-from-conflicted-files-in-git",
+      "path": "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md"
+    },
+    {
+      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
+      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
+    },
+    {
+      "basename": "1747061649-create-detached-standalone-database-mysql-container",
+      "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
+    },
+    {
+      "basename": "1748684577-create-file-with-timestamp",
+      "path": "snippets/commands/1748684577-create-file-with-timestamp.md"
+    },
+    {
       "basename": "2025-05-27",
       "path": "dailies/2025-05-27.md"
     },
