@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "1756048327-zustand"
             }
+          },
+          {
+            "id": "dd87d8835f9f3189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpns/pilar-negara/Pancasila.md",
+                "file": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pancasila"
+              "title": "Outgoing links from 1756052446-deployment-of-spdhtc-using-existing-backup-database-file"
             }
           },
           {
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnings/1756048327-zustand.md",
+                "file": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1756048327-zustand"
+              "title": "Outline of 1756052446-deployment-of-spdhtc-using-existing-backup-database-file"
             }
           },
           {
@@ -225,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -245,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,11 +288,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8b8f057b23801b9",
+  "active": "08f9cf94b2d9def7",
   "lastOpenFiles": [
+    "learnings/1756048327-zustand.md",
+    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "learnings",
     "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
-    "learnings/1756048327-zustand.md",
     "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md",
     "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md",
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
@@ -321,7 +345,6 @@
     "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png",
     "repositories",
     "awesome/repositories",
-    "awesome",
-    "articles"
+    "awesome"
   ]
 }
