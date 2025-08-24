@@ -5,6 +5,10 @@
       "path": "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md"
     },
     {
+      "basename": "1747061649-create-detached-standalone-database-mysql-container",
+      "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
+    },
+    {
       "basename": "1736003618-create-a-single-container-to-estimate-the-database-size",
       "path": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
       "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
-    },
-    {
-      "basename": "1747061649-create-detached-standalone-database-mysql-container",
-      "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
     },
     {
       "basename": "1748684577-create-file-with-timestamp",
