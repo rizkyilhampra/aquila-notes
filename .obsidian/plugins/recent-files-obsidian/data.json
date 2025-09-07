@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
+      "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
+    },
+    {
       "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
       "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
     },
     {
-      "basename": "1756048327-zustand",
-      "path": "learnings/1756048327-zustand.md"
+      "basename": "1730797330-chart-db",
+      "path": "1730797330-chart-db.md"
     },
     {
-      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
-      "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
+      "basename": "1756048327-zustand",
+      "path": "learnings/1756048327-zustand.md"
     },
     {
       "basename": "1749374600-execute-sql-migration-script-inside-mysql-docker-container",
@@ -185,20 +189,8 @@
       "path": "1732264756-how-to-combine-two-repository-with-unrelated-history.md"
     },
     {
-      "basename": "1730797330-chart-db",
-      "path": "1730797330-chart-db.md"
-    },
-    {
       "basename": "1736093146-paperless-ai",
       "path": "awesome/repositories/1736093146-paperless-ai.md"
-    },
-    {
-      "basename": "1736091752-chrono-mind",
-      "path": "awesome/repositories/1736091752-chrono-mind.md"
-    },
-    {
-      "basename": "1736148346-pangolin",
-      "path": "awesome/repositories/1736148346-pangolin.md"
     }
   ],
   "omittedPaths": [],
