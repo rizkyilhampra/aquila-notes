@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
+      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
+    },
+    {
+      "basename": "1757258870-movies",
+      "path": "movies/1757258870-movies.md"
+    },
+    {
+      "basename": "1733336586-neovim-dotfiles",
+      "path": "neovim/1733336586-neovim-dotfiles.md"
+    },
+    {
+      "basename": "1728601745-neovim",
+      "path": "neovim/1728601745-neovim.md"
+    },
+    {
+      "basename": "1728601004-indonesian-spell-check-neovim",
+      "path": "neovim/1728601004-indonesian-spell-check-neovim.md"
+    },
+    {
       "basename": "1757270819-28-years-later",
       "path": "movies/1757270819-28-years-later.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "1757259062-bring-her-back",
       "path": "movies/1757259062-bring-her-back.md"
-    },
-    {
-      "basename": "1757258870-movies",
-      "path": "movies/1757258870-movies.md"
-    },
-    {
-      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
-      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
     },
     {
       "basename": "1739644546-downgrade-arch-linux-installed-package",
@@ -187,18 +199,6 @@
     {
       "basename": "1728526578-ab-testing",
       "path": "1728526578-ab-testing.md"
-    },
-    {
-      "basename": "Pasted image 20250323223734",
-      "path": "attachment/Pasted image 20250323223734.png"
-    },
-    {
-      "basename": "Breakdown-Undangan",
-      "path": "attachment/Breakdown-Undangan.png"
-    },
-    {
-      "basename": "Pasted image 20240802232142",
-      "path": "attachment/Pasted image 20240802232142.png"
     }
   ],
   "omittedPaths": [],
