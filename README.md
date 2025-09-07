@@ -3,7 +3,7 @@
 ## 📜 Licensing
 
 - All **writing, notes, and documentation** in this repository are licensed under 
-  [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CC-BY-4.0.md).
+  [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CC-BY.md).
 
 - All **code snippets and scripts** in this repository are licensed under 
   the [MIT License](./LICENSE-MIT.md).
