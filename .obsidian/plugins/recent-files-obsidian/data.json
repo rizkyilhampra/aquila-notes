@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
+      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
+    },
+    {
+      "basename": "1739644546-downgrade-arch-linux-installed-package",
+      "path": "1739644546-downgrade-arch-linux-installed-package.md"
+    },
+    {
+      "basename": "1757261726-final-destination-bloodlines",
+      "path": "movies/1757261726-final-destination-bloodlines.md"
+    },
+    {
+      "basename": "1757259062-bring-her-back",
+      "path": "movies/1757259062-bring-her-back.md"
+    },
+    {
+      "basename": "1757258870-movies",
+      "path": "movies/1757258870-movies.md"
+    },
+    {
+      "basename": "Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel",
+      "path": "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md"
+    },
+    {
       "basename": "Breakdown Undangan",
       "path": "Breakdown Undangan.md"
     },
     {
       "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
       "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
-    },
-    {
-      "basename": "1757258870-movies",
-      "path": "1757258870-movies.md"
-    },
-    {
-      "basename": "1757261726-final-destination-bloodlines",
-      "path": "1757261726-final-destination-bloodlines.md"
-    },
-    {
-      "basename": "1757259062-bring-her-back",
-      "path": "1757259062-bring-her-back.md"
     },
     {
       "basename": "1732264756-how-to-combine-two-repository-with-unrelated-history",
@@ -51,10 +63,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
-      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
     },
     {
       "basename": "1743844407-docker-compose-file-examples",
@@ -189,16 +197,8 @@
       "path": "attachment/Pasted image 20240802232142.png"
     },
     {
-      "basename": "1739644546-downgrade-arch-linux-installed-package",
-      "path": "1739644546-downgrade-arch-linux-installed-package.md"
-    },
-    {
       "basename": "1728351874-function-to-sanitize-indonesian-currency-format",
       "path": "1728351874-function-to-sanitize-indonesian-currency-format.md"
-    },
-    {
-      "basename": "1736091276-streamyfin",
-      "path": "awesome/repositories/1736091276-streamyfin.md"
     }
   ],
   "omittedPaths": [],

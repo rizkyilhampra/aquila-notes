@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1757258870-movies.md",
+                "file": "movies/1757258870-movies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breakdown Undangan.md",
+                "file": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Breakdown Undangan"
+              "title": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland"
             }
           }
         ],
@@ -268,10 +268,14 @@
   },
   "active": "e9c36b3b4af97520",
   "lastOpenFiles": [
+    "1739644546-downgrade-arch-linux-installed-package.md",
+    "movies/1757261726-final-destination-bloodlines.md",
+    "movies/1757259062-bring-her-back.md",
+    "movies/1757258870-movies.md",
+    "movies",
+    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
+    "Breakdown Undangan.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
-    "1757258870-movies.md",
-    "1757261726-final-destination-bloodlines.md",
-    "1757259062-bring-her-back.md",
     "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1734320387-dosudotdev.md",
@@ -296,9 +300,6 @@
     "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md",
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
-    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
-    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
-    "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
     "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
     "attachment/Breakdown-Undangan.png",
@@ -308,7 +309,6 @@
     "scripts",
     "templates",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
-    "Clippings",
     "attachment/2025-01-29.png",
     "php-library/pan.png",
     "Untitled.canvas",
