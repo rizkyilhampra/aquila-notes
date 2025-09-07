@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1757270819-28-years-later.md",
+                "file": "movies/1757258870-movies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1757258870-movies"
+            }
+          },
+          {
+            "id": "074323d1fccaae10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "movies/1757270819-28-years-later.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,8 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412,
-    "collapsed": true
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,14 +313,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0b40f326e515aaf",
+  "active": "a214e7fa18a1d6e5",
   "lastOpenFiles": [
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
-    "1757270819-28-years-later.md",
-    "1739644546-downgrade-arch-linux-installed-package.md",
+    "movies/1757270819-28-years-later.md",
     "movies/1757261726-final-destination-bloodlines.md",
     "movies/1757259062-bring-her-back.md",
     "movies/1757258870-movies.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "1739644546-downgrade-arch-linux-installed-package.md",
     "movies",
     "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
     "Breakdown Undangan.md",
