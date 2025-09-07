@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file"
             }
+          },
+          {
+            "id": "07545f1d773a9d0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,6 +285,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -288,7 +301,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08f9cf94b2d9def7",
+  "active": "07545f1d773a9d0d",
   "lastOpenFiles": [
     "learnings/1756048327-zustand.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
