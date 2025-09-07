@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "LICENSE-CC-BY",
+      "path": "LICENSE-CC-BY.md"
+    },
+    {
+      "basename": "LICENSE-MIT",
+      "path": "LICENSE-MIT.md"
+    },
+    {
       "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
       "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "Polar.sh",
       "path": "Polar.sh.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "1743844407-docker-compose-file-examples",
@@ -191,14 +199,6 @@
     {
       "basename": "1733466869-laravel-inertia-resources",
       "path": "1733466869-laravel-inertia-resources.md"
-    },
-    {
-      "basename": "1733476131-openstatus",
-      "path": "1733476131-openstatus.md"
-    },
-    {
-      "basename": "1728526578-ab-testing",
-      "path": "1728526578-ab-testing.md"
     }
   ],
   "omittedPaths": [],
