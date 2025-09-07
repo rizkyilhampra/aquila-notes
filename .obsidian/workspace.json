@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bbd2ec9e1eee87c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1734320387-dosudotdev.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1734320387-dosudotdev"
-            }
-          },
-          {
-            "id": "f07a3e8db15e2c43",
+            "id": "5bb88c17543ecfcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +32,12 @@
             }
           },
           {
-            "id": "12795a82783c9b99",
+            "id": "e9c36b3b4af97520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1757259062-bring-her-back.md",
+                "file": "Breakdown Undangan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1757259062-bring-her-back"
+              "title": "Breakdown Undangan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,10 +266,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12795a82783c9b99",
+  "active": "e9c36b3b4af97520",
   "lastOpenFiles": [
-    "1757259062-bring-her-back.md",
+    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "1757258870-movies.md",
+    "1757261726-final-destination-bloodlines.md",
+    "1757259062-bring-her-back.md",
+    "1732264756-how-to-combine-two-repository-with-unrelated-history.md",
+    "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1734320387-dosudotdev.md",
     "Movies/Movies.base",
     "Movies",
@@ -304,10 +284,8 @@
     "README.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "1743844407-docker-compose-file-examples.md",
-    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "1757258628-DQHD.md",
     "Untitled.base",
-    "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "1730797330-chart-db.md",
     "1757258404-movies.md",
@@ -321,8 +299,6 @@
     "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
     "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
-    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "snippets/commands/1748684577-create-file-with-timestamp.md",
     "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
     "attachment/Breakdown-Undangan.png",
