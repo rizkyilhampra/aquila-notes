@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "LICENSE-CC-BY-4.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "LICENSE-CC-BY-4.0"
             }
           },
           {
@@ -244,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412,
-    "collapsed": true
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,8 +266,8 @@
   },
   "active": "882faf28868461c5",
   "lastOpenFiles": [
-    "LICENSE-CC-BY.md",
     "README.md",
+    "LICENSE-CC-BY-4.0.md",
     "LICENSE-MIT.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "movies/1757258870-movies.md",
