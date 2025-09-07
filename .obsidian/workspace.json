@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48b55af89052ed09",
+        "id": "970b3deceaabe572",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9cebac30804fb5",
+            "id": "3bbd2ec9e1eee87c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+                "file": "1734320387-dosudotdev.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network"
+              "title": "1734320387-dosudotdev"
+            }
+          },
+          {
+            "id": "f07a3e8db15e2c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1757258870-movies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1757258870-movies"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,15 +266,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8e9cebac30804fb5",
+  "active": "f07a3e8db15e2c43",
   "lastOpenFiles": [
+    "1734320387-dosudotdev.md",
+    "1757258870-movies.md",
+    "Movies/Movies.base",
+    "Movies",
+    "1739606203-linux-folder-or-file-permission.md",
+    "1728688684-resend-email-service.md",
+    "1728688475-some-usefull-web-apps.md",
+    "Polar.sh.md",
+    "README.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "1743844407-docker-compose-file-examples.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
+    "1757258628-DQHD.md",
+    "Untitled.base",
+    "1742317084-setting-up-dns-on-my-arch-linux.md",
+    "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "1730797330-chart-db.md",
     "1757258404-movies.md",
     "1757258404-movies.base",
     "learnings/1756048327-zustand.md",
     "learnings",
-    "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md",
     "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md",
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
@@ -260,16 +299,6 @@
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
     "dailies/2025-05-27.md",
-    "dailies/2025-01-29.md",
-    "dailies/2025-05-08.md",
-    "dailies/2025-01-28.md",
-    "dailies/2025-05-10.md",
-    "dailies/2025-05-23.md",
-    "dailies/2025-05-12.md",
-    "dailies/2025-05-13.md",
-    "dailies/2025-05-19.md",
-    "php-library/pan.md",
-    "Breakdown Undangan.md",
     "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
     "attachment/Breakdown-Undangan.png",
@@ -280,7 +309,6 @@
     "templates",
     "Excalidraw/automation-penginputan-vaksin.excalidraw",
     "Clippings",
-    "Excalidraw",
     "attachment/2025-01-29.png",
     "php-library/pan.png",
     "Untitled.canvas",
@@ -295,8 +323,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "attachment/2024-08-09--20240809.png",
-    "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png",
-    "repositories",
-    "awesome/repositories"
+    "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png"
   ]
 }
