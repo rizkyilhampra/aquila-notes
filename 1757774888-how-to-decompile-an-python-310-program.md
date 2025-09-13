@@ -58,7 +58,11 @@ python -m pip install -U pyinstxtractor-ng
 8. Extract the `.exe`
 
 ```bash
-pyinstxtractor-ng frista.exe
+pyinstxtractor-ng program-name.exe
 ```
 
-9. 
+9. Check the extracted folder
+
+```bash
+ls frista.exe_extracted/
+```
