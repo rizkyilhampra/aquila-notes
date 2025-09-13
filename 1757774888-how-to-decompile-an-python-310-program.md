@@ -60,3 +60,5 @@ python -m pip install -U pyinstxtractor-ng
 ```bash
 pyinstxtractor-ng frista.exe
 ```
+
+9. 
