@@ -74,4 +74,5 @@ pyinstxtractor-ng program-name.exe_extracted/PYZ-00.pyz
 ```
 
 11. Install `pycdc` patched by me 
-> Cause the main pycdc it's have limitation, i need li
+> Cause the main pycdc it's have limitation, i need like patch first to make like it's decompiling successfull especially what i think on python 3.10.0 base program 
+
