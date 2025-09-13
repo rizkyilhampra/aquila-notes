@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1757774888-how-to-decompile-an-python-310-program.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,12 +71,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1757774888-how-to-decompile-an-python-310-program"
             }
           }
         ],
@@ -269,7 +269,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 412,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,7 +292,7 @@
   },
   "active": "978dedace0f00bcb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "1757774888-how-to-decompile-an-python-310-program.md",
     "LICENSE-CC-BY.md",
     "README.md",
     "LICENSE-MIT.md",
