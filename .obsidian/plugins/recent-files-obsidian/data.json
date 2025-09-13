@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "LICENSE-CC-BY",
       "path": "LICENSE-CC-BY.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1747056391-unable-to-download-spell-file-even-had-enable-netrw",
       "path": "neovim/1747056391-unable-to-download-spell-file-even-had-enable-netrw.md"
-    },
-    {
-      "basename": "1733466869-laravel-inertia-resources",
-      "path": "1733466869-laravel-inertia-resources.md"
     }
   ],
   "omittedPaths": [],
