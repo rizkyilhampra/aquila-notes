@@ -27,8 +27,32 @@ uv venv -p 3.10.0 .venv3100
 
 3. Activate the environment or source it
 
-```
+```bash
 source .venv3100/bin/activate.fish
 ```
 
-4. 
+4.  Ensure it's python 3.10.0
+
+```bash
+python -V
+```
+
+5. Install or upgrade pip in that environment
+
+```bash
+python -m ensurepip --upgrade
+```
+
+6. Install or upgrade toolchain
+
+```bash
+python -m pip install -U pip wheel setuptools
+```
+
+7. Install or upgrade the `decompyle3`
+
+```bash
+python -m pip install -U decompyle3
+```
+
+8. 
