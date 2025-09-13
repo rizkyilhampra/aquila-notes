@@ -79,14 +79,18 @@ pyinstxtractor-ng program-name.exe_extracted/PYZ-00.pyz
 
 12. Clone the repository
    
-   ```bash
-   git clone https://github.com/rizkyilhampra/pycdc.git
-   ```
+```bash
+git clone https://github.com/rizkyilhampra/pycdc.git
+```
    
 13.  Build the `pycdc` program
    
-   ```bash
-   cmake . && make -j
-   ```
+```bash
+cmake . && make -j
+```
 
-   14.   
+14. Decompile
+
+```bash
+./path-where-is-pycdc-at/pycdc path-to-where-frista.exe_extracted/frista.pyc
+```
