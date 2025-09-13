@@ -49,13 +49,14 @@ python -m ensurepip --upgrade
 python -m pip install -U pip wheel setuptools
 ```
 
-7. Install or upgrade the `pycdc` patched by me
+7. Install or upgrade the `pyinstxtractor-ng` 
 
 ```bash
-python -m pip install -U decompyle3
-python -m pip install -U "git+https://github.com/rizkyilhampra/pycdc.git"
+python -m pip install -U pyinstxtractor-ng
 ````
 
+8. Extract the `.exe`
 
-
-8. 
+```bash
+pyinstxtractor-ng frista.exe
+```
