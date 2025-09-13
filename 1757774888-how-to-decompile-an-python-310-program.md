@@ -19,5 +19,16 @@ Saya mulai ini dari di tempat saya bekerja, saya butuh mendapatkan bagaimana car
 uv python install 3.10.0
 ```
 
-2.  
+2.  Create an self python 3.10.0 environment  
 
+```
+uv venv -p 3.10.0 .venv3100
+```
+
+3. Activate the environment or source it
+
+```
+source .venv3100/bin/activate.fish
+```
+
+4. 
