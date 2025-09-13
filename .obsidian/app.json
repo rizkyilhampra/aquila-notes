@@ -11,5 +11,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachment",
   "propertiesInDocument": "visible",
-  "focusNewTab": true
+  "focusNewTab": true,
+  "useTab": false,
+  "tabSize": 4
 }
