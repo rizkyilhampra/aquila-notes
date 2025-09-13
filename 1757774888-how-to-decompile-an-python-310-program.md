@@ -97,9 +97,19 @@ cmake . && make -j
 
 15. Decompile some file (Optional)
 
+> Here is what i do in fish shell
+
+> You can like modification my script to fit your purpose
+
 ```bash
-set all_files frista.exe_extracted/PYZ-00.pyz_extracted/config.pyc \
-              frista.exe_extracted/PYZ-00.pyz_extracted/util.pyc \
-              frista.exe_extracted/PYZ-00.pyz_extracted/test.pyc \
-              (find frista.exe_extracted/PYZ-00.pyz_extracted/src -type f -name '*.pyc')
+set all_files progarm-name.exe_extracted/PYZ-00.pyz_extracted/config.pyc \
+              program-name.exe_extracted/PYZ-00.pyz_extracted/util.pyc \
+              program-name.exe_extracted/PYZ-00.pyz_extracted/test.pyc \
+              (find program-name.exe_extracted/PYZ-00.pyz_extracted/src -type f -name '*.pyc')
+```
+
+```bash
+set out "frista.decompiled/pyz/"(basename (string replace -r '\.pyc$' '.py' $f))
+./pycdc/pycdc $f > $out; or true
+end
 ```
