@@ -49,10 +49,13 @@ python -m ensurepip --upgrade
 python -m pip install -U pip wheel setuptools
 ```
 
-7. Install or upgrade the `decompyle3`
+7. Install or upgrade the `pycdc` patched by me
 
 ```bash
 python -m pip install -U decompyle3
+python -m pip install -U "git+https://github.com/rizkyilhampra/pycdc.git"
 ```
+
+
 
 8. 
