@@ -78,11 +78,13 @@ pyinstxtractor-ng program-name.exe_extracted/PYZ-00.pyz
 > Cause the main pycdc it's have limitation, i need like patch first to make like it's decompiling successfull especially what i think on python 3.10.0 base program 
 
    1.  Clone the repository
+   
    ```bash
    git clone https://github.com/rizkyilhampra/pycdc.git
    ```
-   2.  Build
-   ```
+   2.  Build the `pycdc` program
    
+   ```bash
+   cmake . && make -j
    ```
 
