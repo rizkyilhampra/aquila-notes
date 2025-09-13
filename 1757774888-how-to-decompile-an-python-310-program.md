@@ -79,8 +79,10 @@ pyinstxtractor-ng program-name.exe_extracted/PYZ-00.pyz
 
    1.  Clone the repository
    ```bash
-   
+   git clone https://github.com/rizkyilhampra/pycdc.git
+   ```
+   2.  Build
+   ```
    
    ```
-   2. 
 
