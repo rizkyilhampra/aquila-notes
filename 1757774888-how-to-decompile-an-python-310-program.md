@@ -92,5 +92,14 @@ cmake . && make -j
 14. Decompile
 
 ```bash
-./path-where-is-pycdc-at/pycdc path-to-where-frista.exe_extracted/frista.pyc
+./path-where-is-pycdc-at/pycdc path-to-where-extracted-at/program-name.exe_extracted/program-name.pyc
+```
+
+15. Decompile some file (Optional)
+
+```bash
+set all_files frista.exe_extracted/PYZ-00.pyz_extracted/config.pyc \
+              frista.exe_extracted/PYZ-00.pyz_extracted/util.pyc \
+              frista.exe_extracted/PYZ-00.pyz_extracted/test.pyc \
+              (find frista.exe_extracted/PYZ-00.pyz_extracted/src -type f -name '*.pyc')
 ```
