@@ -15,13 +15,13 @@ Saya mulai ini dari di tempat saya bekerja, saya butuh mendapatkan bagaimana car
 ## How to 
 1. Install python 3.10.0 with uv command
 
-```
+```bash
 uv python install 3.10.0
 ```
 
 2.  Create an self python 3.10.0 environment  
 
-```
+```bash
 uv venv -p 3.10.0 .venv3100
 ```
 
@@ -75,7 +75,7 @@ pyinstxtractor-ng program-name.exe_extracted/PYZ-00.pyz
 
 11. Install `pycdc` patched by me 
 
-> Cause the main pycdc it's have limitation, i need like patch first to make like it's decompiling successfully especially what i think on python 3.10.0 base program 
+> Cause the main pycdc it's have limitation, i need like patch first to make like it's decompiling successfully especially what i think it's being like trouble on python 3.10.0 base program. You can see some note in README.md file in my repository to see what's like changed or by seeing the diff of that commit 
 
 12. Clone the repository
    
@@ -92,7 +92,7 @@ cmake . && make -j
 14. Decompile
 
 ```bash
-./path-where-is-pycdc-at/pycdc path-to-where-extracted-at/program-name.exe_extracted/program-name.pyc
+./path-where-is-pycdc-at/pycdc path-to-where-extracted-at/program-name.exe_extracted/program-name.pyc > path-to-where-decompile-file-put/program-name.py
 ```
 
 15. Decompile some file (Optional)
@@ -102,6 +102,10 @@ cmake . && make -j
 > You can like modification my script to fit your purpose
 
 ```bash
+mkdir -p program-name.decompiled/pyz
+```
+
+```bash
 set all_files progarm-name.exe_extracted/PYZ-00.pyz_extracted/config.pyc \
               program-name.exe_extracted/PYZ-00.pyz_extracted/util.pyc \
               program-name.exe_extracted/PYZ-00.pyz_extracted/test.pyc \
@@ -109,7 +113,7 @@ set all_files progarm-name.exe_extracted/PYZ-00.pyz_extracted/config.pyc \
 ```
 
 ```bash
-set out "frista.decompiled/pyz/"(basename (string replace -r '\.pyc$' '.py' $f))
-./pycdc/pycdc $f > $out; or true
+set out "program-name.decompiled/pyz/"(basename (string replace -r '\.pyc$' '.py' $f))
+./path-where-is-pycdc-at/pycdc $f > $out; or true
 end
 ```
