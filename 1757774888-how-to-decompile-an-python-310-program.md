@@ -54,7 +54,7 @@ python -m pip install -U pip wheel setuptools
 ```bash
 python -m pip install -U decompyle3
 python -m pip install -U "git+https://github.com/rizkyilhampra/pycdc.git"
-```
+````
 
 
 
