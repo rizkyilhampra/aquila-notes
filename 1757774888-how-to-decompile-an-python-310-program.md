@@ -64,5 +64,14 @@ pyinstxtractor-ng program-name.exe
 9. Check the extracted folder
 
 ```bash
-ls frista.exe_extracted/
+ls program-name.exe_extracted/
 ```
+
+10. Extract the PYZ ones if it's have
+
+```bash
+pyinstxtractor-ng program-name.exe_extracted/PYZ-00.pyz
+```
+
+11. Install `pycdc` patched by me 
+> Cause the main pycdc it's have limitation, i need li
