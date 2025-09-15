@@ -75,7 +75,7 @@ pyinstxtractor-ng program-name.exe_extracted/PYZ-00.pyz
 
 11. Install `pycdc` patched by me 
 
-> Cause the main pycdc it's have limitation, i need like patch first to make like it's decompiling successfully especially what i think it's being like trouble on python 3.10.0 base program. You can see some note in README.md file in my repository to see what's like changed or by seeing the diff of that commit 
+> Cause the main [pycdc](https://github.com/zrax/pycdc) it's have limitation (see the [issue](https://github.com/zrax/pycdc/issues/451)), i need like patch first to make like it's decompiling successfully especially what i think it's being like trouble on python 3.10.0 base program. You can see some note in [README.md](https://github.com/rizkyilhampra/pycdc?tab=readme-ov-file#patched-fork-notice) in my fork repository to see the changes.
 
 12. Clone the repository
    

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1757774888-how-to-decompile-an-python-310-program.md",
-                "mode": "preview",
+                "file": "learnings/1756048327-zustand.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1757774888-how-to-decompile-an-python-310-program"
+              "title": "1756048327-zustand"
             }
           }
         ]
@@ -244,6 +244,7 @@
   "active": "978dedace0f00bcb",
   "lastOpenFiles": [
     "1757774888-how-to-decompile-an-python-310-program.md",
+    "learnings/1756048327-zustand.md",
     "LICENSE-CC-BY.md",
     "README.md",
     "LICENSE-MIT.md",
@@ -272,7 +273,6 @@
     "1743844407-docker-compose-file-examples.md",
     "1757258628-DQHD.md",
     "Untitled.base",
-    "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "1757258404-movies.base",
     "learnings",
     "attachment/Pasted image 20250323223734.png",

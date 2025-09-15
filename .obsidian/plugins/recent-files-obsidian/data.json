@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1756048327-zustand",
+      "path": "learnings/1756048327-zustand.md"
+    },
+    {
       "basename": "1757774888-how-to-decompile-an-python-310-program",
       "path": "1757774888-how-to-decompile-an-python-310-program.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "1730797330-chart-db",
       "path": "1730797330-chart-db.md"
-    },
-    {
-      "basename": "1756048327-zustand",
-      "path": "learnings/1756048327-zustand.md"
     },
     {
       "basename": "1749374600-execute-sql-migration-script-inside-mysql-docker-container",
