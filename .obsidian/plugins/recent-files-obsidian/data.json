@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "1756048327-zustand",
       "path": "learnings/1756048327-zustand.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1734123006-vhs",
       "path": "awesome/repositories/1734123006-vhs.md"
-    },
-    {
-      "basename": "1747056391-unable-to-download-spell-file-even-had-enable-netrw",
-      "path": "neovim/1747056391-unable-to-download-spell-file-even-had-enable-netrw.md"
     }
   ],
   "omittedPaths": [],
