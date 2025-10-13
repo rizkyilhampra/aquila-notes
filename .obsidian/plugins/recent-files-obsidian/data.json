@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
+      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
+      "basename": "Breakdown Undangan",
+      "path": "Breakdown Undangan.md"
+    },
+    {
+      "basename": "tar gzip uncompress to spesific folder",
+      "path": "cheatsheets/tar gzip uncompress to spesific folder.md"
+    },
+    {
+      "basename": "tar gzip compression of folder",
+      "path": "cheatsheets/tar gzip compression of folder.md"
+    },
+    {
+      "basename": "Samba",
+      "path": "cheatsheets/Samba.md"
+    },
+    {
+      "basename": "lazysql",
+      "path": "cheatsheets/lazysql.md"
+    },
+    {
+      "basename": "git ignore permission changed",
+      "path": "cheatsheets/git ignore permission changed.md"
+    },
+    {
       "basename": "curl",
       "path": "cheatsheets/curl.md"
     },
@@ -9,8 +37,16 @@
       "path": "cheatsheets/Check Network Driver Used.md"
     },
     {
+      "basename": "1747073827-tar",
+      "path": "cheatsheets/1747073827-tar.md"
+    },
+    {
       "basename": "1747073738-mv",
       "path": "cheatsheets/1747073738-mv.md"
+    },
+    {
+      "basename": "1747073694-curl",
+      "path": "cheatsheets/1747073694-curl.md"
     },
     {
       "basename": "1738863450-file-encryption-to-copyable-decripted-content-using-age",
@@ -19,6 +55,10 @@
     {
       "basename": "1738863172-content-to-file-encryption-using-age",
       "path": "cheatsheets/1738863172-content-to-file-encryption-using-age.md"
+    },
+    {
+      "basename": "1737972342-change-the-upstream-branch-of-local-branch",
+      "path": "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md"
     },
     {
       "basename": "1736135014-clone-private-repository",
@@ -129,10 +169,6 @@
       "path": "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md"
     },
     {
-      "basename": "Breakdown Undangan",
-      "path": "Breakdown Undangan.md"
-    },
-    {
       "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
       "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
     },
@@ -163,38 +199,6 @@
     {
       "basename": "1747061649-create-detached-standalone-database-mysql-container",
       "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
-    },
-    {
-      "basename": "1736003618-create-a-single-container-to-estimate-the-database-size",
-      "path": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md"
-    },
-    {
-      "basename": "1736003661-create-a-single-detached-container",
-      "path": "snippets/commands/docker/1736003661-create-a-single-detached-container.md"
-    },
-    {
-      "basename": "1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file",
-      "path": "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md"
-    },
-    {
-      "basename": "1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file",
-      "path": "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md"
-    },
-    {
-      "basename": "1747061744-remove-executable-flag-from-conflicted-files-in-git",
-      "path": "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md"
-    },
-    {
-      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
-      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
-    },
-    {
-      "basename": "1748684577-create-file-with-timestamp",
-      "path": "snippets/commands/1748684577-create-file-with-timestamp.md"
-    },
-    {
-      "basename": "2025-05-27",
-      "path": "dailies/2025-05-27.md"
     }
   ],
   "omittedPaths": [],

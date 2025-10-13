@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b97928f4d453a83b",
+        "id": "511d71733b87e797",
         "type": "tabs",
         "children": [
           {
-            "id": "46490798125997b3",
+            "id": "4da8763cfb919caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheets/curl.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "curl"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 200
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -241,16 +241,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "4da8763cfb919caa",
   "lastOpenFiles": [
-    "1758547210-.md",
-    "1758547223-.md",
+    "Breakdown Undangan.md",
+    "cheatsheets/tar gzip uncompress to spesific folder.md",
+    "cheatsheets/tar gzip compression of folder.md",
+    "cheatsheets/Samba.md",
+    "cheatsheets/lazysql.md",
+    "cheatsheets/git ignore permission changed.md",
     "cheatsheets/curl.md",
     "cheatsheets/Check Network Driver Used.md",
+    "cheatsheets/1747073827-tar.md",
     "cheatsheets/1747073738-mv.md",
+    "cheatsheets/1747073694-curl.md",
     "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
     "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
+    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "cheatsheets/1736135014-clone-private-repository.md",
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "1758547210-.md",
+    "1758547223-.md",
     "course-notes/1746720943-python.md",
     "1734123509-platforms-learning.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
@@ -259,16 +269,6 @@
     "1734320387-dosudotdev.md",
     "1733471063-awesome-portfolios-web-apps.md",
     "1739606203-linux-folder-or-file-permission.md",
-    "1728688664-excalidraw.md",
-    "1728688673-tldraw.md",
-    "1728688684-resend-email-service.md",
-    "Polar.sh.md",
-    "learnings/1756048327-zustand.md",
-    "1758464981-sukebei.md",
-    "1757774888-how-to-decompile-an-python-310-program.md",
-    "LICENSE-CC-BY.md",
-    "README.md",
-    "LICENSE-MIT.md",
     "movies",
     "Movies/Movies.base",
     "Movies",
