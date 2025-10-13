@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1747061744-remove-executable-flag-from-conflicted-files-in-git",
+      "path": "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md"
+    },
+    {
+      "basename": "1748684577-create-file-with-timestamp",
+      "path": "snippets/commands/1748684577-create-file-with-timestamp.md"
+    },
+    {
+      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
+      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
+    },
+    {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
       "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
-    },
-    {
-      "basename": "1730797330-chart-db",
-      "path": "1730797330-chart-db.md"
-    },
-    {
-      "basename": "1749374600-execute-sql-migration-script-inside-mysql-docker-container",
-      "path": "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md"
-    },
-    {
-      "basename": "1747061649-create-detached-standalone-database-mysql-container",
-      "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
     }
   ],
   "omittedPaths": [],

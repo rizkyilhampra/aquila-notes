@@ -11,7 +11,8 @@ Tulisan ini didasari kebutuhan saya untuk mengakses PC kantor yang disana terdap
 ssh -fN -o ExitOnForwardFailure=yes -L 3000:localhost:3000 user@192.168.1.68
 ```
 
-> 
+> *  asdf
+> - f
 
 atau di *foreground*
 

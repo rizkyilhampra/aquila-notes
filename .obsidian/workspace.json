@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "file": "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "1747061744-remove-executable-flag-from-conflicted-files-in-git"
             }
           }
         ]
@@ -243,6 +243,10 @@
   },
   "active": "4da8763cfb919caa",
   "lastOpenFiles": [
+    "snippets/commands/1748684577-create-file-with-timestamp.md",
+    "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
+    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "Breakdown Undangan.md",
     "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/tar gzip compression of folder.md",
@@ -258,7 +262,6 @@
     "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "cheatsheets/1736135014-clone-private-repository.md",
-    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "1758547210-.md",
     "1758547223-.md",
     "course-notes/1746720943-python.md",
@@ -266,9 +269,6 @@
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "1739644546-downgrade-arch-linux-installed-package.md",
-    "1734320387-dosudotdev.md",
-    "1733471063-awesome-portfolios-web-apps.md",
-    "1739606203-linux-folder-or-file-permission.md",
     "movies",
     "Movies/Movies.base",
     "Movies",
