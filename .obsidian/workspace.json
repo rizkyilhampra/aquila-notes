@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "curl"
             }
-          },
-          {
-            "id": "efc08ca70eb5bc08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1758547223-.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1758547223-"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +241,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efc08ca70eb5bc08",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "1758547210-.md",
     "1758547223-.md",
