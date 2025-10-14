@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "511d71733b87e797",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4da8763cfb919caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
-            }
-          },
-          {
-            "id": "9357355f0f2c68f3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "156227c03a04f720",
         "type": "tabs",
         "children": [
@@ -56,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1760442780-sstiktok.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1760442780-sstiktok"
             }
           }
         ]
@@ -286,7 +243,7 @@
   },
   "active": "e50c03e014b733e6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "1760442780-sstiktok.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
