@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
+      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
       "basename": "1747061744-remove-executable-flag-from-conflicted-files-in-git",
       "path": "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
       "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
-    },
-    {
-      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
-      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     },
     {
       "basename": "Breakdown Undangan",
@@ -195,10 +199,6 @@
     {
       "basename": "1743844407-docker-compose-file-examples",
       "path": "1743844407-docker-compose-file-examples.md"
-    },
-    {
-      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
-      "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
     }
   ],
   "omittedPaths": [],

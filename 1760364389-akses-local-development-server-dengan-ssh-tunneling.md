@@ -1,7 +1,9 @@
 ---
 id: 1760364487-akses-local-development-server-dengan-ssh-tunneling
 alias: Akses local development server dengan ssh tunneling
-tags: []
+tags:
+  - ssh
+  - cheatsheets
 ---
 # Akses local development server dengan ssh tunneling
 
@@ -11,11 +13,27 @@ Tulisan ini didasari kebutuhan saya untuk mengakses PC kantor yang disana terdap
 ssh -fN -o ExitOnForwardFailure=yes -L 3000:localhost:3000 user@192.168.1.68
 ```
 
-> *  asdf
-> - f
+> *You can see detail breakdown of what's flags does at `man` pages*
+
+> Singkatnya perintah di atas akan melakukan *port forwarding* dari `localhost:3000` (`192.168.1.68`) ke *port* `3000` pada *host* saat ini, dan menjalankannya di sisi *background*.
+
+> Untuk menghentikannya, dapat melakukan salah satu dari perintah berikut.
+> ```bash
+> pkill -f 'ssh -fN -L 3000:localhost:3000 user@192.168.1.68'
+> ``` 
+>
+>  atau 
+>
+> ```bash
+> ps aux | grep 'ssh -fN -L 3000:localhost:3000'
+> ```
+>
+> yang kemudian dilanjutkan dengan `kill <pid>`
 
 atau di *foreground*
 
 ```bash
 ssh -L 3000:localhost:3000 user@192.168.1.68
 ```
+
+> Perintah di atas akan membuka *shell* baru (layaknya `ssh` pada umumnya) namun dengan melakukan *port forwarding* yang sama seperti sebelumnya tapi di belakang layar.
