@@ -11,10 +11,24 @@
             "id": "e50c03e014b733e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "blog/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -227,9 +241,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "e50c03e014b733e6",
   "lastOpenFiles": [
     "1760442780-sstiktok.md",
+    "blog/Untitled.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
@@ -254,7 +269,6 @@
     "course-notes/1746720943-python.md",
     "1734123509-platforms-learning.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "movies",
     "Movies/Movies.base",
     "Movies",
