@@ -11,24 +11,10 @@
             "id": "e50c03e014b733e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1760442780-sstiktok.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1760442780-sstiktok"
+              "title": "New tab"
             }
           }
         ]
@@ -241,7 +227,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e50c03e014b733e6",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "1760442780-sstiktok.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
