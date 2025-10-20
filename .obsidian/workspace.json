@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
+                "file": "1757774888-how-to-decompile-an-python-310-program.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya"
+              "title": "1757774888-how-to-decompile-an-python-310-program"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,12 +94,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -242,10 +242,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e50c03e014b733e6",
+  "active": "05ea27116dfd5e6d",
   "lastOpenFiles": [
-    "1760442780-sstiktok.md",
     "blog/1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
+    "1760442780-sstiktok.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
