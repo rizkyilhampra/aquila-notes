@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1757774888-how-to-decompile-an-python-310-program.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+            }
+          },
+          {
+            "id": "44104cc416995206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1757774888-how-to-decompile-an-python-310-program"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +119,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,14 +266,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05ea27116dfd5e6d",
+  "active": "44104cc416995206",
   "lastOpenFiles": [
+    "Untitled.md",
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "1757774888-how-to-decompile-an-python-310-program.md",
     "blog/1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
     "1760442780-sstiktok.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "Breakdown Undangan.md",
     "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/tar gzip compression of folder.md",
@@ -268,8 +294,6 @@
     "1758547210-.md",
     "1758547223-.md",
     "course-notes/1746720943-python.md",
-    "1734123509-platforms-learning.md",
-    "1742317084-setting-up-dns-on-my-arch-linux.md",
     "movies",
     "Movies/Movies.base",
     "Movies",

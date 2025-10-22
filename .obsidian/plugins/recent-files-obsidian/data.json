@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
+      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
       "basename": "1757774888-how-to-decompile-an-python-310-program",
       "path": "1757774888-how-to-decompile-an-python-310-program.md"
     },
     {
       "basename": "1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya",
       "path": "blog/1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md"
-    },
-    {
-      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
-      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     },
     {
       "basename": "1747061744-remove-executable-flag-from-conflicted-files-in-git",
@@ -195,10 +199,6 @@
     {
       "basename": "1728688475-some-usefull-web-apps",
       "path": "1728688475-some-usefull-web-apps.md"
-    },
-    {
-      "basename": "1743844407-docker-compose-file-examples",
-      "path": "1743844407-docker-compose-file-examples.md"
     }
   ],
   "omittedPaths": [],
