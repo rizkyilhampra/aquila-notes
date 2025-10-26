@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
-          },
-          {
-            "id": "44104cc416995206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1761138590-php-webshell-i-have-found-at-works.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1761138590-php-webshell-i-have-found-at-works"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +241,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44104cc416995206",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "1761138590-php-webshell-i-have-found-at-works.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
