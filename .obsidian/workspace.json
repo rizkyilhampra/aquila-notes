@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-                "mode": "preview",
+                "file": "blog/1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -160,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
+                "file": "blog/1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1756052446-deployment-of-spdhtc-using-existing-backup-database-file"
+              "title": "Outline of 1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya"
             }
           },
           {
@@ -200,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -220,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412,
-    "collapsed": true
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,10 +241,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "03a91dd6553896af",
   "lastOpenFiles": [
-    "1761138590-php-webshell-i-have-found-at-works.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "1761138590-php-webshell-i-have-found-at-works.md",
     "1757774888-how-to-decompile-an-python-310-program.md",
     "blog/1760877513-masalah-di-mysql-pada-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
     "1760442780-sstiktok.md",
