@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -241,11 +241,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e50c03e014b733e6",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "public/index.md",
-    "public/index.md",
+    "index.md",
+    "index.md",
     "1762263083-EKMT.md",
     "public",
     "README.md",
