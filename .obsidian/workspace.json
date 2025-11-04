@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-                "mode": "preview",
+                "file": "public/index.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "index"
             }
           }
         ]
@@ -243,14 +243,19 @@
   },
   "active": "e50c03e014b733e6",
   "lastOpenFiles": [
-    "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
+    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
+    "public/index.md",
+    "public/index.md",
+    "1762263083-EKMT.md",
+    "public",
+    "README.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
     "1761138590-php-webshell-i-have-found-at-works.md",
     "1757774888-how-to-decompile-an-python-310-program.md",
     "1760442780-sstiktok.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
-    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
     "Breakdown Undangan.md",
     "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/tar gzip compression of folder.md",
@@ -265,10 +270,6 @@
     "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
     "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
-    "cheatsheets/1736135014-clone-private-repository.md",
-    "1758547210-.md",
-    "1758547223-.md",
-    "course-notes/1746720943-python.md",
     "movies",
     "Movies/Movies.base",
     "Movies",
@@ -283,7 +284,6 @@
     "course-notes",
     "scripts",
     "templates",
-    "Excalidraw/automation-penginputan-vaksin.excalidraw",
     "attachment/2025-01-29.png",
     "php-library/pan.png",
     "Untitled.canvas",
