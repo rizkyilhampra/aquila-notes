@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
-                "mode": "source",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -161,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya"
+              "title": "Outline of 1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           },
           {
@@ -244,10 +243,10 @@
   },
   "active": "e50c03e014b733e6",
   "lastOpenFiles": [
+    "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "1761138590-php-webshell-i-have-found-at-works.md",
     "1757774888-how-to-decompile-an-python-310-program.md",
-    "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md",
     "1760442780-sstiktok.md",
     "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
