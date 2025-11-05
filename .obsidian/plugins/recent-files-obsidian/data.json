@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "1743844407-docker-compose-file-examples",
+      "path": "1743844407-docker-compose-file-examples.md"
+    },
+    {
+      "basename": "1739606203-linux-folder-or-file-permission",
+      "path": "1739606203-linux-folder-or-file-permission.md"
+    },
+    {
+      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
+      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
+    },
+    {
+      "basename": "1734320387-dosudotdev",
+      "path": "1734320387-dosudotdev.md"
+    },
+    {
+      "basename": "1734123509-platforms-learning",
+      "path": "1734123509-platforms-learning.md"
+    },
+    {
+      "basename": "1756048327-zustand",
+      "path": "learnings/1756048327-zustand.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -97,32 +125,16 @@
       "path": "course-notes/1746720943-python.md"
     },
     {
-      "basename": "1734123509-platforms-learning",
-      "path": "1734123509-platforms-learning.md"
-    },
-    {
       "basename": "1742317084-setting-up-dns-on-my-arch-linux",
       "path": "1742317084-setting-up-dns-on-my-arch-linux.md"
-    },
-    {
-      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
-      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
     },
     {
       "basename": "1739644546-downgrade-arch-linux-installed-package",
       "path": "1739644546-downgrade-arch-linux-installed-package.md"
     },
     {
-      "basename": "1734320387-dosudotdev",
-      "path": "1734320387-dosudotdev.md"
-    },
-    {
       "basename": "1733471063-awesome-portfolios-web-apps",
       "path": "1733471063-awesome-portfolios-web-apps.md"
-    },
-    {
-      "basename": "1739606203-linux-folder-or-file-permission",
-      "path": "1739606203-linux-folder-or-file-permission.md"
     },
     {
       "basename": "1728688664-excalidraw",
@@ -139,10 +151,6 @@
     {
       "basename": "Polar.sh",
       "path": "Polar.sh.md"
-    },
-    {
-      "basename": "1756048327-zustand",
-      "path": "learnings/1756048327-zustand.md"
     },
     {
       "basename": "1758464981-sukebei",
@@ -191,14 +199,6 @@
     {
       "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
       "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
-    },
-    {
-      "basename": "1732264756-how-to-combine-two-repository-with-unrelated-history",
-      "path": "1732264756-how-to-combine-two-repository-with-unrelated-history.md"
-    },
-    {
-      "basename": "1728688475-some-usefull-web-apps",
-      "path": "1728688475-some-usefull-web-apps.md"
     }
   ],
   "omittedPaths": [],

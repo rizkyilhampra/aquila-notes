@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "1743844407-docker-compose-file-examples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1743844407-docker-compose-file-examples"
             }
           }
         ]
@@ -90,15 +90,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 344
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -175,8 +175,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -185,12 +185,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
             "id": "b1a2eceb1be69d46",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "429bf0dbc9e1295a",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -232,20 +242,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "3d-graph-new:Global 3D Graph": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "e50c03e014b733e6",
   "lastOpenFiles": [
+    "1739606203-linux-folder-or-file-permission.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "1734320387-dosudotdev.md",
+    "1734123509-platforms-learning.md",
+    "learnings/1756048327-zustand.md",
+    "index.md",
     "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "index.md",
-    "index.md",
     "1762263083-EKMT.md",
     "public",
     "README.md",
@@ -266,10 +280,6 @@
     "cheatsheets/Check Network Driver Used.md",
     "cheatsheets/1747073827-tar.md",
     "cheatsheets/1747073738-mv.md",
-    "cheatsheets/1747073694-curl.md",
-    "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
-    "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
-    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "movies",
     "Movies/Movies.base",
     "Movies",
