@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheets/Check Network Driver Used.md",
+                "file": "cheatsheets/tar gzip compression of folder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Check Network Driver Used"
+              "title": "tar gzip compression of folder"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheatsheets/Check Network Driver Used.md",
+                "file": "cheatsheets/tar gzip compression of folder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Check Network Driver Used"
+              "title": "Outline of tar gzip compression of folder"
             }
           },
           {
@@ -233,14 +233,18 @@
   },
   "active": "93f141b5c40a08e7",
   "lastOpenFiles": [
-    "cheatsheets/lazysql.md",
-    "cheatsheets/tar gzip compression of folder.md",
-    "cheatsheets/tar gzip uncompress to spesific folder.md",
-    "cheatsheets/1762311406-samba.md",
-    "cheatsheets/Samba.md",
-    "cheatsheets/1747073694-curl.md",
+    "cheatsheets/1747073827-tar.md",
+    "cheatsheets/1762311664-check-network-driver-being-used.md",
     "cheatsheets/git ignore permission changed.md",
+    "cheatsheets/tar gzip compression of folder.md",
+    "awesome/1736092179-awesome-repositories.md",
+    "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
+    "cheatsheets/1747073694-curl.md",
+    "cheatsheets/1762311406-samba.md",
     "cheatsheets/Check Network Driver Used.md",
+    "cheatsheets/lazysql.md",
+    "cheatsheets/tar gzip uncompress to spesific folder.md",
+    "cheatsheets/Samba.md",
     "cheatsheets/curl.md",
     "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
     "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
@@ -260,10 +264,6 @@
     "php-library/pan.png",
     "php-library/pan.md",
     "project-managements/1728506838-jira.md",
-    "project-managements/1728506822-project-management.md",
-    "project-managements/1728506917-trello.md",
-    "project-managements/1728506930-confluence.md",
-    "reddit-upvoted/neovim.md",
     "public",
     "movies",
     "Movies/Movies.base",
