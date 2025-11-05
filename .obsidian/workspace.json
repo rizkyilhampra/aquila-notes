@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyprland/1762314311-pyprland.md",
+                "file": "1728351874-function-to-sanitize-indonesian-currency-format.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762314311-pyprland"
+              "title": "1728351874-function-to-sanitize-indonesian-currency-format"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyprland/1762314311-pyprland.md",
+                "file": "1728351874-function-to-sanitize-indonesian-currency-format.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762314311-pyprland"
+              "title": "Outline of 1728351874-function-to-sanitize-indonesian-currency-format"
             }
           },
           {
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412,
-    "collapsed": true
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,8 +232,19 @@
   },
   "active": "0dcfabd32c0e0f4c",
   "lastOpenFiles": [
-    "hyprland/1762315251-hyprfocus.md",
+    "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
+    "1739606203-linux-folder-or-file-permission.md",
+    "fronted-related-stuff/1733478060-acerternity-ui.md",
+    "fronted-related-stuff/1734483688-magic-ui.md",
+    "fronted-related-stuff/1734483850-ui-libraries.md",
+    "fronted-related-stuff/1734577067-hover-effect.md",
+    "1728688664-excalidraw.md",
+    "1728688684-resend-email-service.md",
+    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
+    "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md",
+    "snippets/commands/1748684577-create-file-with-timestamp.md",
     "hyprland/1762314311-pyprland.md",
+    "hyprland/1762315251-hyprfocus.md",
     "hyprland/Hyprfocus.md",
     "hyprland/Pyprland.md",
     "reddit-upvoted/neovim.md",
@@ -242,27 +252,16 @@
     "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
     "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
     "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
-    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "learnings/1756048327-zustand.md",
     "Excalidraw/Drawing 2025-02-17 14.34.23.excalidraw.md",
     "Excalidraw/automation-penginputan-vaksin.excalidraw.md",
     "1758464981-sukebei.md",
     "1728688475-some-usefull-web-apps.md",
     "1762311195-polarsh.md",
-    "Polar.sh.md",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
     "attachment/1762310831-pan.png",
-    "1728688684-resend-email-service.md",
     "attachment/resend.png",
-    "dailies/2025-05-23.md",
-    "dailies/2025-05-10.md",
-    "dailies/2025-05-08.md",
-    "dailies/2025-01-29.md",
-    "dailies/2025-01-28.md",
-    "1728526878-multivariate-testing.md",
-    "dailies/2025-05-27.md",
-    "1728688664-excalidraw.md",
     "php-library/pan.png",
     "public",
     "movies",
