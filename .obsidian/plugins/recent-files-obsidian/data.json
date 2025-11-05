@@ -5,6 +5,10 @@
       "path": "hyprland/1762314311-pyprland.md"
     },
     {
+      "basename": "Pyprland",
+      "path": "hyprland/Pyprland.md"
+    },
+    {
       "basename": "neovim",
       "path": "reddit-upvoted/neovim.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file",
       "path": "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md"
-    },
-    {
-      "basename": "Pyprland",
-      "path": "hyprland/Pyprland.md"
     },
     {
       "basename": "1756048327-zustand",
