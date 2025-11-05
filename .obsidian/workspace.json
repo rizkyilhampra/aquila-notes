@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "1743844407-docker-compose-file-examples"
             }
+          },
+          {
+            "id": "4f91aeffa76a7c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,8 +276,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e50c03e014b733e6",
+  "active": "4f91aeffa76a7c46",
   "lastOpenFiles": [
+    "1743844407-docker-compose-file-examples.md",
+    "Untitled.md",
     "1739606203-linux-folder-or-file-permission.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "1734320387-dosudotdev.md",
@@ -278,8 +305,6 @@
     "cheatsheets/git ignore permission changed.md",
     "cheatsheets/curl.md",
     "cheatsheets/Check Network Driver Used.md",
-    "cheatsheets/1747073827-tar.md",
-    "cheatsheets/1747073738-mv.md",
     "movies",
     "Movies/Movies.base",
     "Movies",
