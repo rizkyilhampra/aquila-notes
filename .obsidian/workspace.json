@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breakdown Undangan.md",
-                "mode": "preview",
+                "file": "php-library/1762310831-pan.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Breakdown Undangan"
+              "title": "1762310831-pan"
             }
           }
         ]
@@ -90,8 +90,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Breakdown Undangan.md",
+                "file": "php-library/1762310831-pan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Breakdown Undangan"
+              "title": "Outline of 1762310831-pan"
             }
           },
           {
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 412,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,34 +231,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "93f141b5c40a08e7",
   "lastOpenFiles": [
-    "1762310339-PHGD.md",
-    "Breakdown Undangan.md",
+    "attachment/Pasted image 20250323223734.png",
+    "attachment/Pasted image 20240802232142.png",
+    "php-library/1762310831-pan.md",
+    "php-library/pan.png",
+    "php-library/pan.md",
+    "project-managements/1728506838-jira.md",
+    "project-managements/1728506822-project-management.md",
+    "project-managements/1728506917-trello.md",
+    "project-managements/1728506930-confluence.md",
+    "reddit-upvoted/neovim.md",
+    "1728688475-some-usefull-web-apps.md",
+    "1728688664-excalidraw.md",
+    "1728688684-resend-email-service.md",
+    "1728688673-tldraw.md",
     "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+    "1758464981-sukebei.md",
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "1730138599-dependency-for-building-cli-with-javascript.md",
+    "1762310585-breakdown-undanganpdfapk.md",
+    "Breakdown Undangan.md",
+    "dailies/2025-05-08.md",
+    "index.md",
+    "1733476131-openstatus.md",
+    "1733471063-awesome-portfolios-web-apps.md",
+    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
+    "1762310339-PHGD.md",
     "1743844407-docker-compose-file-examples.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
-    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
-    "1739644546-downgrade-arch-linux-installed-package.md",
-    "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md",
-    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
-    "cheatsheets/1747073827-tar.md",
-    "cheatsheets/1747073738-mv.md",
-    "cheatsheets/1747073694-curl.md",
-    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
-    "cheatsheets/1736135014-clone-private-repository.md",
-    "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
-    "1739606203-linux-folder-or-file-permission.md",
-    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-    "README.md",
-    "LICENSE-CC-BY.md",
-    "templates/main.md",
-    "1730138599-dependency-for-building-cli-with-javascript.md",
-    "1762309655-JHOQ.md",
-    "1734320387-dosudotdev.md",
-    "1734123509-platforms-learning.md",
-    "learnings/1756048327-zustand.md",
     "public",
     "movies",
     "Movies/Movies.base",
@@ -265,16 +268,13 @@
     "Untitled.base",
     "1757258404-movies.base",
     "learnings",
-    "attachment/Pasted image 20250323223734.png",
     "attachment/Pasted image 20250513214049.png",
     "attachment/Breakdown-Undangan.png",
-    "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250513214012.png",
     "course-notes",
     "scripts",
     "templates",
     "attachment/2025-01-29.png",
-    "php-library/pan.png",
     "Untitled.canvas",
     "attachment/resend.png",
     "Untitled 10.canvas",

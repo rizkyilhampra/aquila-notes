@@ -1,12 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Breakdown Undangan",
-      "path": "Breakdown Undangan.md"
+      "basename": "1762310831-pan",
+      "path": "php-library/1762310831-pan.md"
+    },
+    {
+      "basename": "Pasted image 20250323223734",
+      "path": "attachment/Pasted image 20250323223734.png"
+    },
+    {
+      "basename": "Pasted image 20240802232142",
+      "path": "attachment/Pasted image 20240802232142.png"
+    },
+    {
+      "basename": "pan",
+      "path": "php-library/pan.png"
+    },
+    {
+      "basename": "1728506838-jira",
+      "path": "project-managements/1728506838-jira.md"
+    },
+    {
+      "basename": "1728506822-project-management",
+      "path": "project-managements/1728506822-project-management.md"
+    },
+    {
+      "basename": "1728506917-trello",
+      "path": "project-managements/1728506917-trello.md"
+    },
+    {
+      "basename": "1728506930-confluence",
+      "path": "project-managements/1728506930-confluence.md"
+    },
+    {
+      "basename": "neovim",
+      "path": "reddit-upvoted/neovim.md"
+    },
+    {
+      "basename": "1728688475-some-usefull-web-apps",
+      "path": "1728688475-some-usefull-web-apps.md"
+    },
+    {
+      "basename": "1728688664-excalidraw",
+      "path": "1728688664-excalidraw.md"
+    },
+    {
+      "basename": "1728688684-resend-email-service",
+      "path": "1728688684-resend-email-service.md"
+    },
+    {
+      "basename": "1728688673-tldraw",
+      "path": "1728688673-tldraw.md"
     },
     {
       "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
       "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
+    },
+    {
+      "basename": "1758464981-sukebei",
+      "path": "1758464981-sukebei.md"
+    },
+    {
+      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
+      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
+      "basename": "1730138599-dependency-for-building-cli-with-javascript",
+      "path": "1730138599-dependency-for-building-cli-with-javascript.md"
+    },
+    {
+      "basename": "2025-05-08",
+      "path": "dailies/2025-05-08.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "1733476131-openstatus",
+      "path": "1733476131-openstatus.md"
+    },
+    {
+      "basename": "1733471063-awesome-portfolios-web-apps",
+      "path": "1733471063-awesome-portfolios-web-apps.md"
+    },
+    {
+      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
+      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
     },
     {
       "basename": "1743844407-docker-compose-file-examples",
@@ -27,10 +107,6 @@
     {
       "basename": "1747061649-create-detached-standalone-database-mysql-container",
       "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
-    },
-    {
-      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
-      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
     },
     {
       "basename": "1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file",
@@ -65,10 +141,6 @@
       "path": "1739606203-linux-folder-or-file-permission.md"
     },
     {
-      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
-      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -81,10 +153,6 @@
       "path": "templates/main.md"
     },
     {
-      "basename": "1730138599-dependency-for-building-cli-with-javascript",
-      "path": "1730138599-dependency-for-building-cli-with-javascript.md"
-    },
-    {
       "basename": "1734320387-dosudotdev",
       "path": "1734320387-dosudotdev.md"
     },
@@ -95,10 +163,6 @@
     {
       "basename": "1756048327-zustand",
       "path": "learnings/1756048327-zustand.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya",
@@ -135,66 +199,6 @@
     {
       "basename": "git ignore permission changed",
       "path": "cheatsheets/git ignore permission changed.md"
-    },
-    {
-      "basename": "curl",
-      "path": "cheatsheets/curl.md"
-    },
-    {
-      "basename": "Check Network Driver Used",
-      "path": "cheatsheets/Check Network Driver Used.md"
-    },
-    {
-      "basename": "1738863450-file-encryption-to-copyable-decripted-content-using-age",
-      "path": "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md"
-    },
-    {
-      "basename": "1746720943-python",
-      "path": "course-notes/1746720943-python.md"
-    },
-    {
-      "basename": "1733471063-awesome-portfolios-web-apps",
-      "path": "1733471063-awesome-portfolios-web-apps.md"
-    },
-    {
-      "basename": "1728688664-excalidraw",
-      "path": "1728688664-excalidraw.md"
-    },
-    {
-      "basename": "1728688673-tldraw",
-      "path": "1728688673-tldraw.md"
-    },
-    {
-      "basename": "1728688684-resend-email-service",
-      "path": "1728688684-resend-email-service.md"
-    },
-    {
-      "basename": "Polar.sh",
-      "path": "Polar.sh.md"
-    },
-    {
-      "basename": "1758464981-sukebei",
-      "path": "1758464981-sukebei.md"
-    },
-    {
-      "basename": "LICENSE-MIT",
-      "path": "LICENSE-MIT.md"
-    },
-    {
-      "basename": "1757258870-movies",
-      "path": "movies/1757258870-movies.md"
-    },
-    {
-      "basename": "1733336586-neovim-dotfiles",
-      "path": "neovim/1733336586-neovim-dotfiles.md"
-    },
-    {
-      "basename": "1728601745-neovim",
-      "path": "neovim/1728601745-neovim.md"
-    },
-    {
-      "basename": "1728601004-indonesian-spell-check-neovim",
-      "path": "neovim/1728601004-indonesian-spell-check-neovim.md"
     }
   ],
   "omittedPaths": [],
