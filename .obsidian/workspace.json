@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93f141b5c40a08e7",
+            "id": "0dcfabd32c0e0f4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheets/tar gzip compression of folder.md",
+                "file": "cheatsheets/tar gzip uncompress to spesific folder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tar gzip compression of folder"
+              "title": "tar gzip uncompress to spesific folder"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheatsheets/tar gzip compression of folder.md",
+                "file": "cheatsheets/tar gzip uncompress to spesific folder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tar gzip compression of folder"
+              "title": "Outline of tar gzip uncompress to spesific folder"
             }
           },
           {
@@ -231,19 +231,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93f141b5c40a08e7",
+  "active": "0dcfabd32c0e0f4c",
   "lastOpenFiles": [
+    "cheatsheets/1762312687-create-an-compression-tar-gzip.md",
     "cheatsheets/1747073827-tar.md",
-    "cheatsheets/1762311664-check-network-driver-being-used.md",
+    "cheatsheets/1747073738-mv.md",
+    "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
+    "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/git ignore permission changed.md",
     "cheatsheets/tar gzip compression of folder.md",
+    "cheatsheets/lazysql.md",
+    "cheatsheets/1762311664-check-network-driver-being-used.md",
+    "cheatsheets/1762311406-samba.md",
     "awesome/1736092179-awesome-repositories.md",
     "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
     "cheatsheets/1747073694-curl.md",
-    "cheatsheets/1762311406-samba.md",
     "cheatsheets/Check Network Driver Used.md",
-    "cheatsheets/lazysql.md",
-    "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/Samba.md",
     "cheatsheets/curl.md",
     "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
@@ -260,10 +263,7 @@
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
     "attachment/1762310831-pan.png",
-    "php-library/1762310831-pan.md",
     "php-library/pan.png",
-    "php-library/pan.md",
-    "project-managements/1728506838-jira.md",
     "public",
     "movies",
     "Movies/Movies.base",
