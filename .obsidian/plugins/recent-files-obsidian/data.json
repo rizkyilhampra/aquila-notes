@@ -5,8 +5,8 @@
       "path": "hyprland/1762314311-pyprland.md"
     },
     {
-      "basename": "Pyprland",
-      "path": "hyprland/Pyprland.md"
+      "basename": "1762315251-hyprfocus",
+      "path": "hyprland/1762315251-hyprfocus.md"
     },
     {
       "basename": "neovim",
@@ -195,10 +195,6 @@
     {
       "basename": "1728688673-tldraw",
       "path": "1728688673-tldraw.md"
-    },
-    {
-      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
-      "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
     }
   ],
   "omittedPaths": [],
