@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php-library/1762310831-pan.md",
+                "file": "cheatsheets/Check Network Driver Used.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762310831-pan"
+              "title": "Check Network Driver Used"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "php-library/1762310831-pan.md",
+                "file": "cheatsheets/Check Network Driver Used.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762310831-pan"
+              "title": "Outline of Check Network Driver Used"
             }
           },
           {
@@ -233,8 +233,29 @@
   },
   "active": "93f141b5c40a08e7",
   "lastOpenFiles": [
-    "attachment/Pasted image 20250323223734.png",
+    "cheatsheets/lazysql.md",
+    "cheatsheets/tar gzip compression of folder.md",
+    "cheatsheets/tar gzip uncompress to spesific folder.md",
+    "cheatsheets/1762311406-samba.md",
+    "cheatsheets/Samba.md",
+    "cheatsheets/1747073694-curl.md",
+    "cheatsheets/git ignore permission changed.md",
+    "cheatsheets/Check Network Driver Used.md",
+    "cheatsheets/curl.md",
+    "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
+    "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
+    "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md",
+    "Clippings/Getting started with Kubernetes.md",
+    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
+    "movies/1757259062-bring-her-back.md",
+    "movies/1757258870-movies.md",
+    "1733471063-awesome-portfolios-web-apps.md",
+    "1762311195-polarsh.md",
+    "Polar.sh.md",
+    "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
+    "attachment/Pasted image 20250323223734.png",
+    "attachment/1762310831-pan.png",
     "php-library/1762310831-pan.md",
     "php-library/pan.png",
     "php-library/pan.md",
@@ -243,24 +264,6 @@
     "project-managements/1728506917-trello.md",
     "project-managements/1728506930-confluence.md",
     "reddit-upvoted/neovim.md",
-    "1728688475-some-usefull-web-apps.md",
-    "1728688664-excalidraw.md",
-    "1728688684-resend-email-service.md",
-    "1728688673-tldraw.md",
-    "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
-    "1758464981-sukebei.md",
-    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-    "1730138599-dependency-for-building-cli-with-javascript.md",
-    "1762310585-breakdown-undanganpdfapk.md",
-    "Breakdown Undangan.md",
-    "dailies/2025-05-08.md",
-    "index.md",
-    "1733476131-openstatus.md",
-    "1733471063-awesome-portfolios-web-apps.md",
-    "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md",
-    "1762310339-PHGD.md",
-    "1743844407-docker-compose-file-examples.md",
-    "1742317084-setting-up-dns-on-my-arch-linux.md",
     "public",
     "movies",
     "Movies/Movies.base",
@@ -276,7 +279,6 @@
     "templates",
     "attachment/2025-01-29.png",
     "Untitled.canvas",
-    "attachment/resend.png",
     "Untitled 10.canvas",
     "Untitled 9.canvas",
     "Untitled 8.canvas",
@@ -286,7 +288,6 @@
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "attachment/2024-08-09--20240809.png",
-    "Excalidraw/Drawing 2024-10-10 05.07.40.excalidraw.png"
+    "attachment/2024-08-09--20240809.png"
   ]
 }

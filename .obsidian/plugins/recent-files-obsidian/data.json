@@ -1,20 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "1762310831-pan",
-      "path": "php-library/1762310831-pan.md"
+      "basename": "Check Network Driver Used",
+      "path": "cheatsheets/Check Network Driver Used.md"
     },
     {
-      "basename": "Pasted image 20250323223734",
-      "path": "attachment/Pasted image 20250323223734.png"
+      "basename": "lazysql",
+      "path": "cheatsheets/lazysql.md"
+    },
+    {
+      "basename": "tar gzip compression of folder",
+      "path": "cheatsheets/tar gzip compression of folder.md"
+    },
+    {
+      "basename": "tar gzip uncompress to spesific folder",
+      "path": "cheatsheets/tar gzip uncompress to spesific folder.md"
+    },
+    {
+      "basename": "1762311406-samba",
+      "path": "cheatsheets/1762311406-samba.md"
+    },
+    {
+      "basename": "1747073694-curl",
+      "path": "cheatsheets/1747073694-curl.md"
+    },
+    {
+      "basename": "git ignore permission changed",
+      "path": "cheatsheets/git ignore permission changed.md"
+    },
+    {
+      "basename": "Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News",
+      "path": "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md"
+    },
+    {
+      "basename": "Type-Safe Shared Data and Page Props in Inertia.js - Laravel News",
+      "path": "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md"
+    },
+    {
+      "basename": "Harnessing Full-Text Search in Laravel - Laravel News",
+      "path": "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md"
+    },
+    {
+      "basename": "Getting started with Kubernetes",
+      "path": "Clippings/Getting started with Kubernetes.md"
+    },
+    {
+      "basename": "Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel",
+      "path": "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md"
+    },
+    {
+      "basename": "1757259062-bring-her-back",
+      "path": "movies/1757259062-bring-her-back.md"
+    },
+    {
+      "basename": "1757258870-movies",
+      "path": "movies/1757258870-movies.md"
+    },
+    {
+      "basename": "1733471063-awesome-portfolios-web-apps",
+      "path": "1733471063-awesome-portfolios-web-apps.md"
+    },
+    {
+      "basename": "1762311195-polarsh",
+      "path": "1762311195-polarsh.md"
+    },
+    {
+      "basename": "resend",
+      "path": "attachment/resend.png"
     },
     {
       "basename": "Pasted image 20240802232142",
       "path": "attachment/Pasted image 20240802232142.png"
     },
     {
-      "basename": "pan",
-      "path": "php-library/pan.png"
+      "basename": "Pasted image 20250323223734",
+      "path": "attachment/Pasted image 20250323223734.png"
+    },
+    {
+      "basename": "1762310831-pan",
+      "path": "attachment/1762310831-pan.png"
+    },
+    {
+      "basename": "1762310831-pan",
+      "path": "php-library/1762310831-pan.md"
     },
     {
       "basename": "1728506838-jira",
@@ -81,10 +149,6 @@
       "path": "1733476131-openstatus.md"
     },
     {
-      "basename": "1733471063-awesome-portfolios-web-apps",
-      "path": "1733471063-awesome-portfolios-web-apps.md"
-    },
-    {
       "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
       "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
     },
@@ -121,10 +185,6 @@
       "path": "cheatsheets/1747073738-mv.md"
     },
     {
-      "basename": "1747073694-curl",
-      "path": "cheatsheets/1747073694-curl.md"
-    },
-    {
       "basename": "1737972342-change-the-upstream-branch-of-local-branch",
       "path": "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "1739606203-linux-folder-or-file-permission",
       "path": "1739606203-linux-folder-or-file-permission.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "LICENSE-CC-BY",
-      "path": "LICENSE-CC-BY.md"
-    },
-    {
-      "basename": "main",
-      "path": "templates/main.md"
-    },
-    {
-      "basename": "1734320387-dosudotdev",
-      "path": "1734320387-dosudotdev.md"
-    },
-    {
-      "basename": "1734123509-platforms-learning",
-      "path": "1734123509-platforms-learning.md"
-    },
-    {
-      "basename": "1756048327-zustand",
-      "path": "learnings/1756048327-zustand.md"
-    },
-    {
-      "basename": "1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya",
-      "path": "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md"
-    },
-    {
-      "basename": "1757774888-how-to-decompile-an-python-310-program",
-      "path": "1757774888-how-to-decompile-an-python-310-program.md"
-    },
-    {
-      "basename": "1747061744-remove-executable-flag-from-conflicted-files-in-git",
-      "path": "snippets/commands/1747061744-remove-executable-flag-from-conflicted-files-in-git.md"
-    },
-    {
-      "basename": "1748684577-create-file-with-timestamp",
-      "path": "snippets/commands/1748684577-create-file-with-timestamp.md"
-    },
-    {
-      "basename": "tar gzip uncompress to spesific folder",
-      "path": "cheatsheets/tar gzip uncompress to spesific folder.md"
-    },
-    {
-      "basename": "tar gzip compression of folder",
-      "path": "cheatsheets/tar gzip compression of folder.md"
-    },
-    {
-      "basename": "Samba",
-      "path": "cheatsheets/Samba.md"
-    },
-    {
-      "basename": "lazysql",
-      "path": "cheatsheets/lazysql.md"
-    },
-    {
-      "basename": "git ignore permission changed",
-      "path": "cheatsheets/git ignore permission changed.md"
     }
   ],
   "omittedPaths": [],
