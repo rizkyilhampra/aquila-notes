@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "1728526878-multivariate-testing",
-      "path": "1728526878-multivariate-testing.md"
+      "basename": "Pyprland",
+      "path": "hyprland/Pyprland.md"
+    },
+    {
+      "basename": "1758464981-sukebei",
+      "path": "1758464981-sukebei.md"
     },
     {
       "basename": "1728688475-some-usefull-web-apps",
       "path": "1728688475-some-usefull-web-apps.md"
     },
     {
-      "basename": "Polar.sh",
-      "path": "Polar.sh.md"
+      "basename": "1762311195-polarsh",
+      "path": "1762311195-polarsh.md"
+    },
+    {
+      "basename": "Pasted image 20240802232142",
+      "path": "attachment/Pasted image 20240802232142.png"
+    },
+    {
+      "basename": "1762310831-pan",
+      "path": "attachment/1762310831-pan.png"
+    },
+    {
+      "basename": "1728688684-resend-email-service",
+      "path": "1728688684-resend-email-service.md"
+    },
+    {
+      "basename": "2025-05-23",
+      "path": "dailies/2025-05-23.md"
+    },
+    {
+      "basename": "2025-05-10",
+      "path": "dailies/2025-05-10.md"
+    },
+    {
+      "basename": "2025-05-08",
+      "path": "dailies/2025-05-08.md"
+    },
+    {
+      "basename": "2025-01-29",
+      "path": "dailies/2025-01-29.md"
+    },
+    {
+      "basename": "2025-01-28",
+      "path": "dailies/2025-01-28.md"
+    },
+    {
+      "basename": "1728526878-multivariate-testing",
+      "path": "1728526878-multivariate-testing.md"
     },
     {
       "basename": "1728688664-excalidraw",
@@ -23,10 +63,6 @@
     {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
-    },
-    {
-      "basename": "1762311195-polarsh",
-      "path": "1762311195-polarsh.md"
     },
     {
       "basename": "neovim",
@@ -109,22 +145,6 @@
       "path": "1733471063-awesome-portfolios-web-apps.md"
     },
     {
-      "basename": "resend",
-      "path": "attachment/resend.png"
-    },
-    {
-      "basename": "Pasted image 20240802232142",
-      "path": "attachment/Pasted image 20240802232142.png"
-    },
-    {
-      "basename": "Pasted image 20250323223734",
-      "path": "attachment/Pasted image 20250323223734.png"
-    },
-    {
-      "basename": "1762310831-pan",
-      "path": "attachment/1762310831-pan.png"
-    },
-    {
       "basename": "1762310831-pan",
       "path": "php-library/1762310831-pan.md"
     },
@@ -145,10 +165,6 @@
       "path": "project-managements/1728506930-confluence.md"
     },
     {
-      "basename": "1728688684-resend-email-service",
-      "path": "1728688684-resend-email-service.md"
-    },
-    {
       "basename": "1728688673-tldraw",
       "path": "1728688673-tldraw.md"
     },
@@ -157,16 +173,8 @@
       "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
     },
     {
-      "basename": "1758464981-sukebei",
-      "path": "1758464981-sukebei.md"
-    },
-    {
       "basename": "1730138599-dependency-for-building-cli-with-javascript",
       "path": "1730138599-dependency-for-building-cli-with-javascript.md"
-    },
-    {
-      "basename": "2025-05-08",
-      "path": "dailies/2025-05-08.md"
     },
     {
       "basename": "index",
@@ -183,22 +191,6 @@
     {
       "basename": "1743844407-docker-compose-file-examples",
       "path": "1743844407-docker-compose-file-examples.md"
-    },
-    {
-      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
-      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
-    },
-    {
-      "basename": "1739644546-downgrade-arch-linux-installed-package",
-      "path": "1739644546-downgrade-arch-linux-installed-package.md"
-    },
-    {
-      "basename": "1747061649-create-detached-standalone-database-mysql-container",
-      "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
-    },
-    {
-      "basename": "1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file",
-      "path": "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md"
     }
   ],
   "omittedPaths": [],

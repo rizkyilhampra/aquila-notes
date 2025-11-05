@@ -11,24 +11,10 @@
             "id": "0dcfabd32c0e0f4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1728526878-multivariate-testing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1728526878-multivariate-testing"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:docker",
+                "query": "Polar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -160,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1728526878-multivariate-testing.md",
+                "file": "Excalidraw/Drawing 2025-02-17 14.34.23.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728526878-multivariate-testing"
+              "title": "Outline of Drawing 2025-02-17 14.34.23.excalidraw"
             }
           },
           {
@@ -210,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 412,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,14 +217,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0dcfabd32c0e0f4c",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
+    "Excalidraw/automation-penginputan-vaksin.excalidraw.md",
+    "hyprland/Pyprland.md",
+    "1758464981-sukebei.md",
     "1728688475-some-usefull-web-apps.md",
+    "1762311195-polarsh.md",
     "Polar.sh.md",
+    "attachment/Pasted image 20240802232142.png",
+    "attachment/Pasted image 20250323223734.png",
+    "attachment/1762310831-pan.png",
+    "1728688684-resend-email-service.md",
+    "attachment/resend.png",
+    "dailies/2025-05-23.md",
+    "dailies/2025-05-10.md",
+    "dailies/2025-05-08.md",
+    "dailies/2025-01-29.md",
+    "dailies/2025-01-28.md",
+    "1728526878-multivariate-testing.md",
+    "dailies/2025-05-27.md",
     "1728688664-excalidraw.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-    "1762311195-polarsh.md",
     "reddit-upvoted/neovim.md",
     "cheatsheets/1762313480-database-connection-strings-examples.md",
     "cheatsheets/lazysql.md",
@@ -247,21 +249,6 @@
     "cheatsheets/1762311664-check-network-driver-being-used.md",
     "cheatsheets/tar gzip uncompress to spesific folder.md",
     "cheatsheets/1747073827-tar.md",
-    "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
-    "cheatsheets/git ignore permission changed.md",
-    "cheatsheets/tar gzip compression of folder.md",
-    "cheatsheets/1762311406-samba.md",
-    "awesome/1736092179-awesome-repositories.md",
-    "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
-    "cheatsheets/1747073694-curl.md",
-    "cheatsheets/Check Network Driver Used.md",
-    "cheatsheets/Samba.md",
-    "cheatsheets/curl.md",
-    "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
-    "attachment/resend.png",
-    "attachment/Pasted image 20240802232142.png",
-    "attachment/Pasted image 20250323223734.png",
-    "attachment/1762310831-pan.png",
     "php-library/pan.png",
     "public",
     "movies",
