@@ -1,24 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "main",
-      "path": "templates/main.md"
+      "basename": "Breakdown Undangan",
+      "path": "Breakdown Undangan.md"
     },
     {
-      "basename": "1730138599-dependency-for-building-cli-with-javascript",
-      "path": "1730138599-dependency-for-building-cli-with-javascript.md"
+      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
+      "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
     },
     {
       "basename": "1743844407-docker-compose-file-examples",
       "path": "1743844407-docker-compose-file-examples.md"
     },
     {
-      "basename": "1739606203-linux-folder-or-file-permission",
-      "path": "1739606203-linux-folder-or-file-permission.md"
+      "basename": "1742317084-setting-up-dns-on-my-arch-linux",
+      "path": "1742317084-setting-up-dns-on-my-arch-linux.md"
     },
     {
       "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
       "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
+    },
+    {
+      "basename": "1739644546-downgrade-arch-linux-installed-package",
+      "path": "1739644546-downgrade-arch-linux-installed-package.md"
+    },
+    {
+      "basename": "1747061649-create-detached-standalone-database-mysql-container",
+      "path": "snippets/commands/docker/1747061649-create-detached-standalone-database-mysql-container.md"
+    },
+    {
+      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
+      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
+    },
+    {
+      "basename": "1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file",
+      "path": "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md"
+    },
+    {
+      "basename": "1747073827-tar",
+      "path": "cheatsheets/1747073827-tar.md"
+    },
+    {
+      "basename": "1747073738-mv",
+      "path": "cheatsheets/1747073738-mv.md"
+    },
+    {
+      "basename": "1747073694-curl",
+      "path": "cheatsheets/1747073694-curl.md"
+    },
+    {
+      "basename": "1737972342-change-the-upstream-branch-of-local-branch",
+      "path": "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md"
+    },
+    {
+      "basename": "1736135014-clone-private-repository",
+      "path": "cheatsheets/1736135014-clone-private-repository.md"
+    },
+    {
+      "basename": "1738863172-content-to-file-encryption-using-age",
+      "path": "cheatsheets/1738863172-content-to-file-encryption-using-age.md"
+    },
+    {
+      "basename": "1739606203-linux-folder-or-file-permission",
+      "path": "1739606203-linux-folder-or-file-permission.md"
+    },
+    {
+      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
+      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "LICENSE-CC-BY",
+      "path": "LICENSE-CC-BY.md"
+    },
+    {
+      "basename": "main",
+      "path": "templates/main.md"
+    },
+    {
+      "basename": "1730138599-dependency-for-building-cli-with-javascript",
+      "path": "1730138599-dependency-for-building-cli-with-javascript.md"
     },
     {
       "basename": "1734320387-dosudotdev",
@@ -37,18 +101,6 @@
       "path": "index.md"
     },
     {
-      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
-      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
-      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
-    },
-    {
       "basename": "1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya",
       "path": "blog/1760877513-masalah-xampp-di-eclaim-inacbg-bpjs-dan-cara-mengatasinya.md"
     },
@@ -63,10 +115,6 @@
     {
       "basename": "1748684577-create-file-with-timestamp",
       "path": "snippets/commands/1748684577-create-file-with-timestamp.md"
-    },
-    {
-      "basename": "Breakdown Undangan",
-      "path": "Breakdown Undangan.md"
     },
     {
       "basename": "tar gzip uncompress to spesific folder",
@@ -97,44 +145,12 @@
       "path": "cheatsheets/Check Network Driver Used.md"
     },
     {
-      "basename": "1747073827-tar",
-      "path": "cheatsheets/1747073827-tar.md"
-    },
-    {
-      "basename": "1747073738-mv",
-      "path": "cheatsheets/1747073738-mv.md"
-    },
-    {
-      "basename": "1747073694-curl",
-      "path": "cheatsheets/1747073694-curl.md"
-    },
-    {
       "basename": "1738863450-file-encryption-to-copyable-decripted-content-using-age",
       "path": "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md"
     },
     {
-      "basename": "1738863172-content-to-file-encryption-using-age",
-      "path": "cheatsheets/1738863172-content-to-file-encryption-using-age.md"
-    },
-    {
-      "basename": "1737972342-change-the-upstream-branch-of-local-branch",
-      "path": "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md"
-    },
-    {
-      "basename": "1736135014-clone-private-repository",
-      "path": "cheatsheets/1736135014-clone-private-repository.md"
-    },
-    {
       "basename": "1746720943-python",
       "path": "course-notes/1746720943-python.md"
-    },
-    {
-      "basename": "1742317084-setting-up-dns-on-my-arch-linux",
-      "path": "1742317084-setting-up-dns-on-my-arch-linux.md"
-    },
-    {
-      "basename": "1739644546-downgrade-arch-linux-installed-package",
-      "path": "1739644546-downgrade-arch-linux-installed-package.md"
     },
     {
       "basename": "1733471063-awesome-portfolios-web-apps",
@@ -161,10 +177,6 @@
       "path": "1758464981-sukebei.md"
     },
     {
-      "basename": "LICENSE-CC-BY",
-      "path": "LICENSE-CC-BY.md"
-    },
-    {
       "basename": "LICENSE-MIT",
       "path": "LICENSE-MIT.md"
     },
@@ -183,22 +195,6 @@
     {
       "basename": "1728601004-indonesian-spell-check-neovim",
       "path": "neovim/1728601004-indonesian-spell-check-neovim.md"
-    },
-    {
-      "basename": "1757270819-28-years-later",
-      "path": "movies/1757270819-28-years-later.md"
-    },
-    {
-      "basename": "1757261726-final-destination-bloodlines",
-      "path": "movies/1757261726-final-destination-bloodlines.md"
-    },
-    {
-      "basename": "1757259062-bring-her-back",
-      "path": "movies/1757259062-bring-her-back.md"
-    },
-    {
-      "basename": "Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel",
-      "path": "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md"
     }
   ],
   "omittedPaths": [],
