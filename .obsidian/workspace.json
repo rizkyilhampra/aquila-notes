@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheets/tar gzip uncompress to spesific folder.md",
+                "file": "1728526878-multivariate-testing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tar gzip uncompress to spesific folder"
+              "title": "1728526878-multivariate-testing"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheatsheets/tar gzip uncompress to spesific folder.md",
+                "file": "1728526878-multivariate-testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tar gzip uncompress to spesific folder"
+              "title": "Outline of 1728526878-multivariate-testing"
             }
           },
           {
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412,
-    "collapsed": true
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +232,24 @@
   },
   "active": "0dcfabd32c0e0f4c",
   "lastOpenFiles": [
-    "cheatsheets/1762312687-create-an-compression-tar-gzip.md",
-    "cheatsheets/1747073827-tar.md",
+    "1728688475-some-usefull-web-apps.md",
+    "Polar.sh.md",
+    "1728688664-excalidraw.md",
+    "1742317084-setting-up-dns-on-my-arch-linux.md",
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "1762311195-polarsh.md",
+    "reddit-upvoted/neovim.md",
+    "cheatsheets/1762313480-database-connection-strings-examples.md",
+    "cheatsheets/lazysql.md",
+    "cheatsheets/1762313159-extract-or-decompress-tar-gzip-file.md",
     "cheatsheets/1747073738-mv.md",
-    "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
+    "cheatsheets/1762312687-create-an-compression-tar-gzip.md",
+    "cheatsheets/1762311664-check-network-driver-being-used.md",
     "cheatsheets/tar gzip uncompress to spesific folder.md",
+    "cheatsheets/1747073827-tar.md",
+    "cheatsheets/1738863172-content-to-file-encryption-using-age.md",
     "cheatsheets/git ignore permission changed.md",
     "cheatsheets/tar gzip compression of folder.md",
-    "cheatsheets/lazysql.md",
-    "cheatsheets/1762311664-check-network-driver-being-used.md",
     "cheatsheets/1762311406-samba.md",
     "awesome/1736092179-awesome-repositories.md",
     "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md",
@@ -250,15 +258,6 @@
     "cheatsheets/Samba.md",
     "cheatsheets/curl.md",
     "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md",
-    "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md",
-    "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md",
-    "Clippings/Getting started with Kubernetes.md",
-    "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md",
-    "movies/1757259062-bring-her-back.md",
-    "movies/1757258870-movies.md",
-    "1733471063-awesome-portfolios-web-apps.md",
-    "1762311195-polarsh.md",
-    "Polar.sh.md",
     "attachment/resend.png",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
