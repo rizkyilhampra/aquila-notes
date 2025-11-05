@@ -11,10 +11,24 @@
             "id": "0dcfabd32c0e0f4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "hyprland/1762314311-pyprland.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1762314311-pyprland"
             }
           }
         ]
@@ -146,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-17 14.34.23.excalidraw.md",
+                "file": "hyprland/1762314311-pyprland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-02-17 14.34.23.excalidraw"
+              "title": "Outline of 1762314311-pyprland"
             }
           },
           {
@@ -217,10 +231,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "0dcfabd32c0e0f4c",
   "lastOpenFiles": [
-    "Excalidraw/automation-penginputan-vaksin.excalidraw.md",
+    "reddit-upvoted/neovim.md",
+    "hyprland/1762314311-pyprland.md",
+    "scripts/1743735338-redirect-and-sync.md",
+    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
+    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
+    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
+    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "hyprland/Pyprland.md",
+    "learnings/1756048327-zustand.md",
+    "Excalidraw/Drawing 2025-02-17 14.34.23.excalidraw.md",
+    "Excalidraw/automation-penginputan-vaksin.excalidraw.md",
     "1758464981-sukebei.md",
     "1728688475-some-usefull-web-apps.md",
     "1762311195-polarsh.md",
@@ -240,15 +263,6 @@
     "1728688664-excalidraw.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-    "reddit-upvoted/neovim.md",
-    "cheatsheets/1762313480-database-connection-strings-examples.md",
-    "cheatsheets/lazysql.md",
-    "cheatsheets/1762313159-extract-or-decompress-tar-gzip-file.md",
-    "cheatsheets/1747073738-mv.md",
-    "cheatsheets/1762312687-create-an-compression-tar-gzip.md",
-    "cheatsheets/1762311664-check-network-driver-being-used.md",
-    "cheatsheets/tar gzip uncompress to spesific folder.md",
-    "cheatsheets/1747073827-tar.md",
     "php-library/pan.png",
     "public",
     "movies",

@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "1762314311-pyprland",
+      "path": "hyprland/1762314311-pyprland.md"
+    },
+    {
+      "basename": "neovim",
+      "path": "reddit-upvoted/neovim.md"
+    },
+    {
+      "basename": "1743735338-redirect-and-sync",
+      "path": "scripts/1743735338-redirect-and-sync.md"
+    },
+    {
+      "basename": "1736003618-create-a-single-container-to-estimate-the-database-size",
+      "path": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md"
+    },
+    {
+      "basename": "1736003661-create-a-single-detached-container",
+      "path": "snippets/commands/docker/1736003661-create-a-single-detached-container.md"
+    },
+    {
+      "basename": "1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file",
+      "path": "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md"
+    },
+    {
+      "basename": "1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file",
+      "path": "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md"
+    },
+    {
       "basename": "Pyprland",
       "path": "hyprland/Pyprland.md"
+    },
+    {
+      "basename": "1756048327-zustand",
+      "path": "learnings/1756048327-zustand.md"
     },
     {
       "basename": "1758464981-sukebei",
@@ -63,10 +95,6 @@
     {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
-    },
-    {
-      "basename": "neovim",
-      "path": "reddit-upvoted/neovim.md"
     },
     {
       "basename": "1762313480-database-connection-strings-examples",
@@ -171,26 +199,6 @@
     {
       "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
       "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
-    },
-    {
-      "basename": "1730138599-dependency-for-building-cli-with-javascript",
-      "path": "1730138599-dependency-for-building-cli-with-javascript.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "1733476131-openstatus",
-      "path": "1733476131-openstatus.md"
-    },
-    {
-      "basename": "1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host",
-      "path": "snippets/commands/1737305218-phpmyadmin-with-docker-to-quick-open-and-connect-to-specifif-host.md"
-    },
-    {
-      "basename": "1743844407-docker-compose-file-examples",
-      "path": "1743844407-docker-compose-file-examples.md"
     }
   ],
   "omittedPaths": [],
