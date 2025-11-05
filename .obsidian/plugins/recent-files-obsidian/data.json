@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "1762309655-JHOQ",
-      "path": "1762309655-JHOQ.md"
+      "basename": "main",
+      "path": "templates/main.md"
+    },
+    {
+      "basename": "1730138599-dependency-for-building-cli-with-javascript",
+      "path": "1730138599-dependency-for-building-cli-with-javascript.md"
     },
     {
       "basename": "1743844407-docker-compose-file-examples",
@@ -195,10 +199,6 @@
     {
       "basename": "Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel",
       "path": "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md"
-    },
-    {
-      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
-      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
     }
   ],
   "omittedPaths": [],
