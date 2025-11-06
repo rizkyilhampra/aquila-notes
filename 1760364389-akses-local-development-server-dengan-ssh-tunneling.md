@@ -1,14 +1,11 @@
 ---
 id: 1760364487-akses-local-development-server-dengan-ssh-tunneling
-aliases:
-  - Akses local development server dengan ssh tunneling
-tags:
-  - ssh
-  - cheatsheets
+aliases: [Akses local development server dengan ssh tunneling]
+tags: [ssh, cheatsheets]
 publish: true
 title: Akses local development server dengan ssh tunneling
-created: 2025-10-13T14:06:00
-modified: Thursday, November 6th 2025, 10:25:29 pm
+created: 2025-10-13 14:06
+modified: 2025-11-06 22:42
 ---
 
 # Akses local development server dengan ssh tunneling
