@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "file": "1762311195-polarsh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "1762311195-polarsh"
+            }
+          },
+          {
+            "id": "b7a2068d66fc2fb6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -98,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501
+    "width": 296
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -114,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpns/pilar-negara/Pancasila.md",
+                "file": "1762311195-polarsh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pancasila"
+              "title": "Backlinks for 1762311195-polarsh"
             }
           },
           {
@@ -133,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
+                "file": "1762311195-polarsh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1756052446-deployment-of-spdhtc-using-existing-backup-database-file"
+              "title": "Outgoing links from 1762311195-polarsh"
             }
           },
           {
@@ -160,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1728351874-function-to-sanitize-indonesian-currency-format.md",
+                "file": "1762311195-polarsh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1728351874-function-to-sanitize-indonesian-currency-format"
+              "title": "Outline of 1762311195-polarsh"
             }
           },
           {
@@ -190,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -231,12 +241,23 @@
   },
   "active": "0dcfabd32c0e0f4c",
   "lastOpenFiles": [
+    "1762432642-.md",
+    "1762311195-polarsh.md",
+    "1758464981-sukebei.md",
+    "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+    "1742317084-setting-up-dns-on-my-arch-linux.md",
+    "1739606203-linux-folder-or-file-permission.md",
+    "1734320387-dosudotdev.md",
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "1757774888-how-to-decompile-an-python-310-program.md",
+    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
+    "1733471063-awesome-portfolios-web-apps.md",
+    "1739644546-downgrade-arch-linux-installed-package.md",
     "index.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "Freeze or hang randomly on arch linux with hyprland.md",
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
-    "1739606203-linux-folder-or-file-permission.md",
     "fronted-related-stuff/1733478060-acerternity-ui.md",
     "fronted-related-stuff/1734483688-magic-ui.md",
     "fronted-related-stuff/1734483850-ui-libraries.md",
@@ -246,17 +267,6 @@
     "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md",
     "snippets/commands/1748684577-create-file-with-timestamp.md",
-    "hyprland/1762314311-pyprland.md",
-    "hyprland/1762315251-hyprfocus.md",
-    "hyprland/Hyprfocus.md",
-    "hyprland/Pyprland.md",
-    "reddit-upvoted/neovim.md",
-    "scripts/1743735338-redirect-and-sync.md",
-    "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md",
-    "snippets/commands/docker/1736003661-create-a-single-detached-container.md",
-    "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
-    "learnings/1756048327-zustand.md",
-    "Excalidraw/Drawing 2025-02-17 14.34.23.excalidraw.md",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
     "attachment/1762310831-pan.png",

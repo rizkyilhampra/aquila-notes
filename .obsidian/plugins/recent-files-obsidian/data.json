@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "1762311195-polarsh",
+      "path": "1762311195-polarsh.md"
+    },
+    {
+      "basename": "1758464981-sukebei",
+      "path": "1758464981-sukebei.md"
+    },
+    {
+      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
+      "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
+    },
+    {
+      "basename": "1742317084-setting-up-dns-on-my-arch-linux",
+      "path": "1742317084-setting-up-dns-on-my-arch-linux.md"
+    },
+    {
+      "basename": "1739606203-linux-folder-or-file-permission",
+      "path": "1739606203-linux-folder-or-file-permission.md"
+    },
+    {
+      "basename": "1734320387-dosudotdev",
+      "path": "1734320387-dosudotdev.md"
+    },
+    {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
+      "basename": "1757774888-how-to-decompile-an-python-310-program",
+      "path": "1757774888-how-to-decompile-an-python-310-program.md"
+    },
+    {
+      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
+      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
+    },
+    {
+      "basename": "1733471063-awesome-portfolios-web-apps",
+      "path": "1733471063-awesome-portfolios-web-apps.md"
+    },
+    {
+      "basename": "1739644546-downgrade-arch-linux-installed-package",
+      "path": "1739644546-downgrade-arch-linux-installed-package.md"
     },
     {
       "basename": "index",
@@ -19,10 +59,6 @@
     {
       "basename": "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash",
       "path": "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md"
-    },
-    {
-      "basename": "1739606203-linux-folder-or-file-permission",
-      "path": "1739606203-linux-folder-or-file-permission.md"
     },
     {
       "basename": "1733478060-acerternity-ui",
@@ -93,16 +129,8 @@
       "path": "learnings/1756048327-zustand.md"
     },
     {
-      "basename": "1758464981-sukebei",
-      "path": "1758464981-sukebei.md"
-    },
-    {
       "basename": "1728688475-some-usefull-web-apps",
       "path": "1728688475-some-usefull-web-apps.md"
-    },
-    {
-      "basename": "1762311195-polarsh",
-      "path": "1762311195-polarsh.md"
     },
     {
       "basename": "Pasted image 20240802232142",
@@ -137,10 +165,6 @@
       "path": "1728526878-multivariate-testing.md"
     },
     {
-      "basename": "1742317084-setting-up-dns-on-my-arch-linux",
-      "path": "1742317084-setting-up-dns-on-my-arch-linux.md"
-    },
-    {
       "basename": "1762313480-database-connection-strings-examples",
       "path": "cheatsheets/1762313480-database-connection-strings-examples.md"
     },
@@ -171,34 +195,6 @@
     {
       "basename": "1762311406-samba",
       "path": "cheatsheets/1762311406-samba.md"
-    },
-    {
-      "basename": "1736092179-awesome-repositories",
-      "path": "awesome/1736092179-awesome-repositories.md"
-    },
-    {
-      "basename": "1738863450-file-encryption-to-copyable-decripted-content-using-age",
-      "path": "cheatsheets/1738863450-file-encryption-to-copyable-decripted-content-using-age.md"
-    },
-    {
-      "basename": "1747073694-curl",
-      "path": "cheatsheets/1747073694-curl.md"
-    },
-    {
-      "basename": "Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News",
-      "path": "Clippings/Managing Multi-Device Sessions with Laravel's Device Logout Feature - Laravel News.md"
-    },
-    {
-      "basename": "Type-Safe Shared Data and Page Props in Inertia.js - Laravel News",
-      "path": "Clippings/Type-Safe Shared Data and Page Props in Inertia.js - Laravel News.md"
-    },
-    {
-      "basename": "Harnessing Full-Text Search in Laravel - Laravel News",
-      "path": "Clippings/Harnessing Full-Text Search in Laravel - Laravel News.md"
-    },
-    {
-      "basename": "Getting started with Kubernetes",
-      "path": "Clippings/Getting started with Kubernetes.md"
     }
   ],
   "omittedPaths": [],
