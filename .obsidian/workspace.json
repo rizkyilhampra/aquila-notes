@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dcfabd32c0e0f4c",
+            "id": "b7a2068d66fc2fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,16 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
-            }
-          },
-          {
-            "id": "b7a2068d66fc2fb6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -239,10 +229,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0dcfabd32c0e0f4c",
+  "active": "b7a2068d66fc2fb6",
   "lastOpenFiles": [
-    "1762311195-polarsh.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "1762311195-polarsh.md",
     "Akses local development server dengan ssh tunneling test.md",
     "1762432642-.md",
     "1758464981-sukebei.md",
