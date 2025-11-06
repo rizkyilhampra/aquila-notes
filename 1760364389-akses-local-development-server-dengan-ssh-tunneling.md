@@ -4,7 +4,8 @@ aliases: [Akses local development server dengan ssh tunneling]
 tags: [ssh, cheatsheets]
 publish: true
 date created: Thursday, November 6th 2025, 9:29:16 pm
-date modified: Thursday, November 6th 2025, 10:10:56:43 pm
+date modified: Thursday, November 6th 2025, 10:17:21 pm
+title: Akses local development server dengan ssh tunneling
 ---
 
 # Akses local development server dengan ssh tunneling
