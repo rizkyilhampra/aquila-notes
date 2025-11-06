@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
+      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
+    },
+    {
       "basename": "1728351874-function-to-sanitize-indonesian-currency-format",
       "path": "1728351874-function-to-sanitize-indonesian-currency-format.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Getting started with Kubernetes",
       "path": "Clippings/Getting started with Kubernetes.md"
-    },
-    {
-      "basename": "Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel",
-      "path": "Clippings/Fan-Out and Fan-In Patterns Building a Personalized Feed in Laravel.md"
-    },
-    {
-      "basename": "1757259062-bring-her-back",
-      "path": "movies/1757259062-bring-her-back.md"
     }
   ],
   "omittedPaths": [],

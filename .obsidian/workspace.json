@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1728351874-function-to-sanitize-indonesian-currency-format.md",
+                "file": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728351874-function-to-sanitize-indonesian-currency-format"
+              "title": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 501
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 412,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +231,9 @@
   },
   "active": "0dcfabd32c0e0f4c",
   "lastOpenFiles": [
+    "Freeze or hang randomly on arch linux with hyprland.md",
+    "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "1739606203-linux-folder-or-file-permission.md",
     "fronted-related-stuff/1733478060-acerternity-ui.md",
@@ -253,9 +257,6 @@
     "learnings/1756048327-zustand.md",
     "Excalidraw/Drawing 2025-02-17 14.34.23.excalidraw.md",
     "Excalidraw/automation-penginputan-vaksin.excalidraw.md",
-    "1758464981-sukebei.md",
-    "1728688475-some-usefull-web-apps.md",
-    "1762311195-polarsh.md",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
     "attachment/1762310831-pan.png",
