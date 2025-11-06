@@ -1,12 +1,13 @@
 ---
 id: 1760364487-akses-local-development-server-dengan-ssh-tunneling
-aliases:
-  - Akses local development server dengan ssh tunneling
-tags:
-  - ssh
-  - cheatsheets
+aliases: [Akses local development server dengan ssh tunneling]
+tags: [ssh, cheatsheets]
 publish: true
+linter-yaml-title-alias: Akses local development server dengan ssh tunneling
+date created: Thursday, November 6th 2025, 9:29:16 pm
+date modified: Thursday, November 6th 2025, 9:47:58 pm
 ---
+
 # Akses local development server dengan ssh tunneling
 
 Tulisan ini didasari kebutuhan saya untuk mengakses PC kantor yang disana terdapat *local development server* yang sedang berjalan. Sebelum mengetahui langkah ini, saya biasanya melakukan *tunnneling* menggungkan `cloudflared`. Itu mengharuskan saya untuk membuat domain baru dan *mapping* *port* yang ingin digunakan agar saya dapat mengakses *web* atau aplikasi tersebut secara jarak jauh (diluar dari *local area network*). Setelah terbesit suatu pertanyaan, mungkinkah kita *tunnneling* dengan hanya bermodal SSH saja yang telah terkoneksi, sehingga kita hanya buka atau cukup *mapping* *port* 22 saja? Ternyata bisa. 

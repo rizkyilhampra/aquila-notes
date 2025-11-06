@@ -1,9 +1,0 @@
-{
-  "defaultTitleSource": "filename",
-  "illegalCharHandling": "remove",
-  "customReplacement": "",
-  "updateOtherTitlesWithSanitizedVersion": true,
-  "syncMode": "all",
-  "notificationPreference": "all",
-  "mobileNotificationPreference": null
-}
