@@ -61,7 +61,7 @@
       "enabled": true,
       "date-created": true,
       "date-created-key": "date created",
-      "date-created-source-of-truth": "file system",
+      "date-created-source-of-truth": "frontmatter",
       "date-modified": true,
       "date-modified-key": "date modified",
       "date-modified-source-of-truth": "file system",
