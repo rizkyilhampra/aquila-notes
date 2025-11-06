@@ -4,6 +4,7 @@ alias: Akses local development server dengan ssh tunneling
 tags:
   - ssh
   - cheatsheets
+publish: true
 ---
 # Akses local development server dengan ssh tunneling
 
