@@ -1,6 +1,9 @@
 ---
+id: index
 aliases:
   - index
+tags: []
+publish: true
 title: Welcome to my digital garden
 ---
 

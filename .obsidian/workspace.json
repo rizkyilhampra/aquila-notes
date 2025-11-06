@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           }
         ]
@@ -231,8 +231,9 @@
   },
   "active": "0dcfabd32c0e0f4c",
   "lastOpenFiles": [
-    "Freeze or hang randomly on arch linux with hyprland.md",
+    "index.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
+    "Freeze or hang randomly on arch linux with hyprland.md",
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "1739606203-linux-folder-or-file-permission.md",
@@ -256,7 +257,6 @@
     "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md",
     "learnings/1756048327-zustand.md",
     "Excalidraw/Drawing 2025-02-17 14.34.23.excalidraw.md",
-    "Excalidraw/automation-penginputan-vaksin.excalidraw.md",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
     "attachment/1762310831-pan.png",
