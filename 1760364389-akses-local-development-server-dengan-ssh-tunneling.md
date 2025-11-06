@@ -7,8 +7,8 @@ tags:
   - cheatsheets
 publish: true
 title: Akses local development server dengan ssh tunneling
-created: 2025-10-13
-modified: 2025-06-10
+created: 2025-10-13T14:06:00
+modified: Thursday, November 6th 2025, 10:25:29 pm
 ---
 
 # Akses local development server dengan ssh tunneling
