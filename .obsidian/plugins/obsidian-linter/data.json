@@ -23,7 +23,7 @@
     },
     "format-yaml-array": {
       "enabled": true,
-      "alias-key": false,
+      "alias-key": true,
       "tag-key": true,
       "default-array-style": "single-line",
       "default-array-keys": true,
@@ -77,7 +77,7 @@
     "yaml-title-alias": {
       "enabled": true,
       "preserve-existing-alias-section-style": false,
-      "keep-alias-that-matches-the-filename": true,
+      "keep-alias-that-matches-the-filename": false,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": false,
       "alias-helper-key": "linter-yaml-title-alias"
     },
