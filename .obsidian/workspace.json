@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "98877ddc0d4658a9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachment/1762485118-QTVK-3.png"
-              },
-              "icon": "lucide-image",
-              "title": "1762485118-QTVK-3"
-            }
-          },
-          {
             "id": "0e1998a169a67d6c",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -266,8 +254,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "0e1998a169a67d6c",
   "lastOpenFiles": [
+    "attachment/20251107111158.png",
+    "attachment/20251107111158-6.png",
+    "attachment/20251107111158-5.png",
+    "attachment/20251107111158-4.png",
+    "attachment/20251107111158-3.png",
+    "attachment/20251107111158-2.png",
+    "attachment/20251107111158-1.png",
+    "20251107184535.sh",
+    "rename_qtvk.sh.tmp.538490.1762512335064",
     "dailies/2025-12-13.md",
     "dailies/2025-11-07.md",
     "drafts/1762485118-QTVK.md",
@@ -275,12 +272,6 @@
     "attachment/1762485118-QTVK-4.png",
     "attachment/1762485118-QTVK.png",
     "attachment/1762485118-QTVK-1.png",
-    "attachment/1762485118-QTVK-3.png",
-    "attachment/1762485118-QTVK-6.png",
-    "attachment/Pasted image 20240802232142.png",
-    "attachment/Pasted image 20251107183037.png",
-    "attachment/shapes at 25-10-09 22.12.16.png",
-    "attachment/Pasted image 20251107183230.png",
     "index.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
@@ -311,8 +302,6 @@
     "Untitled.base",
     "1757258404-movies.base",
     "learnings",
-    "course-notes",
-    "scripts",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",
