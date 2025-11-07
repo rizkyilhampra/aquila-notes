@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-07.md",
+                "file": "drafts/1762485118-QTVK.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-07"
+              "title": "1762485118-QTVK"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 200
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/2025-11-07.md",
+                "file": "drafts/1762485118-QTVK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-11-07"
+              "title": "Outline of 1762485118-QTVK"
             }
           },
           {
@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 276,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,22 +268,23 @@
   },
   "active": "0e1998a169a67d6c",
   "lastOpenFiles": [
-    "attachment/Pasted image 20251107183230.png",
+    "attachment/1762485118-QTVK-2.png",
+    "attachment/1762485118-QTVK-4.png",
+    "attachment/1762485118-QTVK.png",
+    "attachment/1762485118-QTVK-1.png",
+    "attachment/1762485118-QTVK-3.png",
+    "attachment/1762485118-QTVK-6.png",
+    "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20251107183037.png",
     "attachment/shapes at 25-10-09 22.12.16.png",
-    "drafts/1762485118-QTVK.md",
+    "attachment/Pasted image 20251107183230.png",
+    "index.md",
+    "attachment/2025110718II99.png",
     "dailies/2025-11-07.md",
-    "attachment/1762485118-QTVK-4.png",
-    "attachment/1762485118-QTVK-5.png",
-    "attachment/1762485118-QTVK.png",
-    "attachment/1762310831-pan.png",
+    "drafts/1762485118-QTVK.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
-    "attachment/1762485118-QTVK-3.png",
     "drafts",
-    "attachment/1762485118-QTVK-6.png",
-    "attachment/1762485118-QTVK-2.png",
-    "attachment/1762485118-QTVK-1.png",
     "dailies/2025-12-13.md",
     "1762311195-polarsh.md",
     "Akses local development server dengan ssh tunneling test.md",
@@ -296,7 +298,6 @@
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "1733471063-awesome-portfolios-web-apps.md",
     "1739644546-downgrade-arch-linux-installed-package.md",
-    "index.md",
     "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "Freeze or hang randomly on arch linux with hyprland.md",
     "1728351874-function-to-sanitize-indonesian-currency-format.md",

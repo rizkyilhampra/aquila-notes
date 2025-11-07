@@ -1,24 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-11-07",
-      "path": "dailies/2025-11-07.md"
-    },
-    {
       "basename": "1762485118-QTVK",
       "path": "drafts/1762485118-QTVK.md"
+    },
+    {
+      "basename": "1762485118-QTVK-2",
+      "path": "attachment/1762485118-QTVK-2.png"
     },
     {
       "basename": "1762485118-QTVK-4",
       "path": "attachment/1762485118-QTVK-4.png"
     },
     {
-      "basename": "1762485118-QTVK-5",
-      "path": "attachment/1762485118-QTVK-5.png"
-    },
-    {
       "basename": "1762485118-QTVK",
       "path": "attachment/1762485118-QTVK.png"
+    },
+    {
+      "basename": "1762485118-QTVK-1",
+      "path": "attachment/1762485118-QTVK-1.png"
+    },
+    {
+      "basename": "1762485118-QTVK-3",
+      "path": "attachment/1762485118-QTVK-3.png"
+    },
+    {
+      "basename": "1762485118-QTVK-6",
+      "path": "attachment/1762485118-QTVK-6.png"
+    },
+    {
+      "basename": "Pasted image 20240802232142",
+      "path": "attachment/Pasted image 20240802232142.png"
+    },
+    {
+      "basename": "Pasted image 20251107183037",
+      "path": "attachment/Pasted image 20251107183037.png"
+    },
+    {
+      "basename": "shapes at 25-10-09 22.12.16",
+      "path": "attachment/shapes at 25-10-09 22.12.16.png"
+    },
+    {
+      "basename": "Pasted image 20251107183230",
+      "path": "attachment/Pasted image 20251107183230.png"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Stage Change",
+      "path": "attachment/Stage Change.png"
+    },
+    {
+      "basename": "2025-11-07",
+      "path": "dailies/2025-11-07.md"
+    },
+    {
+      "basename": "1762485118-QTVK-5",
+      "path": "attachment/1762485118-QTVK-5.png"
     },
     {
       "basename": "1762310831-pan",
@@ -27,22 +67,6 @@
     {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
-    },
-    {
-      "basename": "1762485118-QTVK-3",
-      "path": "attachment/1762485118-QTVK-3.png"
-    },
-    {
-      "basename": "1762485118-QTVK-1",
-      "path": "attachment/1762485118-QTVK-1.png"
-    },
-    {
-      "basename": "1762485118-QTVK-2",
-      "path": "attachment/1762485118-QTVK-2.png"
-    },
-    {
-      "basename": "1762485118-QTVK-6",
-      "path": "attachment/1762485118-QTVK-6.png"
     },
     {
       "basename": "main",
@@ -91,10 +115,6 @@
     {
       "basename": "1739644546-downgrade-arch-linux-installed-package",
       "path": "1739644546-downgrade-arch-linux-installed-package.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
@@ -171,34 +191,6 @@
     {
       "basename": "1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file",
       "path": "snippets/commands/docker/1736003812-backup-a-large-mysql-mariadb-database-to-a-gzip-file.md"
-    },
-    {
-      "basename": "1756048327-zustand",
-      "path": "learnings/1756048327-zustand.md"
-    },
-    {
-      "basename": "1728688475-some-usefull-web-apps",
-      "path": "1728688475-some-usefull-web-apps.md"
-    },
-    {
-      "basename": "Pasted image 20240802232142",
-      "path": "attachment/Pasted image 20240802232142.png"
-    },
-    {
-      "basename": "2025-05-23",
-      "path": "dailies/2025-05-23.md"
-    },
-    {
-      "basename": "2025-05-10",
-      "path": "dailies/2025-05-10.md"
-    },
-    {
-      "basename": "2025-05-08",
-      "path": "dailies/2025-05-08.md"
-    },
-    {
-      "basename": "2025-01-29",
-      "path": "dailies/2025-01-29.md"
     }
   ],
   "omittedPaths": [],
