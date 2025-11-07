@@ -1,12 +1,10 @@
 ---
 id: 1762512935-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox
-aliases:
-  - Steps I do when extending or resizing a VM disk in Proxmox
-tags:
-  - proxmox
+aliases: [Steps I do when extending or resizing a VM disk in Proxmox]
+tags: [proxmox]
 publish: true
 created: 2025-11-07 18:55
-modified: 2025-11-07 19:05
+modified: 2025-11-07 20:48
 title: Steps I do when extending or resizing a VM disk in Proxmox
 ---
 
@@ -44,3 +42,41 @@ Then go to **Options** tab.
 Double click **Boot Order** then reorder  to make the **CD/DVD Drive** it's on top, then click **OK**.
 
 ![[attachment/20251107-7.png]]
+
+After that, you can do shutdown then start again the VM. It will bot the GParted. The next step just follow the process. Till the GUI it's occur. You can basically doing same thing like in Windows, which just drag and drop till the root (/) partition it's filling up with the free space. After everything it's done. You can go back change the boot to like before do, then doing shutdown and start again.
+
+### Swap partition
+
+If you was remove the swap partition like i did, here is what i do.
+#### Find the new UUID
+
+```bash
+sudo blkid
+```
+
+> It does display information about all block devices include the UUID.
+
+#### Change the UUID in `/etc/fstab`
+
+```bash
+sudoedit /etc/fstab
+```
+
+> Following your `$EDITOR`, by default it will use `nano`
+
+#### Enable swap
+
+```bash
+sudo swapon -a
+```
+
+> `-a` it will scan swap things in `/etc/fstab`
+
+### Verify
+
+Maybe you want to see it's swap it's active and the root (/) partition it's basically filling up.
+
+```
+df -h  # Check root partition size
+free -h  # Check swap is active
+```
