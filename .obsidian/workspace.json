@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1a20f7e87c01826e",
+        "id": "fb529945db43e60d",
         "type": "tabs",
         "children": [
           {
-            "id": "7c7e57182d921ea1",
+            "id": "bddd09aac94ad4c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/1762485118-QTVK.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762485118-QTVK"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+            }
+          },
+          {
+            "id": "98877ddc0d4658a9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachment/1762485118-QTVK-3.png"
+              },
+              "icon": "lucide-image",
+              "title": "1762485118-QTVK-3"
+            }
+          },
+          {
+            "id": "0e1998a169a67d6c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachment/1762485118-QTVK-4.png"
+              },
+              "icon": "lucide-image",
+              "title": "1762485118-QTVK-4"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251
+    "width": 296
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "file": "attachment/1762485118-QTVK-4.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "Outline of 1762485118-QTVK-4"
             }
           },
           {
@@ -175,8 +200,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -190,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -210,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412,
-    "collapsed": true
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,22 +253,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c7e57182d921ea1",
+  "active": "0e1998a169a67d6c",
   "lastOpenFiles": [
-    "attachment/1762485118-QTVK-1.png",
-    "attachment/1762485118-QTVK-3.png",
     "attachment/1762485118-QTVK-5.png",
-    "attachment/1762485118-QTVK-4.png",
     "attachment/1762485118-QTVK.png",
-    "attachment/1762485118-QTVK-2.png",
-    "attachment/1762485118-QTVK-6.png",
-    "drafts/1762485118-QTVK.md",
-    "templates/main.md",
-    "1762485067-.md",
-    "1762484945-.md",
-    "drafts/1762484881-.md",
-    "drafts",
+    "attachment/1762310831-pan.png",
+    "attachment/1762485118-QTVK-4.png",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "conflict-files-obsidian-git.md",
+    "attachment/1762485118-QTVK-3.png",
+    "drafts/1762485118-QTVK.md",
+    "drafts",
+    "attachment/1762485118-QTVK-6.png",
+    "attachment/1762485118-QTVK-2.png",
+    "attachment/1762485118-QTVK-1.png",
     "dailies/2025-12-13.md",
     "1762311195-polarsh.md",
     "Akses local development server dengan ssh tunneling test.md",
@@ -264,9 +286,11 @@
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "fronted-related-stuff/1733478060-acerternity-ui.md",
+    "fronted-related-stuff/1734483688-magic-ui.md",
+    "fronted-related-stuff/1734483850-ui-libraries.md",
+    "fronted-related-stuff/1734577067-hover-effect.md",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
-    "attachment/1762310831-pan.png",
     "public",
     "movies",
     "Movies/Movies.base",

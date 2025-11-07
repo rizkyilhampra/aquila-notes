@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "1762485118-QTVK",
-      "path": "drafts/1762485118-QTVK.md"
-    },
-    {
-      "basename": "1762485118-QTVK-1",
-      "path": "attachment/1762485118-QTVK-1.png"
-    },
-    {
-      "basename": "1762485118-QTVK-3",
-      "path": "attachment/1762485118-QTVK-3.png"
+      "basename": "1762485118-QTVK-4",
+      "path": "attachment/1762485118-QTVK-4.png"
     },
     {
       "basename": "1762485118-QTVK-5",
       "path": "attachment/1762485118-QTVK-5.png"
     },
     {
-      "basename": "1762485118-QTVK-4",
-      "path": "attachment/1762485118-QTVK-4.png"
+      "basename": "1762485118-QTVK",
+      "path": "attachment/1762485118-QTVK.png"
+    },
+    {
+      "basename": "1762310831-pan",
+      "path": "attachment/1762310831-pan.png"
+    },
+    {
+      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
+      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
+      "basename": "1762485118-QTVK-3",
+      "path": "attachment/1762485118-QTVK-3.png"
     },
     {
       "basename": "1762485118-QTVK",
-      "path": "attachment/1762485118-QTVK.png"
+      "path": "drafts/1762485118-QTVK.md"
+    },
+    {
+      "basename": "1762485118-QTVK-1",
+      "path": "attachment/1762485118-QTVK-1.png"
     },
     {
       "basename": "1762485118-QTVK-2",
@@ -35,10 +43,6 @@
     {
       "basename": "main",
       "path": "templates/main.md"
-    },
-    {
-      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
-      "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     },
     {
       "basename": "2025-12-13",
@@ -177,10 +181,6 @@
       "path": "attachment/Pasted image 20240802232142.png"
     },
     {
-      "basename": "1762310831-pan",
-      "path": "attachment/1762310831-pan.png"
-    },
-    {
       "basename": "2025-05-23",
       "path": "dailies/2025-05-23.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "2025-01-29",
       "path": "dailies/2025-01-29.md"
-    },
-    {
-      "basename": "2025-01-28",
-      "path": "dailies/2025-01-28.md"
     }
   ],
   "omittedPaths": [],
