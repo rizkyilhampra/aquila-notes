@@ -5,7 +5,7 @@
    let suffix = null;
    if (title.startsWith('Untitled')) {
       title = await tp.system.prompt('Enter title');
-	  if(title != null) {
+	  if(title != '') {
 	    suffix = title.replace(/ /g, '-')
                   .replace(/[^A-Za-z0-9-]/g, '')
                   .toLowerCase();
@@ -20,7 +20,11 @@
    }
 -%>
 id: <% tp.date.now('X') %>-<%* tR += `${suffix}` %>
-alias: <%* tR += `${title}` %>
+aliases: 
+- <%* tR += `${title}` %>
 tags: []
+publish: false
+created:
+modified:
 ---
 # <%* tR += `${title ?? ''}` %>

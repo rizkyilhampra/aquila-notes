@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "1762485118-QTVK",
+      "path": "drafts/1762485118-QTVK.md"
+    },
+    {
+      "basename": "1762485118-QTVK-1",
+      "path": "attachment/1762485118-QTVK-1.png"
+    },
+    {
+      "basename": "1762485118-QTVK-3",
+      "path": "attachment/1762485118-QTVK-3.png"
+    },
+    {
+      "basename": "1762485118-QTVK-5",
+      "path": "attachment/1762485118-QTVK-5.png"
+    },
+    {
+      "basename": "1762485118-QTVK-4",
+      "path": "attachment/1762485118-QTVK-4.png"
+    },
+    {
+      "basename": "1762485118-QTVK",
+      "path": "attachment/1762485118-QTVK.png"
+    },
+    {
+      "basename": "1762485118-QTVK-2",
+      "path": "attachment/1762485118-QTVK-2.png"
+    },
+    {
+      "basename": "1762485118-QTVK-6",
+      "path": "attachment/1762485118-QTVK-6.png"
+    },
+    {
+      "basename": "main",
+      "path": "templates/main.md"
+    },
+    {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "2025-01-28",
       "path": "dailies/2025-01-28.md"
-    },
-    {
-      "basename": "1728526878-multivariate-testing",
-      "path": "1728526878-multivariate-testing.md"
-    },
-    {
-      "basename": "1762313480-database-connection-strings-examples",
-      "path": "cheatsheets/1762313480-database-connection-strings-examples.md"
-    },
-    {
-      "basename": "1762313159-extract-or-decompress-tar-gzip-file",
-      "path": "cheatsheets/1762313159-extract-or-decompress-tar-gzip-file.md"
-    },
-    {
-      "basename": "1747073738-mv",
-      "path": "cheatsheets/1747073738-mv.md"
-    },
-    {
-      "basename": "1762312687-create-an-compression-tar-gzip",
-      "path": "cheatsheets/1762312687-create-an-compression-tar-gzip.md"
-    },
-    {
-      "basename": "1762311664-check-network-driver-being-used",
-      "path": "cheatsheets/1762311664-check-network-driver-being-used.md"
-    },
-    {
-      "basename": "1747073827-tar",
-      "path": "cheatsheets/1747073827-tar.md"
-    },
-    {
-      "basename": "1738863172-content-to-file-encryption-using-age",
-      "path": "cheatsheets/1738863172-content-to-file-encryption-using-age.md"
-    },
-    {
-      "basename": "1762311406-samba",
-      "path": "cheatsheets/1762311406-samba.md"
     }
   ],
   "omittedPaths": [],

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb529945db43e60d",
+        "id": "1a20f7e87c01826e",
         "type": "tabs",
         "children": [
           {
-            "id": "bddd09aac94ad4c6",
+            "id": "7c7e57182d921ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "file": "drafts/1762485118-QTVK.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "1762485118-QTVK"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 251
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -229,8 +229,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bddd09aac94ad4c6",
+  "active": "7c7e57182d921ea1",
   "lastOpenFiles": [
+    "attachment/1762485118-QTVK-1.png",
+    "attachment/1762485118-QTVK-3.png",
+    "attachment/1762485118-QTVK-5.png",
+    "attachment/1762485118-QTVK-4.png",
+    "attachment/1762485118-QTVK.png",
+    "attachment/1762485118-QTVK-2.png",
+    "attachment/1762485118-QTVK-6.png",
+    "drafts/1762485118-QTVK.md",
+    "templates/main.md",
+    "1762485067-.md",
+    "1762484945-.md",
+    "drafts/1762484881-.md",
+    "drafts",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "dailies/2025-12-13.md",
     "1762311195-polarsh.md",
@@ -251,17 +264,9 @@
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "fronted-related-stuff/1733478060-acerternity-ui.md",
-    "fronted-related-stuff/1734483688-magic-ui.md",
-    "fronted-related-stuff/1734483850-ui-libraries.md",
-    "fronted-related-stuff/1734577067-hover-effect.md",
-    "1728688664-excalidraw.md",
-    "1728688684-resend-email-service.md",
-    "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md",
     "attachment/Pasted image 20240802232142.png",
     "attachment/Pasted image 20250323223734.png",
     "attachment/1762310831-pan.png",
-    "attachment/resend.png",
-    "php-library/pan.png",
     "public",
     "movies",
     "Movies/Movies.base",
@@ -269,13 +274,8 @@
     "Untitled.base",
     "1757258404-movies.base",
     "learnings",
-    "attachment/Pasted image 20250513214049.png",
-    "attachment/Breakdown-Undangan.png",
-    "attachment/Pasted image 20250513214012.png",
     "course-notes",
     "scripts",
-    "templates",
-    "attachment/2025-01-29.png",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",
@@ -285,7 +285,6 @@
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "attachment/2024-08-09--20240809.png"
+    "Untitled 2.canvas"
   ]
 }
