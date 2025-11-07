@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/1762485118-QTVK.md",
+                "file": "dailies/2025-11-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762485118-QTVK"
+              "title": "2025-11-07"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/1762485118-QTVK.md",
+                "file": "dailies/2025-11-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762485118-QTVK"
+              "title": "Outline of 2025-11-07"
             }
           },
           {
@@ -266,8 +266,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e1998a169a67d6c",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
+    "dailies/2025-12-13.md",
+    "dailies/2025-11-07.md",
+    "drafts/1762485118-QTVK.md",
     "attachment/1762485118-QTVK-2.png",
     "attachment/1762485118-QTVK-4.png",
     "attachment/1762485118-QTVK.png",
@@ -279,13 +282,9 @@
     "attachment/shapes at 25-10-09 22.12.16.png",
     "attachment/Pasted image 20251107183230.png",
     "index.md",
-    "attachment/2025110718II99.png",
-    "dailies/2025-11-07.md",
-    "drafts/1762485118-QTVK.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
     "drafts",
-    "dailies/2025-12-13.md",
     "1762311195-polarsh.md",
     "Akses local development server dengan ssh tunneling test.md",
     "1762432642-.md",
