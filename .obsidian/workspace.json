@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb529945db43e60d",
+        "id": "4e69420936a7a911",
         "type": "tabs",
         "children": [
           {
-            "id": "bddd09aac94ad4c6",
+            "id": "d5d4dbb9b861af45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
-            }
-          },
-          {
-            "id": "0e1998a169a67d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/1762485118-QTVK.md",
+                "file": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762485118-QTVK"
+              "title": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/1762485118-QTVK.md",
+                "file": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762485118-QTVK"
+              "title": "Outline of 1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
             }
           },
           {
@@ -254,24 +229,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e1998a169a67d6c",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
+    "attachment/20251107-5.png",
+    "attachment/20251107-6.png",
+    "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
+    "attachment/20251107-4.png",
+    "drafts/1762485118-QTVK.md",
+    "attachment/1762485118-QTVK-1.png.md",
     "attachment/20251107-1.png",
     "attachment/20251107-3.png",
     "attachment/20251107-7.png",
-    "attachment/20251107-5.png",
-    "attachment/20251107-4.png",
     "attachment/20251107-2.png",
-    "attachment/20251107-6.png",
     "attachment/Pasted image 20251107183230.png",
     "attachment/Stage Change.png",
     "attachment/shapes at 25-10-09 22.12.16.png",
-    "attachment/Pasted image 20251107183037.png",
     "dailies/2025-11-07.md",
     "20251107184535.sh",
     "rename_qtvk.sh.tmp.538490.1762512335064",
     "dailies/2025-12-13.md",
-    "drafts/1762485118-QTVK.md",
     "index.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
@@ -293,8 +269,6 @@
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "fronted-related-stuff/1733478060-acerternity-ui.md",
-    "fronted-related-stuff/1734483688-magic-ui.md",
-    "fronted-related-stuff/1734483850-ui-libraries.md",
     "public",
     "movies",
     "Movies/Movies.base",
