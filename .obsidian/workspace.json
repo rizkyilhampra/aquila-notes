@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
+              "title": "Outline of 1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           },
           {
@@ -231,8 +231,9 @@
   },
   "active": "d5d4dbb9b861af45",
   "lastOpenFiles": [
-    "index.md",
+    "1762311195-polarsh.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
+    "index.md",
     "attachment/20251107-5.png",
     "attachment/20251107-6.png",
     "attachment/20251107-4.png",
@@ -252,7 +253,6 @@
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
     "drafts",
-    "1762311195-polarsh.md",
     "Akses local development server dengan ssh tunneling test.md",
     "1762432642-.md",
     "1758464981-sukebei.md",
