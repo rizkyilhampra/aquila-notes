@@ -76,7 +76,7 @@ sudo swapon -a
 
 Maybe you want to see it's swap it's active and the root (/) partition it's basically filling up.
 
-```
+```bash
 df -h  # Check root partition size
 free -h  # Check swap is active
 ```
