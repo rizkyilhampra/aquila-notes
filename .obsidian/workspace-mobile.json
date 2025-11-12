@@ -11,24 +11,10 @@
             "id": "848d02d41716f23f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/2025-11-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-12"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,8 +162,8 @@
   },
   "active": "848d02d41716f23f",
   "lastOpenFiles": [
+    "dailies/2025-11-12.md",
     "vault-notes/dailies/2024-10-11.md",
-    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
-    "dailies/2025-11-12.md"
+    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
   ]
 }
