@@ -11,10 +11,24 @@
             "id": "848d02d41716f23f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dailies/2025-11-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11-12"
             }
           }
         ]
@@ -45,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "dail",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -161,5 +175,9 @@
     }
   },
   "active": "848d02d41716f23f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "vault-notes/dailies/2024-10-11.md",
+    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
+    "dailies/2025-11-12.md"
+  ]
 }

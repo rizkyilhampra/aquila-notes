@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-12",
+      "path": "dailies/2025-11-12.md"
+    },
+    {
+      "basename": "2024-10-11",
+      "path": "vault-notes/dailies/2024-10-11.md"
+    },
+    {
+      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
+      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
+    },
+    {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     },
@@ -83,10 +95,6 @@
     {
       "basename": "1757774888-how-to-decompile-an-python-310-program",
       "path": "1757774888-how-to-decompile-an-python-310-program.md"
-    },
-    {
-      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
-      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
     },
     {
       "basename": "1733471063-awesome-portfolios-web-apps",
