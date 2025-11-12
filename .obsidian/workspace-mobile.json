@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6cb0cda3992f7951",
+        "id": "ef7d5820925a375e",
         "type": "tabs",
         "children": [
           {
-            "id": "848d02d41716f23f",
+            "id": "9777605816aaa9ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "dailies/2025-11-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-12"
             }
           }
         ]
@@ -160,9 +174,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "848d02d41716f23f",
+  "active": "9777605816aaa9ed",
   "lastOpenFiles": [
+    "dailies/2025-11-13.md",
     "dailies/2025-11-12.md",
+    "Untitled.md",
     "vault-notes/dailies/2024-10-11.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
   ]
