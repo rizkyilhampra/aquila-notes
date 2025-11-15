@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "file": "dailies/2025-11-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "2025-11-15"
             }
           }
         ]
@@ -232,6 +232,8 @@
   },
   "active": "d5d4dbb9b861af45",
   "lastOpenFiles": [
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "dailies/2025-11-15.md",
     "1762311195-polarsh.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "index.md",
@@ -251,7 +253,6 @@
     "20251107184535.sh",
     "rename_qtvk.sh.tmp.538490.1762512335064",
     "dailies/2025-12-13.md",
-    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
     "drafts",
     "Akses local development server dengan ssh tunneling test.md",
