@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-architecture/microservices/1763224464-microservices.md",
+                "file": "templates/main.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1763224464-microservices"
+              "title": "main"
             }
           }
         ]
@@ -229,10 +229,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5d4dbb9b861af45",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
-    "system-architecture/1763224515-monolith.md",
     "system-architecture/microservices/1763224464-microservices.md",
+    "system-architecture/1763224515-monolith.md",
     "1763224944-laravel.md",
     "system-architecture/microservices",
     "course-notes/microservices/1763217959-draft-1.md",

@@ -2,8 +2,9 @@
 id: 1763224468-microservices
 aliases:
   - Microservices
-tags: []
-publish: false
+tags:
+  - system-design
+publish: true
 created: 2025-11-16 00:34
 modified: 2025-11-16 00:34
 title: Microservices

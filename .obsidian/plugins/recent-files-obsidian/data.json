@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "main",
+      "path": "templates/main.md"
+    },
+    {
       "basename": "1763224464-microservices",
       "path": "system-architecture/microservices/1763224464-microservices.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "1762310831-pan",
       "path": "attachment/1762310831-pan.png"
-    },
-    {
-      "basename": "main",
-      "path": "templates/main.md"
     },
     {
       "basename": "1758464981-sukebei",
