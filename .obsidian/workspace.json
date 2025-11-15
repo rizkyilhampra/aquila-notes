@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-15.md",
+                "file": "course-notes/microservices/1763217959-draft-1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-15"
+              "title": "1763217959-draft-1"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -232,8 +231,10 @@
   },
   "active": "d5d4dbb9b861af45",
   "lastOpenFiles": [
-    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "dailies/2025-11-15.md",
+    "course-notes/microservices/1763217959-draft-1.md",
+    "course-notes/microservices",
+    "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "1762311195-polarsh.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "index.md",
@@ -270,14 +271,12 @@
     "Freeze or hang randomly on arch linux with hyprland.md",
     "1728351874-function-to-sanitize-indonesian-currency-format.md",
     "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
-    "fronted-related-stuff/1733478060-acerternity-ui.md",
     "public",
     "movies",
     "Movies/Movies.base",
     "Movies",
     "Untitled.base",
     "1757258404-movies.base",
-    "learnings",
     "Untitled.canvas",
     "Untitled 10.canvas",
     "Untitled 9.canvas",
