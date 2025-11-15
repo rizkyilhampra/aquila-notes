@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "main",
-      "path": "templates/main.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
-      "basename": "1763224464-microservices",
-      "path": "system-architecture/microservices/1763224464-microservices.md"
+      "basename": "1763224944-laravel",
+      "path": "1763224944-laravel.md"
     },
     {
       "basename": "1763224515-monolith",
       "path": "system-architecture/1763224515-monolith.md"
     },
     {
-      "basename": "1763224944-laravel",
-      "path": "1763224944-laravel.md"
+      "basename": "1763224464-microservices",
+      "path": "system-architecture/microservices/1763224464-microservices.md"
+    },
+    {
+      "basename": "main",
+      "path": "templates/main.md"
     },
     {
       "basename": "1763217959-draft-1",
@@ -195,10 +199,6 @@
     {
       "basename": "1736003618-create-a-single-container-to-estimate-the-database-size",
       "path": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md"
-    },
-    {
-      "basename": "1736003661-create-a-single-detached-container",
-      "path": "snippets/commands/docker/1736003661-create-a-single-detached-container.md"
     }
   ],
   "omittedPaths": [],
