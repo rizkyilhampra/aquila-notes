@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
-      "path": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
+      "basename": "1728506930-confluence",
+      "path": "engineering/project-managements/1728506930-confluence.md"
+    },
+    {
+      "basename": "1728506917-trello",
+      "path": "engineering/project-managements/1728506917-trello.md"
+    },
+    {
+      "basename": "1728506838-jira",
+      "path": "engineering/project-managements/1728506838-jira.md"
+    },
+    {
+      "basename": "1728506822-project-management",
+      "path": "engineering/project-managements/1728506822-project-management.md"
+    },
+    {
+      "basename": "index",
+      "path": "engineering/project-managements/index.md"
+    },
+    {
+      "basename": "1728351752-laravel-guidelines",
+      "path": "engineering/1728351752-laravel-guidelines.md"
+    },
+    {
+      "basename": "1729869196-git-hooks-wrapper",
+      "path": "1729869196-git-hooks-wrapper.md"
     },
     {
       "basename": "1742317084-setting-up-dns-on-my-arch-linux",
-      "path": "1742317084-setting-up-dns-on-my-arch-linux.md"
+      "path": "til/1742317084-setting-up-dns-on-my-arch-linux.md"
+    },
+    {
+      "basename": "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash",
+      "path": "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md"
+    },
+    {
+      "basename": "index",
+      "path": "til/index.md"
     },
     {
       "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
-      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
+      "path": "til/1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
     },
     {
-      "basename": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox",
-      "path": "engineering/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md"
+      "basename": "1739644546-downgrade-arch-linux-installed-package",
+      "path": "til/1739644546-downgrade-arch-linux-installed-package.md"
+    },
+    {
+      "basename": "1732264756-how-to-combine-two-repository-with-unrelated-history",
+      "path": "til/1732264756-how-to-combine-two-repository-with-unrelated-history.md"
+    },
+    {
+      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
+      "path": "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
+    },
+    {
+      "basename": "1757774888-how-to-decompile-an-python-310-program",
+      "path": "til/1757774888-how-to-decompile-an-python-310-program.md"
     },
     {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
-      "path": "engineering/1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+      "path": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
+      "basename": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox",
+      "path": "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md"
     },
     {
       "basename": "1763224944-laravel",
@@ -151,54 +199,6 @@
     {
       "basename": "2024-10-11",
       "path": "vault-notes/dailies/2024-10-11.md"
-    },
-    {
-      "basename": "1762311195-polarsh",
-      "path": "1762311195-polarsh.md"
-    },
-    {
-      "basename": "20251107-5",
-      "path": "attachment/20251107-5.png"
-    },
-    {
-      "basename": "20251107-6",
-      "path": "attachment/20251107-6.png"
-    },
-    {
-      "basename": "20251107-4",
-      "path": "attachment/20251107-4.png"
-    },
-    {
-      "basename": "1762485118-QTVK",
-      "path": "drafts/1762485118-QTVK.md"
-    },
-    {
-      "basename": "20251107-1",
-      "path": "attachment/20251107-1.png"
-    },
-    {
-      "basename": "20251107-3",
-      "path": "attachment/20251107-3.png"
-    },
-    {
-      "basename": "20251107-7",
-      "path": "attachment/20251107-7.png"
-    },
-    {
-      "basename": "20251107-2",
-      "path": "attachment/20251107-2.png"
-    },
-    {
-      "basename": "Pasted image 20240802232142",
-      "path": "attachment/Pasted image 20240802232142.png"
-    },
-    {
-      "basename": "2025-11-07",
-      "path": "dailies/2025-11-07.md"
-    },
-    {
-      "basename": "1762310831-pan",
-      "path": "attachment/1762310831-pan.png"
     }
   ],
   "omittedPaths": [],

@@ -1,9 +1,13 @@
 ---
+publish: true
 id: 1739644546-downgrade-arch-linux-installed-package
 aliases:
   - Downgrade Arch Linux Installed Package
 tags:
   - linux
+title: Downgrade Arch Linux Installed Package
+created: 2025-02-16 02:36
+modified: 2025-11-17 01:38
 ---
 
 # Downgrade Arch Linux Installed Package

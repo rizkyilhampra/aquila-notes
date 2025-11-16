@@ -1,9 +1,13 @@
 ---
+publish: true
 id: 1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland
 aliases:
   - Freeze or Hang Randomly on Arch Linux with Hyprland
 tags:
   - linux
+title: Freeze or Hang Randomly on Arch Linux with Hyprland
+created: 2025-02-16 02:46
+modified: 2025-11-17 01:39
 ---
 
 # Freeze or Hang Randomly on Arch Linux with Hyprland
@@ -15,4 +19,4 @@ tags:
 
 ## Workaround
 
-Following [this comment](https://github.com/hyprwm/Hyprland/issues/8930#issuecomment-2613358236), it's say that we need to [[1739644546-downgrade-arch-linux-installed-package|downgrade]] to `mesa=24.2.7`, `vulkan-radeon=24.2.7` and `llvm-libs=18.1.8-5`.
+Following [this comment](https://github.com/hyprwm/Hyprland/issues/8930#issuecomment-2613358236), it's say that we need to [[til/1739644546-downgrade-arch-linux-installed-package|downgrade]] to `mesa=24.2.7`, `vulkan-radeon=24.2.7` and `llvm-libs=18.1.8-5`.

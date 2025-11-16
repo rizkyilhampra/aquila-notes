@@ -1,8 +1,15 @@
 ---
+aliases:
+publish: true
 id: 1747146401-making-a-wsl2-web-service-accessible-on-the-local-network
-alias: Making a WSL2 Web Service Accessible on the Local Network
+alias:
+  - Making a WSL2 Web Service Accessible on the Local Network
 tags: []
+title: Making a WSL2 Web Service Accessible on the Local Network
+created: 2025-05-13 22:26
+modified: 2025-11-17 01:38
 ---
+
 # Making a WSL2 Web Service Accessible on the Local Network
 
 I’m running a web service inside a Docker container on WSL2 (using Arch Linux). The Docker container publishes port 80. On the Windows host, I can access the service using `http://localhost`, but I can’t reach it using the Windows host’s IP address from other computers on the same local network. This happens because WSL2 uses a virtual network interface, which makes things tricky. After some trial and error, I figured out how to make it work. Here’s what I did.
