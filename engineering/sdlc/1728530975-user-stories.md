@@ -1,10 +1,12 @@
 ---
+publish: true
 id: 1728530975-user-stories
-aliases: [User Stories]
+aliases:
+  - User Stories
 tags: []
 title: User Stories
 created: 2024-10-10 11:51
-modified: 2025-11-17 01:06
+modified: 2025-11-17 01:15
 ---
 
 # User Stories

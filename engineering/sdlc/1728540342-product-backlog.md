@@ -1,10 +1,13 @@
 ---
+publish: true
 id: 1728540342-product-backlog
-aliases: [Product Backlog]
-tags: [scrum]
+aliases:
+  - Product Backlog
+tags:
+  - scrum
 title: Product Backlog
 created: 2024-10-10 14:17
-modified: 2025-11-17 01:06
+modified: 2025-11-17 01:17
 ---
 
 # Product Backlog

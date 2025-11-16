@@ -1,10 +1,12 @@
 ---
+publish: true
 id: 1728528605-kanban-board
-aliases: [Kanban Board]
+aliases:
+  - Kanban Board
 tags: []
 title: Kanban Board
 created: 2024-10-10 11:13
-modified: 2025-11-17 01:06
+modified: 2025-11-17 01:15
 ---
 
 # Kanban Board

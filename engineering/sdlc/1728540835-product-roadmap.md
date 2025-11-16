@@ -1,10 +1,12 @@
 ---
+publish: true
 id: 1728540835-product-roadmap
-aliases: [Product Roadmap]
+aliases:
+  - Product Roadmap
 tags: []
 title: Product Roadmap
 created: 2024-10-10 15:35
-modified: 2025-11-17 01:06
+modified: 2025-11-17 01:17
 ---
 
 # Product Roadmap
