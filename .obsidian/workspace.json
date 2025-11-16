@@ -55,8 +55,7 @@
               "title": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,12 +252,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d6525645acfecb1",
+  "active": "a214e7fa18a1d6e5",
   "lastOpenFiles": [
-    "1763224944-laravel.md",
-    "1763225591-minimum-viable-product-mvp.md",
     "1763279341-product-requirements-document-prd.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
+    "1763224944-laravel.md",
+    "1763225591-minimum-viable-product-mvp.md",
     "system-architecture/1763224515-monolith.md",
     "system-architecture/microservices/1763224464-microservices.md",
     "templates/main.md",
