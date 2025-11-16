@@ -1,9 +1,11 @@
 ---
+aliases:
+  - Engineering
+tags: []
 publish: true
-created: 2025-11-17 00:59
-modified: 2025-11-17 01:00
+created: 2025-11-17 01:09
+modified: 2025-11-17 01:10
 title: Engineering
-aliases: [Engineering]
 ---
 
 # Engineering

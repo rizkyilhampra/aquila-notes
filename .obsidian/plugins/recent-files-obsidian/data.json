@@ -2,39 +2,95 @@
   "recentFiles": [
     {
       "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
       "path": "engineering/index.md"
     },
     {
-      "basename": "1728527555-scrum",
-      "path": "engineering/sdlc/1728527555-scrum.md"
-    },
-    {
-      "basename": "1728527572-agile",
-      "path": "engineering/sdlc/1728527572-agile.md"
+      "basename": "index",
+      "path": "engineering/sdlc/index.md"
     },
     {
       "basename": "index",
       "path": "engineering/system-architecture/index.md"
     },
     {
-      "basename": "index",
-      "path": "engineering/system-architecture/microservices/index.md"
-    },
-    {
-      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
-      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
-    },
-    {
-      "basename": "1763310929-database-per-service-pattern",
-      "path": "engineering/system-architecture/microservices/1763310929-database-per-service-pattern.md"
+      "basename": "1763224515-monolith",
+      "path": "engineering/system-architecture/1763224515-monolith.md"
     },
     {
       "basename": "1763224464-microservices",
       "path": "engineering/system-architecture/1763224464-microservices.md"
     },
     {
-      "basename": "1763224515-monolith",
-      "path": "engineering/system-architecture/1763224515-monolith.md"
+      "basename": "index",
+      "path": "engineering/system-architecture/microservices/index.md"
+    },
+    {
+      "basename": "1763310929-database-per-service-pattern",
+      "path": "engineering/system-architecture/microservices/1763310929-database-per-service-pattern.md"
+    },
+    {
+      "basename": "1728531469-kanban",
+      "path": "engineering/sdlc/1728531469-kanban.md"
+    },
+    {
+      "basename": "1728531496-backlog",
+      "path": "engineering/sdlc/1728531496-backlog.md"
+    },
+    {
+      "basename": "1728531579-epics",
+      "path": "engineering/sdlc/1728531579-epics.md"
+    },
+    {
+      "basename": "1728539292-artifacts",
+      "path": "engineering/sdlc/1728539292-artifacts.md"
+    },
+    {
+      "basename": "1728540342-product-backlog",
+      "path": "engineering/sdlc/1728540342-product-backlog.md"
+    },
+    {
+      "basename": "1728540835-product-roadmap",
+      "path": "engineering/sdlc/1728540835-product-roadmap.md"
+    },
+    {
+      "basename": "1728530975-user-stories",
+      "path": "engineering/sdlc/1728530975-user-stories.md"
+    },
+    {
+      "basename": "1728529486-software-development-life-cycle",
+      "path": "engineering/sdlc/1728529486-software-development-life-cycle.md"
+    },
+    {
+      "basename": "1728528769-sprints",
+      "path": "engineering/sdlc/1728528769-sprints.md"
+    },
+    {
+      "basename": "1728528605-kanban-board",
+      "path": "engineering/sdlc/1728528605-kanban-board.md"
+    },
+    {
+      "basename": "1728528598-scrum-board",
+      "path": "engineering/sdlc/1728528598-scrum-board.md"
+    },
+    {
+      "basename": "1728528543-board",
+      "path": "engineering/sdlc/1728528543-board.md"
+    },
+    {
+      "basename": "1728527572-agile",
+      "path": "engineering/sdlc/1728527572-agile.md"
+    },
+    {
+      "basename": "1728527555-scrum",
+      "path": "engineering/sdlc/1728527555-scrum.md"
+    },
+    {
+      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
+      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
     },
     {
       "basename": "1763279341-product-requirements-document-prd",
@@ -143,62 +199,6 @@
     {
       "basename": "1742317084-setting-up-dns-on-my-arch-linux",
       "path": "1742317084-setting-up-dns-on-my-arch-linux.md"
-    },
-    {
-      "basename": "1739606203-linux-folder-or-file-permission",
-      "path": "1739606203-linux-folder-or-file-permission.md"
-    },
-    {
-      "basename": "1734320387-dosudotdev",
-      "path": "1734320387-dosudotdev.md"
-    },
-    {
-      "basename": "1757774888-how-to-decompile-an-python-310-program",
-      "path": "1757774888-how-to-decompile-an-python-310-program.md"
-    },
-    {
-      "basename": "1733471063-awesome-portfolios-web-apps",
-      "path": "1733471063-awesome-portfolios-web-apps.md"
-    },
-    {
-      "basename": "1739644546-downgrade-arch-linux-installed-package",
-      "path": "1739644546-downgrade-arch-linux-installed-package.md"
-    },
-    {
-      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
-      "path": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
-    },
-    {
-      "basename": "1728351874-function-to-sanitize-indonesian-currency-format",
-      "path": "1728351874-function-to-sanitize-indonesian-currency-format.md"
-    },
-    {
-      "basename": "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash",
-      "path": "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md"
-    },
-    {
-      "basename": "1733478060-acerternity-ui",
-      "path": "fronted-related-stuff/1733478060-acerternity-ui.md"
-    },
-    {
-      "basename": "1734483688-magic-ui",
-      "path": "fronted-related-stuff/1734483688-magic-ui.md"
-    },
-    {
-      "basename": "1734483850-ui-libraries",
-      "path": "fronted-related-stuff/1734483850-ui-libraries.md"
-    },
-    {
-      "basename": "1734577067-hover-effect",
-      "path": "fronted-related-stuff/1734577067-hover-effect.md"
-    },
-    {
-      "basename": "1728688664-excalidraw",
-      "path": "1728688664-excalidraw.md"
-    },
-    {
-      "basename": "1728688684-resend-email-service",
-      "path": "1728688684-resend-email-service.md"
     }
   ],
   "omittedPaths": [],

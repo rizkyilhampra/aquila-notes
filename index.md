@@ -1,5 +1,4 @@
 ---
-id: index
 aliases:
   - index
 tags: []
