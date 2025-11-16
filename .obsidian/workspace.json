@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1763279341-product-requirements-document-prd.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1763225591-minimum-viable-product-mvp.md",
+                "file": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1763225591-minimum-viable-product-mvp"
+              "title": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,11 +254,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5d4dbb9b861af45",
+  "active": "2d6525645acfecb1",
   "lastOpenFiles": [
+    "1763224944-laravel.md",
     "1763225591-minimum-viable-product-mvp.md",
     "1763279341-product-requirements-document-prd.md",
-    "1763224944-laravel.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "system-architecture/1763224515-monolith.md",
     "system-architecture/microservices/1763224464-microservices.md",
