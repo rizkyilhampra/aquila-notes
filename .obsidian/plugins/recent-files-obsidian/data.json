@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "1728506930-confluence",
-      "path": "engineering/project-managements/1728506930-confluence.md"
+      "basename": "1728351752-laravel-guidelines",
+      "path": "engineering/1728351752-laravel-guidelines.md"
+    },
+    {
+      "basename": "1763224944-laravel",
+      "path": "engineering/1763224944-laravel.md"
+    },
+    {
+      "basename": "1728526878-multivariate-testing",
+      "path": "engineering/1728526878-multivariate-testing.md"
+    },
+    {
+      "basename": "1728526578-ab-testing",
+      "path": "engineering/1728526578-ab-testing.md"
+    },
+    {
+      "basename": "index",
+      "path": "engineering/project-managements/index.md"
     },
     {
       "basename": "1763315415-atlassian-platform",
       "path": "engineering/project-managements/1763315415-atlassian-platform.md"
+    },
+    {
+      "basename": "1728506930-confluence",
+      "path": "engineering/project-managements/1728506930-confluence.md"
     },
     {
       "basename": "1728506917-trello",
@@ -19,14 +39,6 @@
     {
       "basename": "1728506822-project-management",
       "path": "engineering/project-managements/1728506822-project-management.md"
-    },
-    {
-      "basename": "index",
-      "path": "engineering/project-managements/index.md"
-    },
-    {
-      "basename": "1728351752-laravel-guidelines",
-      "path": "engineering/1728351752-laravel-guidelines.md"
     },
     {
       "basename": "1729869196-git-hooks-wrapper",
@@ -71,10 +83,6 @@
     {
       "basename": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox",
       "path": "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md"
-    },
-    {
-      "basename": "1763224944-laravel",
-      "path": "engineering/1763224944-laravel.md"
     },
     {
       "basename": "1763225591-minimum-viable-product-mvp",
@@ -191,14 +199,6 @@
     {
       "basename": "2025-11-15",
       "path": "dailies/2025-11-15.md"
-    },
-    {
-      "basename": "2025-11-12",
-      "path": "dailies/2025-11-12.md"
-    },
-    {
-      "basename": "2025-11-13",
-      "path": "dailies/2025-11-13.md"
     }
   ],
   "omittedPaths": [],

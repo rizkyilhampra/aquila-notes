@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "engineering/project-managements/1728506930-confluence.md",
+                "file": "engineering/1728351752-laravel-guidelines.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728506930-confluence"
+              "title": "1728351752-laravel-guidelines"
             }
           }
         ],
@@ -255,13 +255,16 @@
   },
   "active": "df58dcaf989608ca",
   "lastOpenFiles": [
+    "engineering/1763224944-laravel.md",
+    "engineering/1728526878-multivariate-testing.md",
+    "engineering/1728526578-ab-testing.md",
+    "engineering/1728351752-laravel-guidelines.md",
+    "engineering/project-managements/index.md",
     "engineering/project-managements/1763315415-atlassian-platform.md",
     "engineering/project-managements/1728506930-confluence.md",
     "engineering/project-managements/1728506917-trello.md",
     "engineering/project-managements/1728506838-jira.md",
     "engineering/project-managements/1728506822-project-management.md",
-    "engineering/project-managements/index.md",
-    "engineering/1728351752-laravel-guidelines.md",
     "1729869196-git-hooks-wrapper.md",
     "til/1742317084-setting-up-dns-on-my-arch-linux.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
@@ -274,14 +277,11 @@
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "til",
-    "engineering/1763224944-laravel.md",
     "engineering/1763225591-minimum-viable-product-mvp.md",
     "engineering/1763279341-product-requirements-document-prd.md",
     "engineering/1763281621-tech-stack.md",
     "index.md",
     "engineering/sdlc/1728527555-scrum.md",
-    "engineering/sdlc/1728527572-agile.md",
-    "engineering/sdlc/1728540835-product-roadmap.md",
     "engineering",
     "engineering/system-architecture/microservices",
     "engineering/system-architecture",

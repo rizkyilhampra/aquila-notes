@@ -8,4 +8,4 @@ created:
 modified:
 ---
 # Atlassian Platform
-What in [Atlassian](https://www.atlassian.com/) had
+The platform what in [Atlassian](https://www.atlassian.com/) had
