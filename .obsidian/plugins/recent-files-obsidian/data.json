@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1739606203-linux-folder-or-file-permission",
+      "path": "1739606203-linux-folder-or-file-permission.md"
+    },
+    {
+      "basename": "1763315415-atlassian-platform",
+      "path": "engineering/1763315415-atlassian-platform.md"
+    },
+    {
       "basename": "1728351752-laravel-guidelines",
       "path": "engineering/1728351752-laravel-guidelines.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "index",
       "path": "engineering/project-managements/index.md"
-    },
-    {
-      "basename": "1763315415-atlassian-platform",
-      "path": "engineering/project-managements/1763315415-atlassian-platform.md"
     },
     {
       "basename": "1728506930-confluence",
@@ -195,10 +199,6 @@
     {
       "basename": "1763217959-draft-1",
       "path": "course-notes/microservices/1763217959-draft-1.md"
-    },
-    {
-      "basename": "2025-11-15",
-      "path": "dailies/2025-11-15.md"
     }
   ],
   "omittedPaths": [],

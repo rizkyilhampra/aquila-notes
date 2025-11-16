@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "engineering/1728351752-laravel-guidelines.md",
+                "file": "1739606203-linux-folder-or-file-permission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728351752-laravel-guidelines"
+              "title": "1739606203-linux-folder-or-file-permission"
             }
           }
         ],
@@ -255,12 +255,12 @@
   },
   "active": "df58dcaf989608ca",
   "lastOpenFiles": [
-    "engineering/1763224944-laravel.md",
+    "engineering/1763315415-atlassian-platform.md",
     "engineering/1728351752-laravel-guidelines.md",
+    "engineering/1763224944-laravel.md",
     "engineering/1728526878-multivariate-testing.md",
     "engineering/1728526578-ab-testing.md",
     "engineering/project-managements/index.md",
-    "engineering/project-managements/1763315415-atlassian-platform.md",
     "engineering/project-managements/1728506930-confluence.md",
     "engineering/project-managements/1728506917-trello.md",
     "engineering/project-managements/1728506838-jira.md",
