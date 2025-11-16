@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system-architecture/index.md",
+                "file": "system-architecture/microservices/1763310929-database-per-service-pattern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1763310929-database-per-service-pattern"
             }
           }
         ]
@@ -231,13 +231,15 @@
   "active": "de689bc3f4004635",
   "lastOpenFiles": [
     "system-architecture/1763224515-monolith.md",
+    "system-architecture/1763224464-microservices.md",
+    "system-architecture/microservices/1763310929-database-per-service-pattern.md",
+    "system-architecture/microservices/index.md",
     "system-architecture/index.md",
     "1763279341-product-requirements-document-prd.md",
     "1763281621-tech-stack.md",
     "1763224944-laravel.md",
     "1763225591-minimum-viable-product-mvp.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
-    "system-architecture/microservices/1763224464-microservices.md",
     "templates/main.md",
     "system-architecture/microservices",
     "course-notes/microservices/1763217959-draft-1.md",
@@ -270,8 +272,6 @@
     "1758464981-sukebei.md",
     "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "1742317084-setting-up-dns-on-my-arch-linux.md",
-    "1739606203-linux-folder-or-file-permission.md",
-    "1734320387-dosudotdev.md",
     "public",
     "movies",
     "Movies/Movies.base",

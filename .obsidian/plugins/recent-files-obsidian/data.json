@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "system-architecture/index.md"
+      "basename": "1763310929-database-per-service-pattern",
+      "path": "system-architecture/microservices/1763310929-database-per-service-pattern.md"
     },
     {
       "basename": "1763224515-monolith",
       "path": "system-architecture/1763224515-monolith.md"
+    },
+    {
+      "basename": "1763224464-microservices",
+      "path": "system-architecture/1763224464-microservices.md"
+    },
+    {
+      "basename": "index",
+      "path": "system-architecture/microservices/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "system-architecture/index.md"
     },
     {
       "basename": "1763279341-product-requirements-document-prd",
@@ -27,10 +39,6 @@
     {
       "basename": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox",
       "path": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md"
-    },
-    {
-      "basename": "1763224464-microservices",
-      "path": "system-architecture/microservices/1763224464-microservices.md"
     },
     {
       "basename": "main",
@@ -191,14 +199,6 @@
     {
       "basename": "1748684577-create-file-with-timestamp",
       "path": "snippets/commands/1748684577-create-file-with-timestamp.md"
-    },
-    {
-      "basename": "1762314311-pyprland",
-      "path": "hyprland/1762314311-pyprland.md"
-    },
-    {
-      "basename": "1762315251-hyprfocus",
-      "path": "hyprland/1762315251-hyprfocus.md"
     }
   ],
   "omittedPaths": [],
