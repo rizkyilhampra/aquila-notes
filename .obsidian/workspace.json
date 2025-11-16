@@ -42,7 +42,7 @@
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -256,9 +256,9 @@
   "active": "df58dcaf989608ca",
   "lastOpenFiles": [
     "engineering/1763224944-laravel.md",
+    "engineering/1728351752-laravel-guidelines.md",
     "engineering/1728526878-multivariate-testing.md",
     "engineering/1728526578-ab-testing.md",
-    "engineering/1728351752-laravel-guidelines.md",
     "engineering/project-managements/index.md",
     "engineering/project-managements/1763315415-atlassian-platform.md",
     "engineering/project-managements/1728506930-confluence.md",
