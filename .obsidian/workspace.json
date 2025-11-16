@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "engineering/sdlc/1728527555-scrum.md",
+                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728527555-scrum"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           }
         ]
@@ -228,8 +228,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a214e7fa18a1d6e5",
+  "active": "de689bc3f4004635",
   "lastOpenFiles": [
+    "index.md",
     "engineering/sdlc/1728527555-scrum.md",
     "engineering/sdlc/1728527572-agile.md",
     "engineering/sdlc/1728540835-product-roadmap.md",
@@ -244,7 +245,6 @@
     "engineering/sdlc/1728528605-kanban-board.md",
     "engineering/sdlc/1728528598-scrum-board.md",
     "engineering/sdlc/1728528543-board.md",
-    "index.md",
     "engineering/index.md",
     "engineering/sdlc/index.md",
     "engineering/system-architecture/index.md",
