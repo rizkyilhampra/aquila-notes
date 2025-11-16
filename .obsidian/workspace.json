@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "engineering/sdlc/1728540835-product-roadmap.md",
+                "file": "engineering/sdlc/1728527555-scrum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1728540835-product-roadmap"
+              "title": "1728527555-scrum"
             }
           }
         ]
@@ -230,6 +230,9 @@
   },
   "active": "de689bc3f4004635",
   "lastOpenFiles": [
+    "engineering/sdlc/1728527572-agile.md",
+    "engineering/sdlc/1728527555-scrum.md",
+    "engineering/sdlc/1728540835-product-roadmap.md",
     "engineering/sdlc/1728540342-product-backlog.md",
     "engineering/sdlc/1728539292-artifacts.md",
     "engineering/sdlc/1728531579-epics.md",
@@ -241,7 +244,6 @@
     "engineering/sdlc/1728528605-kanban-board.md",
     "engineering/sdlc/1728528598-scrum-board.md",
     "engineering/sdlc/1728528543-board.md",
-    "engineering/sdlc/1728527572-agile.md",
     "index.md",
     "engineering/index.md",
     "engineering/sdlc/index.md",
@@ -250,8 +252,6 @@
     "engineering/system-architecture/1763224464-microservices.md",
     "engineering/system-architecture/microservices/index.md",
     "engineering/system-architecture/microservices/1763310929-database-per-service-pattern.md",
-    "engineering/sdlc/1728540835-product-roadmap.md",
-    "engineering/sdlc/1728527555-scrum.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "engineering",
     "1763279341-product-requirements-document-prd.md",
