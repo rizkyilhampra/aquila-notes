@@ -13,8 +13,8 @@ modified: 2025-11-17 01:38
 # Making a WSL2 Web Service Accessible on the Local Network
 
 I’m running a web service inside a Docker container on WSL2 (using Arch Linux). The Docker container publishes port 80. On the Windows host, I can access the service using `http://localhost`, but I can’t reach it using the Windows host’s IP address from other computers on the same local network. This happens because WSL2 uses a virtual network interface, which makes things tricky. After some trial and error, I figured out how to make it work. Here’s what I did.
-
-## Step 1: Create an Inbound Firewall Rule for Specific Ports
+## Steps
+### Create an Inbound Firewall Rule for Specific Ports
 
 To allow traffic from other computers, I added a firewall rule on the Windows host to permit incoming connections on certain ports.
 
@@ -27,8 +27,7 @@ New-NetFirewallRule -DisplayName "WSL2 Port Bridge" -Direction Inbound -Action A
 This rule opens ports 80, 443, 10000, 3000, and 5000 for TCP traffic.
 
 > **Note:** Sometimes the firewall rule doesn’t work right away. Check the Windows Defender Firewall settings to make sure it’s active. You might need to recheck it if there’s a problem.
-
-## Step 2: Set Up Port Forwarding with `netsh interface portproxy`
+### Set Up Port Forwarding with `netsh interface portproxy`
 
 WSL2 has its own IP address, separate from the Windows host. To connect the Windows host’s IP to the WSL2 service, I used the `netsh interface portproxy` command. This forwards traffic from the Windows host to the WSL2 instance.
 
@@ -44,8 +43,7 @@ netsh interface portproxy add v4tov4 listenport=80 listenaddress=0.0.0.0 connect
 - `connectaddress=192.168.48.167`: The WSL2 IP address.
 
 > **Important:** Replace `192.168.48.167` with your WSL2 IP address. To find it, run `ip addr` inside WSL2 and look for the IP under `eth0`. This IP can change, so check it again if the connection stops working.
-
-## Step 3: (Optional) Adjust Hyper-V Firewall Settings
+### (Optional) Adjust Hyper-V Firewall Settings
 
 WSL2 runs on Hyper-V, so I tried a command to allow inbound connections through the Hyper-V firewall. I’m not sure if this is necessary, but it might help if the service still isn’t accessible.
 

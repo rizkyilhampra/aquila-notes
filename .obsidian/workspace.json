@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1739606203-linux-folder-or-file-permission.md",
+                "file": "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1739606203-linux-folder-or-file-permission"
+              "title": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network"
             }
           }
         ],
@@ -255,6 +255,10 @@
   },
   "active": "df58dcaf989608ca",
   "lastOpenFiles": [
+    "engineering/1763279341-product-requirements-document-prd.md",
+    "engineering/1763225591-minimum-viable-product-mvp.md",
+    "engineering/1763281621-tech-stack.md",
+    "1739606203-linux-folder-or-file-permission.md",
     "engineering/1763315415-atlassian-platform.md",
     "engineering/1728351752-laravel-guidelines.md",
     "engineering/1763224944-laravel.md",
@@ -277,11 +281,7 @@
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "til",
-    "engineering/1763225591-minimum-viable-product-mvp.md",
-    "engineering/1763279341-product-requirements-document-prd.md",
-    "engineering/1763281621-tech-stack.md",
     "index.md",
-    "engineering/sdlc/1728527555-scrum.md",
     "engineering",
     "engineering/system-architecture/microservices",
     "engineering/system-architecture",
