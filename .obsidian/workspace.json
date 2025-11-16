@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1763279341-product-requirements-document-prd.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -252,12 +252,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a214e7fa18a1d6e5",
+  "active": "d5d4dbb9b861af45",
   "lastOpenFiles": [
+    "1763225591-minimum-viable-product-mvp.md",
+    "1763224944-laravel.md",
     "1763279341-product-requirements-document-prd.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
-    "1763224944-laravel.md",
-    "1763225591-minimum-viable-product-mvp.md",
     "system-architecture/1763224515-monolith.md",
     "system-architecture/microservices/1763224464-microservices.md",
     "templates/main.md",
