@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "1763281621-tech-stack",
-      "path": "1763281621-tech-stack.md"
+      "basename": "index",
+      "path": "system-architecture/index.md"
+    },
+    {
+      "basename": "1763224515-monolith",
+      "path": "system-architecture/1763224515-monolith.md"
     },
     {
       "basename": "1763279341-product-requirements-document-prd",
       "path": "1763279341-product-requirements-document-prd.md"
+    },
+    {
+      "basename": "1763281621-tech-stack",
+      "path": "1763281621-tech-stack.md"
     },
     {
       "basename": "1763224944-laravel",
@@ -19,10 +27,6 @@
     {
       "basename": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox",
       "path": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md"
-    },
-    {
-      "basename": "1763224515-monolith",
-      "path": "system-architecture/1763224515-monolith.md"
     },
     {
       "basename": "1763224464-microservices",
@@ -195,10 +199,6 @@
     {
       "basename": "1762315251-hyprfocus",
       "path": "hyprland/1762315251-hyprfocus.md"
-    },
-    {
-      "basename": "neovim",
-      "path": "reddit-upvoted/neovim.md"
     }
   ],
   "omittedPaths": [],
