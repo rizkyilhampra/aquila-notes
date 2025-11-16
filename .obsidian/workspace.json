@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1763225591-minimum-viable-product-mvp.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1763225591-minimum-viable-product-mvp"
+              "title": "Untitled"
             }
           },
           {
@@ -256,6 +256,7 @@
   "active": "d5d4dbb9b861af45",
   "lastOpenFiles": [
     "1763225591-minimum-viable-product-mvp.md",
+    "Untitled.md",
     "1763224944-laravel.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "system-architecture/1763224515-monolith.md",
@@ -296,7 +297,6 @@
     "1734320387-dosudotdev.md",
     "1757774888-how-to-decompile-an-python-310-program.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
-    "1733471063-awesome-portfolios-web-apps.md",
     "public",
     "movies",
     "Movies/Movies.base",

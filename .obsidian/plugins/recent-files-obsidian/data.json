@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "1763225591-minimum-viable-product-mvp",
       "path": "1763225591-minimum-viable-product-mvp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1743735338-redirect-and-sync",
       "path": "scripts/1743735338-redirect-and-sync.md"
-    },
-    {
-      "basename": "1736003618-create-a-single-container-to-estimate-the-database-size",
-      "path": "snippets/commands/docker/1736003618-create-a-single-container-to-estimate-the-database-size.md"
     }
   ],
   "omittedPaths": [],
