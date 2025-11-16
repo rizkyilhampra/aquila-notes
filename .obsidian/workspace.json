@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "1763281621-tech-stack.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1763281621-tech-stack"
+            }
+          },
+          {
+            "id": "2d6525645acfecb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1763279341-product-requirements-document-prd.md",
                 "mode": "source",
                 "source": false,
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "1763279341-product-requirements-document-prd"
-            }
-          },
-          {
-            "id": "2d6525645acfecb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
             }
           }
         ]
@@ -254,10 +254,11 @@
   },
   "active": "d5d4dbb9b861af45",
   "lastOpenFiles": [
-    "1763225591-minimum-viable-product-mvp.md",
-    "1763224944-laravel.md",
     "1763279341-product-requirements-document-prd.md",
+    "1763224944-laravel.md",
+    "1763225591-minimum-viable-product-mvp.md",
     "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
+    "1763281621-tech-stack.md",
     "system-architecture/1763224515-monolith.md",
     "system-architecture/microservices/1763224464-microservices.md",
     "templates/main.md",
@@ -295,7 +296,6 @@
     "1739606203-linux-folder-or-file-permission.md",
     "1734320387-dosudotdev.md",
     "1757774888-how-to-decompile-an-python-310-program.md",
-    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "public",
     "movies",
     "Movies/Movies.base",
