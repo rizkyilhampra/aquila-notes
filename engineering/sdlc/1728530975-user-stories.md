@@ -9,11 +9,11 @@ tags: []
 
 > A user story is an informal, general explanation of a software feature written from the perspective of the end user. It's purpose is to articulate how a software feature will provide value to the customer.[^1]
 
-Is an unit of work in an [[1728527572-agile|Agile]] framework. I'ts an end goal, not a feature, expressed from the software user's perspective.
+Is an unit of work in an [[engineering/sdlc/1728527572-agile|Agile]] framework. I'ts an end goal, not a feature, expressed from the software user's perspective.
 
-In [[1728527555-scrum|Scrum]], user stories are added to the [[1728528769-sprints|Sprints]] and "burned down" over the duration of the sprint. Otherwise in [[1728531469-kanban|Kanban]], teams pull user stories into their [[1728531496-backlog|Backlog]] and run them through their workflow.
+In [[engineering/sdlc/1728527555-scrum|Scrum]], user stories are added to the [[engineering/sdlc/1728528769-sprints|Sprints]] and "burned down" over the duration of the sprint. Otherwise in [[engineering/sdlc/1728531469-kanban|Kanban]], teams pull user stories into their [[engineering/sdlc/1728531496-backlog|Backlog]] and run them through their workflow.
 
-User stories are also the building blocks of larger agile frameworks like [[1728531579-epics|epics]] and initiatives.
+User stories are also the building blocks of larger agile frameworks like [[engineering/sdlc/1728531579-epics|epics]] and initiatives.
 
 ## Benefit
 

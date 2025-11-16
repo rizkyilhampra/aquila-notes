@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "1763310929-database-per-service-pattern",
-      "path": "system-architecture/microservices/1763310929-database-per-service-pattern.md"
+      "basename": "index",
+      "path": "engineering/index.md"
     },
     {
-      "basename": "1763224515-monolith",
-      "path": "system-architecture/1763224515-monolith.md"
+      "basename": "1728527555-scrum",
+      "path": "engineering/sdlc/1728527555-scrum.md"
+    },
+    {
+      "basename": "1728527572-agile",
+      "path": "engineering/sdlc/1728527572-agile.md"
+    },
+    {
+      "basename": "index",
+      "path": "engineering/system-architecture/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "engineering/system-architecture/microservices/index.md"
+    },
+    {
+      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
+      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
+    },
+    {
+      "basename": "1763310929-database-per-service-pattern",
+      "path": "engineering/system-architecture/microservices/1763310929-database-per-service-pattern.md"
     },
     {
       "basename": "1763224464-microservices",
-      "path": "system-architecture/1763224464-microservices.md"
+      "path": "engineering/system-architecture/1763224464-microservices.md"
     },
     {
-      "basename": "index",
-      "path": "system-architecture/microservices/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "system-architecture/index.md"
+      "basename": "1763224515-monolith",
+      "path": "engineering/system-architecture/1763224515-monolith.md"
     },
     {
       "basename": "1763279341-product-requirements-document-prd",
@@ -67,10 +83,6 @@
     {
       "basename": "2024-10-11",
       "path": "vault-notes/dailies/2024-10-11.md"
-    },
-    {
-      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
-      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
     },
     {
       "basename": "1762311195-polarsh",
@@ -187,18 +199,6 @@
     {
       "basename": "1728688684-resend-email-service",
       "path": "1728688684-resend-email-service.md"
-    },
-    {
-      "basename": "1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file",
-      "path": "snippets/commands/docker/1736003877-restore-a-large-mysql-mariadb-database-from-a-gzip-file.md"
-    },
-    {
-      "basename": "1749374600-execute-sql-migration-script-inside-mysql-docker-container",
-      "path": "snippets/commands/docker/1749374600-execute-sql-migration-script-inside-mysql-docker-container.md"
-    },
-    {
-      "basename": "1748684577-create-file-with-timestamp",
-      "path": "snippets/commands/1748684577-create-file-with-timestamp.md"
     }
   ],
   "omittedPaths": [],

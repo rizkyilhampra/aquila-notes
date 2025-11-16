@@ -9,4 +9,4 @@ tags: []
 
 ## Methodologies
 - Waterfall
-- [[1728527572-agile|Agile]]
+- [[engineering/sdlc/1728527572-agile|Agile]]
