@@ -4,6 +4,7 @@ aliases:
   - Database Per Service Pattern
 tags:
   - pattern
+  - microservices
 publish: true
 created: 2025-11-17 00:35
 modified: 2025-11-17 00:37
