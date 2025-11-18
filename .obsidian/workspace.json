@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-19.md",
+                "file": "dailies/2025-01-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-19"
+              "title": "2025-01-28"
             }
           }
         ]
@@ -230,8 +230,9 @@
   },
   "active": "a5d318be2d0f8563",
   "lastOpenFiles": [
-    "dailies/2025-11-18.md",
+    "dailies/index.md",
     "dailies/2025-11-19.md",
+    "dailies/2025-11-18.md",
     "engineering/1763281621-tech-stack.md",
     "dailies/2025-11-12.md",
     "dailies/2025-11-13.md",
@@ -255,7 +256,6 @@
     "1729869196-git-hooks-wrapper.md",
     "til/1742317084-setting-up-dns-on-my-arch-linux.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
-    "til/index.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",

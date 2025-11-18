@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-01-28",
+      "path": "dailies/2025-01-28.md"
+    },
+    {
+      "basename": "index",
+      "path": "dailies/index.md"
+    },
+    {
       "basename": "2025-11-19",
       "path": "dailies/2025-11-19.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "2025-11-13",
       "path": "dailies/2025-11-13.md"
-    },
-    {
-      "basename": "2025-01-28",
-      "path": "dailies/2025-01-28.md"
     },
     {
       "basename": "1739606203-linux-folder-or-file-permission",
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "engineering/system-architecture/index.md"
-    },
-    {
-      "basename": "1763224515-monolith",
-      "path": "engineering/system-architecture/1763224515-monolith.md"
     }
   ],
   "omittedPaths": [],
