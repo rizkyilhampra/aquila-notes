@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+                "file": "dailies/2025-01-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network"
+              "title": "2025-01-28"
             }
           }
         ],
@@ -253,17 +253,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df58dcaf989608ca",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
-    "engineering/1763279341-product-requirements-document-prd.md",
-    "engineering/1763225591-minimum-viable-product-mvp.md",
-    "engineering/1763281621-tech-stack.md",
     "1739606203-linux-folder-or-file-permission.md",
-    "engineering/1763315415-atlassian-platform.md",
+    "1733466869-laravel-inertia-resources.md",
     "engineering/1728351752-laravel-guidelines.md",
+    "engineering/1728526578-ab-testing.md",
+    "engineering/1763225591-minimum-viable-product-mvp.md",
+    "engineering/1763315415-atlassian-platform.md",
+    "engineering/1763281621-tech-stack.md",
+    "engineering/1763279341-product-requirements-document-prd.md",
     "engineering/1763224944-laravel.md",
     "engineering/1728526878-multivariate-testing.md",
-    "engineering/1728526578-ab-testing.md",
+    "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "engineering/project-managements/index.md",
     "engineering/project-managements/1728506930-confluence.md",
     "engineering/project-managements/1728506917-trello.md",
@@ -276,12 +278,10 @@
     "til/1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "til/1739644546-downgrade-arch-linux-installed-package.md",
     "til/1732264756-how-to-combine-two-repository-with-unrelated-history.md",
-    "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "til/1757774888-how-to-decompile-an-python-310-program.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "til",
-    "index.md",
     "engineering",
     "engineering/system-architecture/microservices",
     "engineering/system-architecture",

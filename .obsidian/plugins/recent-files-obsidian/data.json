@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
-      "path": "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
-    },
-    {
-      "basename": "1763279341-product-requirements-document-prd",
-      "path": "engineering/1763279341-product-requirements-document-prd.md"
-    },
-    {
-      "basename": "1763225591-minimum-viable-product-mvp",
-      "path": "engineering/1763225591-minimum-viable-product-mvp.md"
-    },
-    {
-      "basename": "1763281621-tech-stack",
-      "path": "engineering/1763281621-tech-stack.md"
+      "basename": "2025-01-28",
+      "path": "dailies/2025-01-28.md"
     },
     {
       "basename": "1739606203-linux-folder-or-file-permission",
       "path": "1739606203-linux-folder-or-file-permission.md"
     },
     {
-      "basename": "1763315415-atlassian-platform",
-      "path": "engineering/1763315415-atlassian-platform.md"
+      "basename": "1733466869-laravel-inertia-resources",
+      "path": "1733466869-laravel-inertia-resources.md"
     },
     {
       "basename": "1728351752-laravel-guidelines",
       "path": "engineering/1728351752-laravel-guidelines.md"
+    },
+    {
+      "basename": "1728526578-ab-testing",
+      "path": "engineering/1728526578-ab-testing.md"
+    },
+    {
+      "basename": "1763225591-minimum-viable-product-mvp",
+      "path": "engineering/1763225591-minimum-viable-product-mvp.md"
+    },
+    {
+      "basename": "1763315415-atlassian-platform",
+      "path": "engineering/1763315415-atlassian-platform.md"
+    },
+    {
+      "basename": "1763281621-tech-stack",
+      "path": "engineering/1763281621-tech-stack.md"
+    },
+    {
+      "basename": "1763279341-product-requirements-document-prd",
+      "path": "engineering/1763279341-product-requirements-document-prd.md"
     },
     {
       "basename": "1763224944-laravel",
@@ -37,8 +45,8 @@
       "path": "engineering/1728526878-multivariate-testing.md"
     },
     {
-      "basename": "1728526578-ab-testing",
-      "path": "engineering/1728526578-ab-testing.md"
+      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
+      "path": "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
     },
     {
       "basename": "index",
@@ -191,14 +199,6 @@
     {
       "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
       "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
-    },
-    {
-      "basename": "main",
-      "path": "templates/main.md"
-    },
-    {
-      "basename": "1763217959-draft-1",
-      "path": "course-notes/microservices/1763217959-draft-1.md"
     }
   ],
   "omittedPaths": [],
