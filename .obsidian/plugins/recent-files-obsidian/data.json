@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-19",
+      "path": "dailies/2025-11-19.md"
+    },
+    {
       "basename": "2025-11-12",
       "path": "dailies/2025-11-12.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1763224515-monolith",
       "path": "engineering/system-architecture/1763224515-monolith.md"
-    },
-    {
-      "basename": "1763224464-microservices",
-      "path": "engineering/system-architecture/1763224464-microservices.md"
     }
   ],
   "omittedPaths": [],

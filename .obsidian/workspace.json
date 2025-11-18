@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-12.md",
-                "mode": "source",
+                "file": "dailies/2025-11-19.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-12"
+              "title": "2025-11-19"
             }
           }
         ],
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "file": "dailies/2025-11-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "Outline of 2025-11-19"
             }
           },
           {
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6d3f71b0a923c3e6",
@@ -256,6 +256,8 @@
   },
   "active": "df58dcaf989608ca",
   "lastOpenFiles": [
+    "dailies/2025-11-12.md",
+    "dailies/2025-11-19.md",
     "dailies/2025-11-13.md",
     "dailies/2025-11-18.md",
     "dailies/2025-11-15.md",
@@ -280,8 +282,6 @@
     "til/1742317084-setting-up-dns-on-my-arch-linux.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "til/index.md",
-    "til/1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
-    "til/1739644546-downgrade-arch-linux-installed-package.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
