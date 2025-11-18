@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-11-12",
+      "path": "dailies/2025-11-12.md"
+    },
+    {
+      "basename": "2025-11-13",
+      "path": "dailies/2025-11-13.md"
+    },
+    {
+      "basename": "2025-11-18",
+      "path": "dailies/2025-11-18.md"
+    },
+    {
       "basename": "2025-01-28",
       "path": "dailies/2025-01-28.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1763224464-microservices",
       "path": "engineering/system-architecture/1763224464-microservices.md"
-    },
-    {
-      "basename": "index",
-      "path": "engineering/system-architecture/microservices/index.md"
-    },
-    {
-      "basename": "1763310929-database-per-service-pattern",
-      "path": "engineering/system-architecture/microservices/1763310929-database-per-service-pattern.md"
-    },
-    {
-      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
-      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
     }
   ],
   "omittedPaths": [],

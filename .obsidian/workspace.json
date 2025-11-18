@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-01-28.md",
+                "file": "dailies/2025-11-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-01-28"
+              "title": "2025-11-12"
             }
           }
         ],
@@ -253,8 +253,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "df58dcaf989608ca",
   "lastOpenFiles": [
+    "dailies/2025-11-13.md",
+    "dailies/2025-11-18.md",
+    "dailies/2025-11-15.md",
+    "dailies/2025-01-28.md",
     "1739606203-linux-folder-or-file-permission.md",
     "1733466869-laravel-inertia-resources.md",
     "engineering/1728351752-laravel-guidelines.md",
@@ -277,10 +281,6 @@
     "til/index.md",
     "til/1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md",
     "til/1739644546-downgrade-arch-linux-installed-package.md",
-    "til/1732264756-how-to-combine-two-repository-with-unrelated-history.md",
-    "til/1757774888-how-to-decompile-an-python-310-program.md",
-    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-    "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
