@@ -5,6 +5,10 @@
       "path": "dailies/2025-11-19.md"
     },
     {
+      "basename": "1763281621-tech-stack",
+      "path": "engineering/1763281621-tech-stack.md"
+    },
+    {
       "basename": "2025-11-12",
       "path": "dailies/2025-11-12.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "1763315415-atlassian-platform",
       "path": "engineering/1763315415-atlassian-platform.md"
-    },
-    {
-      "basename": "1763281621-tech-stack",
-      "path": "engineering/1763281621-tech-stack.md"
     },
     {
       "basename": "1763279341-product-requirements-document-prd",

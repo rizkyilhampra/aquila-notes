@@ -23,7 +23,7 @@
     },
     "format-yaml-array": {
       "enabled": true,
-      "alias-key": true,
+      "alias-key": false,
       "tag-key": true,
       "default-array-style": "single-line",
       "default-array-keys": true,
