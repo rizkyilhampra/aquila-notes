@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-07.md",
+                "file": "dailies/2025-11-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-07"
+              "title": "2025-11-23"
+            }
+          },
+          {
+            "id": "d82d6d820628149e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailies/2025-11-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-19"
+            }
+          },
+          {
+            "id": "66e79742836c52c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1763879366-thought-of-whatsapp-official-api.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1763879366-thought-of-whatsapp-official-api"
             }
           }
         ]
@@ -98,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407
+    "width": 200
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -230,11 +278,19 @@
   },
   "active": "a5d318be2d0f8563",
   "lastOpenFiles": [
-    "dailies/2025-11-12.md",
-    "dailies/2025-11-13.md",
     "dailies/2025-11-19.md",
+    "dailies/2025-11-23.md",
+    "1763879366-thought-of-whatsapp-official-api.md",
     "dailies/2025-11-18.md",
+    "dailies/2025-11-13.md",
+    "dailies/2025-11-12.md",
+    "dailies/2025-11-07.md",
+    "dailies/2025-05-23.md",
+    "dailies/2025-05-10.md",
+    "dailies/2025-05-08.md",
+    "dailies/2025-01-29.md",
     "dailies/2025-01-28.md",
+    "1763879277-whatsapp-official-api.md",
     "dailies/index.md",
     "engineering/1763281621-tech-stack.md",
     "dailies/2025-11-15.md",
@@ -248,14 +304,6 @@
     "engineering/1763224944-laravel.md",
     "engineering/1728526878-multivariate-testing.md",
     "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
-    "engineering/project-managements/index.md",
-    "engineering/project-managements/1728506930-confluence.md",
-    "engineering/project-managements/1728506917-trello.md",
-    "engineering/project-managements/1728506838-jira.md",
-    "engineering/project-managements/1728506822-project-management.md",
-    "1729869196-git-hooks-wrapper.md",
-    "til/1742317084-setting-up-dns-on-my-arch-linux.md",
-    "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
