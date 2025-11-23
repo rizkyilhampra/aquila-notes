@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-23.md",
+                "file": "1762311195-polarsh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-23"
-            }
-          },
-          {
-            "id": "66e79742836c52c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1763879366-thought-of-whatsapp-official-api.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1763879366-thought-of-whatsapp-official-api"
+              "title": "1762311195-polarsh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,11 +228,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66e79742836c52c8",
+  "active": "a5d318be2d0f8563",
   "lastOpenFiles": [
     "dailies/2025-11-23.md",
-    "dailies/2025-11-19.md",
     "1763879366-thought-of-whatsapp-official-api.md",
+    "dailies/2025-11-19.md",
     "dailies/2025-11-18.md",
     "dailies/2025-11-13.md",
     "dailies/2025-11-12.md",
