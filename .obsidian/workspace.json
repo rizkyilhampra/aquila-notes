@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 428
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -228,7 +228,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5d318be2d0f8563",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "dailies/2025-11-18.md",
     "dailies/2025-11-23.md",
