@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-01-28.md",
+                "file": "dailies/2025-11-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-01-28"
+              "title": "2025-11-07"
             }
           }
         ]
@@ -230,14 +230,14 @@
   },
   "active": "a5d318be2d0f8563",
   "lastOpenFiles": [
-    "dailies/index.md",
-    "dailies/2025-11-19.md",
-    "dailies/2025-11-18.md",
-    "engineering/1763281621-tech-stack.md",
     "dailies/2025-11-12.md",
     "dailies/2025-11-13.md",
-    "dailies/2025-11-15.md",
+    "dailies/2025-11-19.md",
+    "dailies/2025-11-18.md",
     "dailies/2025-01-28.md",
+    "dailies/index.md",
+    "engineering/1763281621-tech-stack.md",
+    "dailies/2025-11-15.md",
     "1739606203-linux-folder-or-file-permission.md",
     "1733466869-laravel-inertia-resources.md",
     "engineering/1728351752-laravel-guidelines.md",

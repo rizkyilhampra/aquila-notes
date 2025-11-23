@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-01-28",
-      "path": "dailies/2025-01-28.md"
+      "basename": "2025-11-07",
+      "path": "dailies/2025-11-07.md"
     },
     {
-      "basename": "index",
-      "path": "dailies/index.md"
+      "basename": "2025-11-12",
+      "path": "dailies/2025-11-12.md"
+    },
+    {
+      "basename": "2025-11-13",
+      "path": "dailies/2025-11-13.md"
     },
     {
       "basename": "2025-11-19",
@@ -17,16 +21,16 @@
       "path": "dailies/2025-11-18.md"
     },
     {
+      "basename": "2025-01-28",
+      "path": "dailies/2025-01-28.md"
+    },
+    {
+      "basename": "index",
+      "path": "dailies/index.md"
+    },
+    {
       "basename": "1763281621-tech-stack",
       "path": "engineering/1763281621-tech-stack.md"
-    },
-    {
-      "basename": "2025-11-12",
-      "path": "dailies/2025-11-12.md"
-    },
-    {
-      "basename": "2025-11-13",
-      "path": "dailies/2025-11-13.md"
     },
     {
       "basename": "1739606203-linux-folder-or-file-permission",
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "engineering/sdlc/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "engineering/system-architecture/index.md"
     }
   ],
   "omittedPaths": [],
