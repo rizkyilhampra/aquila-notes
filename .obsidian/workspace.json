@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-19.md",
+                "file": "1743844407-docker-compose-file-examples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-19"
+              "title": "1743844407-docker-compose-file-examples"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428
+    "width": 200
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -230,11 +230,11 @@
   },
   "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
+    "dailies/2025-11-19.md",
     "dailies/2025-11-18.md",
     "dailies/2025-11-23.md",
     "1762311195-polarsh.md",
     "1763879366-thought-of-whatsapp-official-api.md",
-    "dailies/2025-11-19.md",
     "dailies/2025-11-13.md",
     "dailies/2025-11-12.md",
     "dailies/2025-11-07.md",
