@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1762311195-polarsh.md",
+                "file": "dailies/2025-11-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1762311195-polarsh"
+              "title": "2025-11-23"
             }
           }
         ]
@@ -230,6 +230,7 @@
   },
   "active": "a5d318be2d0f8563",
   "lastOpenFiles": [
+    "1762311195-polarsh.md",
     "dailies/2025-11-23.md",
     "1763879366-thought-of-whatsapp-official-api.md",
     "dailies/2025-11-19.md",
@@ -255,7 +256,6 @@
     "engineering/1763279341-product-requirements-document-prd.md",
     "engineering/1763224944-laravel.md",
     "engineering/1728526878-multivariate-testing.md",
-    "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
