@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-23.md",
-                "mode": "preview",
+                "file": "dailies/2025-11-19.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-23"
+              "title": "2025-11-19"
             }
           }
         ]
@@ -230,11 +230,11 @@
   },
   "active": "a5d318be2d0f8563",
   "lastOpenFiles": [
-    "1762311195-polarsh.md",
+    "dailies/2025-11-18.md",
     "dailies/2025-11-23.md",
+    "1762311195-polarsh.md",
     "1763879366-thought-of-whatsapp-official-api.md",
     "dailies/2025-11-19.md",
-    "dailies/2025-11-18.md",
     "dailies/2025-11-13.md",
     "dailies/2025-11-12.md",
     "dailies/2025-11-07.md",
