@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1764085397-sre",
+      "path": "1764085397-sre.md"
+    },
+    {
+      "basename": "1729869196-git-hooks-wrapper",
+      "path": "1729869196-git-hooks-wrapper.md"
+    },
+    {
+      "basename": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file",
+      "path": "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md"
+    },
+    {
+      "basename": "1730138599-dependency-for-building-cli-with-javascript",
+      "path": "1730138599-dependency-for-building-cli-with-javascript.md"
+    },
+    {
       "basename": "1743844407-docker-compose-file-examples",
       "path": "1743844407-docker-compose-file-examples.md"
     },
@@ -117,10 +133,6 @@
       "path": "engineering/project-managements/1728506822-project-management.md"
     },
     {
-      "basename": "1729869196-git-hooks-wrapper",
-      "path": "1729869196-git-hooks-wrapper.md"
-    },
-    {
       "basename": "1742317084-setting-up-dns-on-my-arch-linux",
       "path": "til/1742317084-setting-up-dns-on-my-arch-linux.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "1728531496-backlog",
       "path": "engineering/sdlc/1728531496-backlog.md"
-    },
-    {
-      "basename": "1728531469-kanban",
-      "path": "engineering/sdlc/1728531469-kanban.md"
-    },
-    {
-      "basename": "1728530975-user-stories",
-      "path": "engineering/sdlc/1728530975-user-stories.md"
-    },
-    {
-      "basename": "1728529486-software-development-life-cycle",
-      "path": "engineering/sdlc/1728529486-software-development-life-cycle.md"
     }
   ],
   "omittedPaths": [],
