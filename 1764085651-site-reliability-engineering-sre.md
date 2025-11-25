@@ -11,6 +11,6 @@ modified:
 > So, I want to write this because I have found in Facebook talk about that and did not know what was that. 
 
 ## Definition
-By IBM, SRE is the practice of using software tools to automate IT infrastructure tasks such as system management and application monitoring. [^1]
+By IBM, SRE is the practice of using software tools to automate IT infrastructure tasks such as system management and application monitoring. [^IBM]
 
-[^1]: https://aws.amazon.com/what-is/sre/ 25 November 2025
+[^IBM]: Site Name – *Page Title*. [link](https://example.com) (accessed 2025‑11‑25).
