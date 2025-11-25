@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1729869196-git-hooks-wrapper.md",
+                "file": "1764085651-site-reliability-engineering-sre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1729869196-git-hooks-wrapper"
-            }
-          },
-          {
-            "id": "09e89412fa0439f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1764085397-sre.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1764085397-sre"
+              "title": "1764085651-site-reliability-engineering-sre"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,10 +228,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09e89412fa0439f6",
+  "active": "a5d318be2d0f8563",
   "lastOpenFiles": [
-    "1729869196-git-hooks-wrapper.md",
     "1764085397-sre.md",
+    "1764085651-site-reliability-engineering-sre.md",
+    "1729869196-git-hooks-wrapper.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "1730138599-dependency-for-building-cli-with-javascript.md",
     "1743844407-docker-compose-file-examples.md",
@@ -280,7 +256,6 @@
     "1739606203-linux-folder-or-file-permission.md",
     "1733466869-laravel-inertia-resources.md",
     "engineering/1728351752-laravel-guidelines.md",
-    "engineering/1728526578-ab-testing.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
