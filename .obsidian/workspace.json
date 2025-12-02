@@ -34,34 +34,71 @@
         ]
       },
       {
-        "id": "ff30cf585a4add5c",
-        "type": "tabs",
+        "id": "5ce05244d4b2908a",
+        "type": "split",
         "children": [
           {
-            "id": "4292be36c5a00a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dailies/2025-12-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "ff30cf585a4add5c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4292be36c5a00a97",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dailies/2025-11-23.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11-23"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-02"
-            }
+              }
+            ]
+          },
+          {
+            "id": "6e213268a23ae9b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1971dba3dcd7f40b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dailies/2025-11-19.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11-19"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -259,8 +296,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4292be36c5a00a97",
+  "active": "92c120a8fa4b9ae6",
   "lastOpenFiles": [
+    "dailies/2025-11-19.md",
     "dailies/2025-11-23.md",
     "dailies/2025-12-02.md",
     "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
@@ -296,7 +334,6 @@
     "engineering/sdlc/1728539292-artifacts.md",
     "engineering/sdlc/1728531579-epics.md",
     "engineering/sdlc/1728531496-backlog.md",
-    "engineering/sdlc/1728531469-kanban.md",
     "attachment/20251107-5.png",
     "attachment/20251107-6.png",
     "attachment/20251107-4.png",

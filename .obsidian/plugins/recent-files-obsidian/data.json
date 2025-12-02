@@ -5,6 +5,10 @@
       "path": "dailies/2025-12-02.md"
     },
     {
+      "basename": "2025-11-19",
+      "path": "dailies/2025-11-19.md"
+    },
+    {
       "basename": "2025-11-23",
       "path": "dailies/2025-11-23.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "1743844407-docker-compose-file-examples",
       "path": "1743844407-docker-compose-file-examples.md"
-    },
-    {
-      "basename": "2025-11-19",
-      "path": "dailies/2025-11-19.md"
     },
     {
       "basename": "2025-11-18",
