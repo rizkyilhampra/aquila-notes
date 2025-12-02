@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-12-02",
+      "path": "dailies/2025-12-02.md"
+    },
+    {
+      "basename": "2025-11-23",
+      "path": "dailies/2025-11-23.md"
+    },
+    {
       "basename": "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue",
       "path": "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2025-11-18",
       "path": "dailies/2025-11-18.md"
-    },
-    {
-      "basename": "2025-11-23",
-      "path": "dailies/2025-11-23.md"
     },
     {
       "basename": "1762311195-polarsh",
@@ -167,38 +171,6 @@
     {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
-    },
-    {
-      "basename": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox",
-      "path": "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "1728527555-scrum",
-      "path": "engineering/sdlc/1728527555-scrum.md"
-    },
-    {
-      "basename": "1728527572-agile",
-      "path": "engineering/sdlc/1728527572-agile.md"
-    },
-    {
-      "basename": "1728540835-product-roadmap",
-      "path": "engineering/sdlc/1728540835-product-roadmap.md"
-    },
-    {
-      "basename": "1728540342-product-backlog",
-      "path": "engineering/sdlc/1728540342-product-backlog.md"
-    },
-    {
-      "basename": "1728539292-artifacts",
-      "path": "engineering/sdlc/1728539292-artifacts.md"
-    },
-    {
-      "basename": "1728531579-epics",
-      "path": "engineering/sdlc/1728531579-epics.md"
     }
   ],
   "omittedPaths": [],
