@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-12-02.md",
+                "file": "dailies/2025-01-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-02"
+              "title": "2025-01-29"
             }
           }
         ]
@@ -298,9 +298,10 @@
   },
   "active": "92c120a8fa4b9ae6",
   "lastOpenFiles": [
+    "dailies/2025-12-02.md",
+    "dailies/2025-01-29.md",
     "dailies/2025-11-19.md",
     "dailies/2025-11-23.md",
-    "dailies/2025-12-02.md",
     "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
     "2025120214-1.base",
     "Untitled 2.base",
@@ -333,7 +334,6 @@
     "engineering/sdlc/1728540342-product-backlog.md",
     "engineering/sdlc/1728539292-artifacts.md",
     "engineering/sdlc/1728531579-epics.md",
-    "engineering/sdlc/1728531496-backlog.md",
     "attachment/20251107-5.png",
     "attachment/20251107-6.png",
     "attachment/20251107-4.png",
