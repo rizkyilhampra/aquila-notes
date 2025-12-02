@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue"
             }
-          },
-          {
-            "id": "3a1db2667165b82f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -243,8 +229,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a1db2667165b82f",
+  "active": "d5d4dbb9b861af45",
   "lastOpenFiles": [
+    "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
     "1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/index.md",
     "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
@@ -272,7 +259,6 @@
     "engineering/sdlc/1728531469-kanban.md",
     "engineering/sdlc/1728530975-user-stories.md",
     "engineering/sdlc/1728529486-software-development-life-cycle.md",
-    "engineering/sdlc/1728528769-sprints.md",
     "engineering/system-architecture",
     "engineering/sdlc",
     "engineering/project-managements",
