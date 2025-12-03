@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-11-23.md",
+                "file": "dailies/2025-12-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-23"
+              "title": "2025-12-04"
             }
           }
         ]
@@ -230,10 +230,10 @@
   },
   "active": "b8ae12ffc1badc47",
   "lastOpenFiles": [
+    "dailies/2025-11-23.md",
+    "dailies/2025-12-04.md",
     "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
     "conflict-files-obsidian-git.md",
-    "dailies/2025-12-04.md",
-    "dailies/2025-11-23.md",
     "dailies/Untitled.md",
     "dailies/2025-05-10.md",
     "1764085397-sre.md",
