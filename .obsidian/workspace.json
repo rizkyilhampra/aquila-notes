@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-12-04.md",
+                "file": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-04"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,9 +231,9 @@
   },
   "active": "b8ae12ffc1badc47",
   "lastOpenFiles": [
+    "dailies/2025-12-04.md",
     "dailies/2025-11-23.md",
     "dailies/2025-11-19.md",
-    "dailies/2025-12-04.md",
     "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
     "conflict-files-obsidian-git.md",
     "dailies/Untitled.md",

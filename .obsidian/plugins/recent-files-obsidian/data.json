@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
+      "path": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
+    },
+    {
       "basename": "2025-12-04",
       "path": "dailies/2025-12-04.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "1757774888-how-to-decompile-an-python-310-program",
       "path": "til/1757774888-how-to-decompile-an-python-310-program.md"
-    },
-    {
-      "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
-      "path": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     }
   ],
   "omittedPaths": [],
