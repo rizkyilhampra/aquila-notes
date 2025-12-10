@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "file": "dailies/2025-12-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "2025-12-10"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,8 +94,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,6 +230,8 @@
   },
   "active": "b8ae12ffc1badc47",
   "lastOpenFiles": [
+    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "dailies/2025-12-10.md",
     "dailies/2025-12-04.md",
     "dailies/2025-11-23.md",
     "dailies/2025-11-19.md",
@@ -255,8 +256,6 @@
     "dailies/2025-01-29.md",
     "dailies/2025-01-28.md",
     "1763879277-whatsapp-official-api.md",
-    "dailies/index.md",
-    "engineering/1763281621-tech-stack.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
