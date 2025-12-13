@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnings/1756048327-zustand.md",
+                "file": "til/1756048327-zustand.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,8 +94,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +228,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8ae12ffc1badc47",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "dailies/2025-12-10.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
