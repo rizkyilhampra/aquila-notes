@@ -5,6 +5,10 @@
       "path": "til/1756048327-zustand.md"
     },
     {
+      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
+      "path": "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
+    },
+    {
       "basename": "2025-12-10",
       "path": "dailies/2025-12-10.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "1728526878-multivariate-testing",
       "path": "engineering/1728526878-multivariate-testing.md"
-    },
-    {
-      "basename": "1747146392-making-a-wsl2-web-service-accessible-on-the-local-network",
-      "path": "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md"
     },
     {
       "basename": "index",

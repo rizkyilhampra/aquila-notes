@@ -228,8 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "b8ae12ffc1badc47",
   "lastOpenFiles": [
+    "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
+    "til/1756048327-zustand.md",
     "dailies/2025-12-10.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "dailies/2025-12-04.md",
@@ -254,8 +256,6 @@
     "dailies/2025-05-23.md",
     "dailies/2025-05-08.md",
     "dailies/2025-01-29.md",
-    "dailies/2025-01-28.md",
-    "1763879277-whatsapp-official-api.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
