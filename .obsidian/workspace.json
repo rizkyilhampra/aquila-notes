@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1756048327-zustand.md",
-                "mode": "source",
+                "file": "til/1768967547-how-beszel-data-works.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1756048327-zustand"
+              "title": "1768967547-how-beszel-data-works"
             }
           }
         ]
@@ -231,8 +231,9 @@
   },
   "active": "b8ae12ffc1badc47",
   "lastOpenFiles": [
-    "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "til/1756048327-zustand.md",
+    "til/1768967547-how-beszel-data-works.md",
+    "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "dailies/2025-12-10.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "dailies/2025-12-04.md",
@@ -256,7 +257,6 @@
     "dailies/2025-11-07.md",
     "dailies/2025-05-23.md",
     "dailies/2025-05-08.md",
-    "dailies/2025-01-29.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
