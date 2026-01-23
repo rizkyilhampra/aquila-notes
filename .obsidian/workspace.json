@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "1768967547-how-beszel-data-works"
             }
+          },
+          {
+            "id": "8a038abaa93af4fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8ae12ffc1badc47",
+  "active": "8a038abaa93af4fd",
   "lastOpenFiles": [
     "til/1756048327-zustand.md",
     "til/1768967547-how-beszel-data-works.md",
