@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "511cfe8fb2291793",
+        "id": "03c4124b6c7579aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ae12ffc1badc47",
+            "id": "e84381e1160ae241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1768967547-how-beszel-data-works.md",
-                "mode": "preview",
+                "file": "1758464981-sukebei.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1768967547-how-beszel-data-works"
-            }
-          },
-          {
-            "id": "8a038abaa93af4fd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "title": "1758464981-sukebei"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zustan",
+                "query": "torren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,11 +94,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 544
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -242,18 +230,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a038abaa93af4fd",
+  "active": "e84381e1160ae241",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "reddit-upvoted/others.md",
+    "Clippings/Getting started with Kubernetes.md",
+    "dailies/2025-11-23.md",
+    "scripts/1743735338-redirect-and-sync.md",
     "til/1756048327-zustand.md",
     "til/1768967547-how-beszel-data-works.md",
     "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "dailies/2025-12-10.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "dailies/2025-12-04.md",
-    "dailies/2025-11-23.md",
     "dailies/2025-11-19.md",
     "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
-    "conflict-files-obsidian-git.md",
     "dailies/Untitled.md",
     "dailies/2025-05-10.md",
     "1764085397-sre.md",
@@ -267,9 +258,6 @@
     "1763879366-thought-of-whatsapp-official-api.md",
     "dailies/2025-11-13.md",
     "dailies/2025-11-12.md",
-    "dailies/2025-11-07.md",
-    "dailies/2025-05-23.md",
-    "dailies/2025-05-08.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
