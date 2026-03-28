@@ -11,10 +11,24 @@
             "id": "d3b914f308454d6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "movies/1774713370-28-years-later-the-bone-temple-2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1774713370-28-years-later-the-bone-temple-2026"
             }
           }
         ]
@@ -215,8 +229,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "d3b914f308454d6e",
   "lastOpenFiles": [
+    "movies/1757258870-movies.md",
+    "movies/1757259062-bring-her-back.md",
+    "movies/1757261726-final-destination-bloodlines.md",
+    "movies/1757270819-28-years-later.md",
+    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
     "1758464981-sukebei.md",
     "conflict-files-obsidian-git.md",
     "reddit-upvoted/others.md",
@@ -238,11 +257,6 @@
     "1729869196-git-hooks-wrapper.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "1730138599-dependency-for-building-cli-with-javascript.md",
-    "1743844407-docker-compose-file-examples.md",
-    "dailies/2025-11-18.md",
-    "1762311195-polarsh.md",
-    "1763879366-thought-of-whatsapp-official-api.md",
-    "dailies/2025-11-13.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
