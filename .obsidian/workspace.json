@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03c4124b6c7579aa",
+        "id": "3406d5d73d6b27bf",
         "type": "tabs",
         "children": [
           {
-            "id": "e84381e1160ae241",
+            "id": "d3b914f308454d6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1758464981-sukebei.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1758464981-sukebei"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "torren",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,8 +80,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,8 +215,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e84381e1160ae241",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
+    "1758464981-sukebei.md",
     "conflict-files-obsidian-git.md",
     "reddit-upvoted/others.md",
     "Clippings/Getting started with Kubernetes.md",
@@ -257,7 +243,6 @@
     "1762311195-polarsh.md",
     "1763879366-thought-of-whatsapp-official-api.md",
     "dailies/2025-11-13.md",
-    "dailies/2025-11-12.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
