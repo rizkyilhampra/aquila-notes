@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "movies/1774713370-28-years-later-the-bone-temple-2026.md",
+                "file": "til/1777263369-fail2ban.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1774713370-28-years-later-the-bone-temple-2026"
+              "title": "1777263369-fail2ban"
+            }
+          },
+          {
+            "id": "1219913e42260176",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544
+    "width": 200
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -210,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,13 +241,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3b914f308454d6e",
+  "active": "1219913e42260176",
   "lastOpenFiles": [
+    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
+    "til/1777263369-fail2ban.md",
+    "movies/1757270819-28-years-later.md",
     "movies/1757258870-movies.md",
     "movies/1757259062-bring-her-back.md",
     "movies/1757261726-final-destination-bloodlines.md",
-    "movies/1757270819-28-years-later.md",
-    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
     "1758464981-sukebei.md",
     "conflict-files-obsidian-git.md",
     "reddit-upvoted/others.md",
@@ -256,7 +269,6 @@
     "1764085651-site-reliability-engineering-sre.md",
     "1729869196-git-hooks-wrapper.md",
     "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
-    "1730138599-dependency-for-building-cli-with-javascript.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",

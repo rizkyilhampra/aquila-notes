@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "1777263369-fail2ban",
+      "path": "til/1777263369-fail2ban.md"
+    },
+    {
       "basename": "1774713370-28-years-later-the-bone-temple-2026",
       "path": "movies/1774713370-28-years-later-the-bone-temple-2026.md"
+    },
+    {
+      "basename": "1757270819-28-years-later",
+      "path": "movies/1757270819-28-years-later.md"
     },
     {
       "basename": "1757258870-movies",
@@ -15,10 +23,6 @@
     {
       "basename": "1757261726-final-destination-bloodlines",
       "path": "movies/1757261726-final-destination-bloodlines.md"
-    },
-    {
-      "basename": "1757270819-28-years-later",
-      "path": "movies/1757270819-28-years-later.md"
     },
     {
       "basename": "1758464981-sukebei",
@@ -195,10 +199,6 @@
     {
       "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
       "path": "til/1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
-    },
-    {
-      "basename": "1739644546-downgrade-arch-linux-installed-package",
-      "path": "til/1739644546-downgrade-arch-linux-installed-package.md"
     }
   ],
   "omittedPaths": [],
