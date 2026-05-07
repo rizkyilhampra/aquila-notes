@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1777263369-fail2ban.md",
+                "file": "til/1778163227-openwrt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1777263369-fail2ban"
-            }
-          },
-          {
-            "id": "1219913e42260176",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "title": "1778163227-openwrt"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -111,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -223,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,16 +229,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1219913e42260176",
+  "active": "d3b914f308454d6e",
   "lastOpenFiles": [
-    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
+    "til/1778163227-openwrt.md",
+    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/1777263369-fail2ban.md",
-    "movies/1757270819-28-years-later.md",
+    "conflict-files-obsidian-git.md",
+    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
     "movies/1757258870-movies.md",
     "movies/1757259062-bring-her-back.md",
     "movies/1757261726-final-destination-bloodlines.md",
+    "movies/1757270819-28-years-later.md",
     "1758464981-sukebei.md",
-    "conflict-files-obsidian-git.md",
     "reddit-upvoted/others.md",
     "Clippings/Getting started with Kubernetes.md",
     "dailies/2025-11-23.md",
@@ -259,7 +249,6 @@
     "til/1768967547-how-beszel-data-works.md",
     "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "dailies/2025-12-10.md",
-    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "dailies/2025-12-04.md",
     "dailies/2025-11-19.md",
     "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
@@ -268,7 +257,6 @@
     "1764085397-sre.md",
     "1764085651-site-reliability-engineering-sre.md",
     "1729869196-git-hooks-wrapper.md",
-    "1756052446-deployment-of-spdhtc-using-existing-backup-database-file.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",

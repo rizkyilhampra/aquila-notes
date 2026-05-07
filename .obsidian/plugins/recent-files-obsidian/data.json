@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1778163227-openwrt",
+      "path": "til/1778163227-openwrt.md"
+    },
+    {
       "basename": "1777263369-fail2ban",
       "path": "til/1777263369-fail2ban.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "til/index.md"
-    },
-    {
-      "basename": "1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland",
-      "path": "til/1739645067-freeze-or-hang-randomly-on-arch-linux-with-hyprland.md"
     }
   ],
   "omittedPaths": [],
