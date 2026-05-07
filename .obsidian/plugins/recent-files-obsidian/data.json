@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1778171842-bpjstk-bpu",
+      "path": "til/1778171842-bpjstk-bpu.md"
+    },
+    {
       "basename": "1736135014-clone-private-repository",
       "path": "cheatsheets/1736135014-clone-private-repository.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1728506822-project-management",
       "path": "engineering/project-managements/1728506822-project-management.md"
-    },
-    {
-      "basename": "1742317084-setting-up-dns-on-my-arch-linux",
-      "path": "til/1742317084-setting-up-dns-on-my-arch-linux.md"
     }
   ],
   "omittedPaths": [],
