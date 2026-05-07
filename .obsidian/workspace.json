@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1778163227-openwrt.md",
+                "file": "cheatsheets/1736135014-clone-private-repository.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1778163227-openwrt"
+              "title": "1736135014-clone-private-repository"
             }
           }
         ]
@@ -230,6 +230,7 @@
   },
   "active": "d3b914f308454d6e",
   "lastOpenFiles": [
+    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "til/1778163227-openwrt.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/1777263369-fail2ban.md",
@@ -255,7 +256,6 @@
     "dailies/2025-05-10.md",
     "1764085397-sre.md",
     "1764085651-site-reliability-engineering-sre.md",
-    "1729869196-git-hooks-wrapper.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",

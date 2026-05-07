@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1736135014-clone-private-repository",
+      "path": "cheatsheets/1736135014-clone-private-repository.md"
+    },
+    {
+      "basename": "1737972342-change-the-upstream-branch-of-local-branch",
+      "path": "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md"
+    },
+    {
       "basename": "1778163227-openwrt",
       "path": "til/1778163227-openwrt.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1742317084-setting-up-dns-on-my-arch-linux",
       "path": "til/1742317084-setting-up-dns-on-my-arch-linux.md"
-    },
-    {
-      "basename": "1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash",
-      "path": "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md"
-    },
-    {
-      "basename": "index",
-      "path": "til/index.md"
     }
   ],
   "omittedPaths": [],
