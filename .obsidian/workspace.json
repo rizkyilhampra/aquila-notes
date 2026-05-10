@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3406d5d73d6b27bf",
+        "id": "e7ac7a688b63a6b4",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b914f308454d6e",
+            "id": "05f967175c28b9a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
+              "title": "New tab"
             }
           }
         ]
@@ -228,8 +214,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3b914f308454d6e",
+  "active": "05f967175c28b9a9",
   "lastOpenFiles": [
+    "movies/1778436762-undertone.md",
+    "movies/1757270819-28-years-later.md",
+    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
+    "movies/1757261726-final-destination-bloodlines.md",
+    "movies/1757258870-movies.md",
+    "movies/1757259062-bring-her-back.md",
+    "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "til/1768967547-how-beszel-data-works.md",
     "til/1777263369-fail2ban.md",
     "til/1778163227-openwrt.md",
@@ -238,11 +231,6 @@
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
-    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
-    "movies/1757258870-movies.md",
-    "movies/1757259062-bring-her-back.md",
-    "movies/1757261726-final-destination-bloodlines.md",
-    "movies/1757270819-28-years-later.md",
     "1758464981-sukebei.md",
     "reddit-upvoted/others.md",
     "Clippings/Getting started with Kubernetes.md",
@@ -254,8 +242,6 @@
     "dailies/2025-12-04.md",
     "dailies/2025-11-19.md",
     "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
-    "dailies/Untitled.md",
-    "dailies/2025-05-10.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
