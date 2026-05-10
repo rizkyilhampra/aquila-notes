@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1778171842-bpjstk-bpu.md",
+                "file": "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1778171842-bpjstk-bpu"
+              "title": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox"
             }
           }
         ]
@@ -230,12 +230,13 @@
   },
   "active": "d3b914f308454d6e",
   "lastOpenFiles": [
-    "cheatsheets/1736135014-clone-private-repository.md",
-    "til/1778171842-bpjstk-bpu.md",
-    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
-    "til/1778163227-openwrt.md",
-    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "til/1768967547-how-beszel-data-works.md",
     "til/1777263369-fail2ban.md",
+    "til/1778163227-openwrt.md",
+    "til/1778171842-bpjstk-bpu.md",
+    "cheatsheets/1736135014-clone-private-repository.md",
+    "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
+    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
     "movies/1774713370-28-years-later-the-bone-temple-2026.md",
     "movies/1757258870-movies.md",
@@ -248,7 +249,6 @@
     "dailies/2025-11-23.md",
     "scripts/1743735338-redirect-and-sync.md",
     "til/1756048327-zustand.md",
-    "til/1768967547-how-beszel-data-works.md",
     "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "dailies/2025-12-10.md",
     "dailies/2025-12-04.md",

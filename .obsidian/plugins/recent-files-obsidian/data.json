@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox",
+      "path": "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md"
+    },
+    {
+      "basename": "1768967547-how-beszel-data-works",
+      "path": "til/1768967547-how-beszel-data-works.md"
+    },
+    {
+      "basename": "1777263369-fail2ban",
+      "path": "til/1777263369-fail2ban.md"
+    },
+    {
+      "basename": "1778163227-openwrt",
+      "path": "til/1778163227-openwrt.md"
+    },
+    {
       "basename": "1778171842-bpjstk-bpu",
       "path": "til/1778171842-bpjstk-bpu.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "1737972342-change-the-upstream-branch-of-local-branch",
       "path": "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md"
-    },
-    {
-      "basename": "1778163227-openwrt",
-      "path": "til/1778163227-openwrt.md"
-    },
-    {
-      "basename": "1777263369-fail2ban",
-      "path": "til/1777263369-fail2ban.md"
     },
     {
       "basename": "1774713370-28-years-later-the-bone-temple-2026",
@@ -43,10 +51,6 @@
     {
       "basename": "1758464981-sukebei",
       "path": "1758464981-sukebei.md"
-    },
-    {
-      "basename": "1768967547-how-beszel-data-works",
-      "path": "til/1768967547-how-beszel-data-works.md"
     },
     {
       "basename": "1756048327-zustand",
@@ -195,10 +199,6 @@
     {
       "basename": "1728506838-jira",
       "path": "engineering/project-managements/1728506838-jira.md"
-    },
-    {
-      "basename": "1728506822-project-management",
-      "path": "engineering/project-managements/1728506822-project-management.md"
     }
   ],
   "omittedPaths": [],
