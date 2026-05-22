@@ -11,10 +11,24 @@
             "id": "05f967175c28b9a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -196,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +229,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05f967175c28b9a9",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "movies/1778436762-undertone.md",
     "movies/1757270819-28-years-later.md",
