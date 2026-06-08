@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1780889783-claude-code-using-kiro-api",
+      "path": "til/1780889783-claude-code-using-kiro-api.md"
+    },
+    {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
       "path": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1728506930-confluence",
       "path": "engineering/project-managements/1728506930-confluence.md"
-    },
-    {
-      "basename": "1728506917-trello",
-      "path": "engineering/project-managements/1728506917-trello.md"
     }
   ],
   "omittedPaths": [],

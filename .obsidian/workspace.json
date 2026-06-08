@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-                "mode": "preview",
+                "file": "til/1780889783-claude-code-using-kiro-api.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1760364389-akses-local-development-server-dengan-ssh-tunneling"
+              "title": "1780889783-claude-code-using-kiro-api"
             }
           }
         ]
@@ -229,8 +229,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "05f967175c28b9a9",
   "lastOpenFiles": [
+    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "til/1780889783-claude-code-using-kiro-api.md",
     "movies/1778436762-undertone.md",
     "movies/1757270819-28-years-later.md",
     "movies/1774713370-28-years-later-the-bone-temple-2026.md",
@@ -244,7 +246,6 @@
     "til/1778171842-bpjstk-bpu.md",
     "cheatsheets/1736135014-clone-private-repository.md",
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
-    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "conflict-files-obsidian-git.md",
     "1758464981-sukebei.md",
     "reddit-upvoted/others.md",
@@ -256,7 +257,6 @@
     "dailies/2025-12-10.md",
     "dailies/2025-12-04.md",
     "dailies/2025-11-19.md",
-    "1764125140-whatsapp-webhook-cloudflare-tunnel-routing-issue.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
