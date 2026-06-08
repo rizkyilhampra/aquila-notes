@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1780892724-task-id-bpjs",
+      "path": "til/1780892724-task-id-bpjs.md"
+    },
+    {
       "basename": "1780889783-claude-code-using-kiro-api",
       "path": "til/1780889783-claude-code-using-kiro-api.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "engineering/project-managements/index.md"
-    },
-    {
-      "basename": "1728506930-confluence",
-      "path": "engineering/project-managements/1728506930-confluence.md"
     }
   ],
   "omittedPaths": [],
