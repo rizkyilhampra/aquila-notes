@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "1780889783-claude-code-using-kiro-api",
+      "path": "til/1780889783-claude-code-using-kiro-api.md"
+    },
+    {
       "basename": "1781273641-command-code-ai",
       "path": "til/1781273641-command-code-ai.md"
+    },
+    {
+      "basename": "1781275800-alishahryar1-free-claude-code",
+      "path": "til/1781275800-alishahryar1-free-claude-code.md"
+    },
+    {
+      "basename": "1781275465-openrouter",
+      "path": "til/1781275465-openrouter.md"
     },
     {
       "basename": "1780892724-task-id-bpjs",
       "path": "til/1780892724-task-id-bpjs.md"
     },
     {
-      "basename": "1780889783-claude-code-using-kiro-api",
-      "path": "til/1780889783-claude-code-using-kiro-api.md"
+      "basename": "1781275915-claude-code",
+      "path": "til/1781275915-claude-code.md"
+    },
+    {
+      "basename": "1781276040-claude",
+      "path": "til/1781276040-claude.md"
     },
     {
       "basename": "1760364389-akses-local-development-server-dengan-ssh-tunneling",
@@ -183,22 +199,6 @@
     {
       "basename": "1763225591-minimum-viable-product-mvp",
       "path": "engineering/1763225591-minimum-viable-product-mvp.md"
-    },
-    {
-      "basename": "1763315415-atlassian-platform",
-      "path": "engineering/1763315415-atlassian-platform.md"
-    },
-    {
-      "basename": "1763279341-product-requirements-document-prd",
-      "path": "engineering/1763279341-product-requirements-document-prd.md"
-    },
-    {
-      "basename": "1763224944-laravel",
-      "path": "engineering/1763224944-laravel.md"
-    },
-    {
-      "basename": "1728526878-multivariate-testing",
-      "path": "engineering/1728526878-multivariate-testing.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1781273641-command-code-ai.md",
+                "file": "til/1780889783-claude-code-using-kiro-api.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1781273641-command-code-ai"
+              "title": "1780889783-claude-code-using-kiro-api"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 450
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -230,8 +230,14 @@
   },
   "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
-    "til/1780892724-task-id-bpjs.md",
     "til/1781273641-command-code-ai.md",
+    "til/1781275800-alishahryar1-free-claude-code.md",
+    "til/1781275465-openrouter.md",
+    "til/1780892724-task-id-bpjs.md",
+    "til/1781275915-claude-code.md",
+    "til/1781276040-claude.md",
+    "Claude Code.md",
+    "OpenRouter.md",
     "til/1780892619-task-id-bpjs.md",
     "til/1780889783-claude-code-using-kiro-api.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
@@ -250,12 +256,6 @@
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "conflict-files-obsidian-git.md",
     "1758464981-sukebei.md",
-    "reddit-upvoted/others.md",
-    "Clippings/Getting started with Kubernetes.md",
-    "dailies/2025-11-23.md",
-    "scripts/1743735338-redirect-and-sync.md",
-    "til/1756048327-zustand.md",
-    "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
