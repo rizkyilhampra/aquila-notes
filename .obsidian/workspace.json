@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1780892724-task-id-bpjs.md",
+                "file": "til/1781273641-command-code-ai.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1780892724-task-id-bpjs"
+              "title": "1781273641-command-code-ai"
             }
           }
         ]
@@ -231,6 +231,7 @@
   "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
     "til/1780892724-task-id-bpjs.md",
+    "til/1781273641-command-code-ai.md",
     "til/1780892619-task-id-bpjs.md",
     "til/1780889783-claude-code-using-kiro-api.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
@@ -255,7 +256,6 @@
     "scripts/1743735338-redirect-and-sync.md",
     "til/1756048327-zustand.md",
     "til/1747146392-making-a-wsl2-web-service-accessible-on-the-local-network.md",
-    "dailies/2025-12-10.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",

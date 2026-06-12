@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1781273641-command-code-ai",
+      "path": "til/1781273641-command-code-ai.md"
+    },
+    {
       "basename": "1780892724-task-id-bpjs",
       "path": "til/1780892724-task-id-bpjs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1728526878-multivariate-testing",
       "path": "engineering/1728526878-multivariate-testing.md"
-    },
-    {
-      "basename": "index",
-      "path": "engineering/project-managements/index.md"
     }
   ],
   "omittedPaths": [],
