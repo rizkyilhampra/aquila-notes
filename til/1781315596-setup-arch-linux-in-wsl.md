@@ -9,7 +9,6 @@ modified:
 ---
 # Setup Arch Linux in WSL
 
-
 ```bash
 wsl --update
 wsl --install archlinux
