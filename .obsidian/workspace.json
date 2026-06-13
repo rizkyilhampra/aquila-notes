@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1768967547-how-beszel-data-works.md",
+                "file": "til/1781315596-setup-arch-linux-in-wsl.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1768967547-how-beszel-data-works"
+              "title": "1781315596-setup-arch-linux-in-wsl"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450
+    "width": 224
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -230,20 +230,16 @@
   },
   "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
-    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-    "til/1768967547-how-beszel-data-works.md",
-    "til/1778163227-openwrt.md",
-    "til/1778171842-bpjstk-bpu.md",
-    "til/1781273641-command-code-ai.md",
-    "til/1780889783-claude-code-using-kiro-api.md",
-    "til/1780892724-task-id-bpjs.md",
     "til/1781275465-openrouter.md",
-    "til/1781275800-alishahryar1-free-claude-code.md",
-    "til/1781275915-claude-code.md",
+    "til/1781315596-setup-arch-linux-in-wsl.md",
+    "til/1780892724-task-id-bpjs.md",
     "til/1781276040-claude.md",
-    "Claude Code.md",
-    "OpenRouter.md",
+    "til/1781275915-claude-code.md",
+    "til/1781275800-alishahryar1-free-claude-code.md",
+    "til/1781273641-command-code-ai.md",
     "til/1780892619-task-id-bpjs.md",
+    "til/1780889783-claude-code-using-kiro-api.md",
+    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "movies/1778436762-undertone.md",
     "movies/1757270819-28-years-later.md",
     "movies/1774713370-28-years-later-the-bone-temple-2026.md",
@@ -251,11 +247,15 @@
     "movies/1757258870-movies.md",
     "movies/1757259062-bring-her-back.md",
     "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
+    "til/1768967547-how-beszel-data-works.md",
     "til/1777263369-fail2ban.md",
+    "til/1778163227-openwrt.md",
+    "til/1778171842-bpjstk-bpu.md",
     "cheatsheets/1736135014-clone-private-repository.md",
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "conflict-files-obsidian-git.md",
     "1758464981-sukebei.md",
+    "reddit-upvoted/others.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",

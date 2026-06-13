@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1781315596-setup-arch-linux-in-wsl",
+      "path": "til/1781315596-setup-arch-linux-in-wsl.md"
+    },
+    {
+      "basename": "1781275465-openrouter",
+      "path": "til/1781275465-openrouter.md"
+    },
+    {
       "basename": "1768967547-how-beszel-data-works",
       "path": "til/1768967547-how-beszel-data-works.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "1780892724-task-id-bpjs",
       "path": "til/1780892724-task-id-bpjs.md"
-    },
-    {
-      "basename": "1781275465-openrouter",
-      "path": "til/1781275465-openrouter.md"
     },
     {
       "basename": "1781275800-alishahryar1-free-claude-code",
@@ -195,10 +199,6 @@
     {
       "basename": "1728526578-ab-testing",
       "path": "engineering/1728526578-ab-testing.md"
-    },
-    {
-      "basename": "1763225591-minimum-viable-product-mvp",
-      "path": "engineering/1763225591-minimum-viable-product-mvp.md"
     }
   ],
   "omittedPaths": [],
