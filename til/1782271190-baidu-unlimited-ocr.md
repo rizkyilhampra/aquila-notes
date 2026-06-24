@@ -8,7 +8,9 @@ created:
 modified:
 ---
 # Baidu Unlimited OCR
-[Huggingface](https://huggingface.co/baidu/Unlimited-OCR) [X Post](https://x.com/AdinaYakup/status/2069081754837614998?s=20)
+[Huggingface](https://huggingface.co/baidu/Unlimited-OCR)
+
+Looks stunning when i
 
 
 
