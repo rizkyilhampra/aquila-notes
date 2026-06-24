@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1781315596-setup-arch-linux-in-wsl.md",
+                "file": "til/1782271190-baidu-unlimited-ocr.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1781315596-setup-arch-linux-in-wsl"
+              "title": "1782271190-baidu-unlimited-ocr"
             }
           }
         ]
@@ -230,8 +230,9 @@
   },
   "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
-    "til/1781275465-openrouter.md",
     "til/1781315596-setup-arch-linux-in-wsl.md",
+    "til/1782271190-baidu-unlimited-ocr.md",
+    "til/1781275465-openrouter.md",
     "til/1780892724-task-id-bpjs.md",
     "til/1781276040-claude.md",
     "til/1781275915-claude-code.md",
@@ -255,7 +256,6 @@
     "cheatsheets/1737972342-change-the-upstream-branch-of-local-branch.md",
     "conflict-files-obsidian-git.md",
     "1758464981-sukebei.md",
-    "reddit-upvoted/others.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
