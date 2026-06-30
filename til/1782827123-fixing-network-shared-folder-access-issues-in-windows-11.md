@@ -11,4 +11,4 @@ created:
 modified:
 ---
 # Fixing Network Shared Folder Access Issues in Windows 11
-After I do all steps on this article
+Got bunch read some articles nothing that mark the issue solved. But exclude this https://www.wintips.org/fix-windows-11-24h2-cannot-access-network-shares-0x80070035/. After I do all steps on that article it's got solved the issue. 
