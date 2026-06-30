@@ -5,9 +5,10 @@ aliases:
 tags:
   - it-support
   - network-sharing
-  - windows-11
+  - windows11
 publish: true
 created:
 modified:
 ---
 # Fixing Network Shared Folder Access Issues in Windows 11
+After I do all steps on this article
