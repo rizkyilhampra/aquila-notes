@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1782827123-fixing-network-shared-folder-access-issues-in-windows-11",
+      "path": "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md"
+    },
+    {
       "basename": "1782396468-cetak-tabel-bengkok-atau-tidak-lurus",
       "path": "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1739606203-linux-folder-or-file-permission",
       "path": "1739606203-linux-folder-or-file-permission.md"
-    },
-    {
-      "basename": "1733466869-laravel-inertia-resources",
-      "path": "1733466869-laravel-inertia-resources.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
+                "file": "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1782396468-cetak-tabel-bengkok-atau-tidak-lurus"
+              "title": "1782827123-fixing-network-shared-folder-access-issues-in-windows-11"
             }
           }
         ]
@@ -228,11 +228,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
+    "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
+    "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
     "til/1778171842-bpjstk-bpu.md",
     "til/1778163227-openwrt.md",
-    "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
     "til/1768967547-how-beszel-data-works.md",
     "til/1782271190-baidu-unlimited-ocr.md",
     "til/1781315596-setup-arch-linux-in-wsl.md",
@@ -255,7 +256,6 @@
     "movies/1757258870-movies.md",
     "movies/1757259062-bring-her-back.md",
     "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
-    "til/1777263369-fail2ban.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
