@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "til/Untitled.md"
+    },
+    {
       "basename": "1783487776-dotto-ui",
       "path": "til/1783487776-dotto-ui.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "dailies/index.md"
-    },
-    {
-      "basename": "1763281621-tech-stack",
-      "path": "engineering/1763281621-tech-stack.md"
     }
   ],
   "omittedPaths": [],
