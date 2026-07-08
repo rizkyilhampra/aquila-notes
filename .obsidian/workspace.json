@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
+                "file": "til/1783487176-doto-ui.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1782827123-fixing-network-shared-folder-access-issues-in-windows-11"
+              "title": "1783487176-doto-ui"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450
+    "width": 331
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -230,8 +230,9 @@
   },
   "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
-    "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
     "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
+    "til/1783487176-doto-ui.md",
+    "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
     "til/1778171842-bpjstk-bpu.md",
     "til/1778163227-openwrt.md",
     "til/1768967547-how-beszel-data-works.md",
@@ -255,7 +256,6 @@
     "movies/1757261726-final-destination-bloodlines.md",
     "movies/1757258870-movies.md",
     "movies/1757259062-bring-her-back.md",
-    "til/1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",

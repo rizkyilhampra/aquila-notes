@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1783487176-doto-ui",
+      "path": "til/1783487176-doto-ui.md"
+    },
+    {
       "basename": "1782827123-fixing-network-shared-folder-access-issues-in-windows-11",
       "path": "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1763281621-tech-stack",
       "path": "engineering/1763281621-tech-stack.md"
-    },
-    {
-      "basename": "1739606203-linux-folder-or-file-permission",
-      "path": "1739606203-linux-folder-or-file-permission.md"
     }
   ],
   "omittedPaths": [],
