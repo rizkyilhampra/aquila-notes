@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "til/1783488891-mapcn.md",
+                    "file": "til/1783655310-transitionsdev.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1783488891-mapcn"
+                  "title": "1783655310-transitionsdev"
                 }
               }
             ]
@@ -140,16 +140,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "f79ed2aed72c4e04",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ]
@@ -287,8 +277,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "56a42b51c3bb6fba",
+  "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
+    "til/1783655310-transitionsdev.md",
     "til/1783488891-mapcn.md",
     "til/1783487776-dotto-ui.md",
     "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
@@ -314,7 +305,6 @@
     "movies/1778436762-undertone.md",
     "movies/1757270819-28-years-later.md",
     "movies/1774713370-28-years-later-the-bone-temple-2026.md",
-    "movies/1757261726-final-destination-bloodlines.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
