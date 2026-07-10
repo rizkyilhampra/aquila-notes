@@ -4,34 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "a18a8d2f4d95acf9",
-        "type": "tabs",
+        "id": "c095af6d0e6c1d02",
+        "type": "split",
         "children": [
           {
-            "id": "c4db7a8909837f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/1783488891-mapcn.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "a18a8d2f4d95acf9",
+            "type": "tabs",
+            "dimension": 57.36342042755345,
+            "children": [
+              {
+                "id": "c4db7a8909837f4d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "til/1783488891-mapcn.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1783488891-mapcn"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "1783488891-mapcn"
-            }
+              }
+            ]
+          },
+          {
+            "id": "6c39258d8b0ccdb8",
+            "type": "tabs",
+            "dimension": 42.63657957244655,
+            "children": [
+              {
+                "id": "56a42b51c3bb6fba",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/airi-rspi/aquila-notes",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "/bin/sh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "linuxIntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: commandcode ~/aquila-notes"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -225,13 +283,14 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "3d-graph-new:Global 3D Graph": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "c4db7a8909837f4d",
+  "active": "56a42b51c3bb6fba",
   "lastOpenFiles": [
-    "til/1783487776-dotto-ui.md",
     "til/1783488891-mapcn.md",
+    "til/1783487776-dotto-ui.md",
     "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
     "til/1783487176-doto-ui.md",
     "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",

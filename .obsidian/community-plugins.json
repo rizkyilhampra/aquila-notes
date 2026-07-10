@@ -10,5 +10,6 @@
   "templater-obsidian",
   "recent-files-obsidian",
   "obsidian-linter",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "terminal"
 ]
