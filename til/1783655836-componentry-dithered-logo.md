@@ -2,7 +2,11 @@
 id: 1783656989-componentry-dithered-logo
 aliases:
   - Componentry Dithered Logo
-tags: []
+tags:
+  - react
+  - frontend
+  - animation
+  - shadcn
 publish: true
 created: 2026-07-10 11:57
 modified: 2026-07-10 12:19
