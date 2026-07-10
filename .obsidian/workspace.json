@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "til/1783655310-transitionsdev.md",
+                    "file": "til/Untitled.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1783655310-transitionsdev"
+                  "title": "Untitled"
                 }
               }
             ]
@@ -277,9 +277,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "bb3dd1cbf477e244",
+  "active": "c4db7a8909837f4d",
   "lastOpenFiles": [
     "til/1783655310-transitionsdev.md",
+    "til/Untitled.md",
+    "Untitled.md",
     "til/1783488891-mapcn.md",
     "til/1783487776-dotto-ui.md",
     "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
@@ -303,8 +305,6 @@
     "OpenRouter.md",
     "til/1780892619-task-id-bpjs.md",
     "movies/1778436762-undertone.md",
-    "movies/1757270819-28-years-later.md",
-    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
