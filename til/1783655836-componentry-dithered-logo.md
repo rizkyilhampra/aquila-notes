@@ -10,4 +10,4 @@ title: Componentry Dithered Logo
 ---
 
 # Componentry Dithered Logo
-[Componentry Dithered Logo Component Live](https://componentry.dev/docs/components/dithered-logo)Inspired by Linear on [linear.app/next](https://linear.app.next) logo animation and this [X post](https://x.com/emilkowalski/status/2036778116748542220?s=20) as well.
+[Live](https://componentry.dev/docs/components/dithered-logo). The one of component basically from [Compontry](https://componentry.dev) Inspired by Linear on [linear.app/next](https://linear.app.next) logo animation and this [X post](https://x.com/emilkowalski/status/2036778116748542220?s=20) as well.
