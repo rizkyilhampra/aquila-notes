@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "til/1783661572-componentry.md",
+                    "file": "til/1783487776-dotto-ui.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1783661572-componentry"
+                  "title": "1783487776-dotto-ui"
                 }
               }
             ]
@@ -275,14 +275,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "56a42b51c3bb6fba",
+  "active": "792277a642928d30",
   "lastOpenFiles": [
-    "til/1783661572-componentry.md",
-    "til/1783655310-transitionsdev.md",
-    "til/1783655836-componentry-dithered-logo.md",
-    "Untitled.md",
     "til/1783488891-mapcn.md",
     "til/1783487776-dotto-ui.md",
+    "til/1783655310-transitionsdev.md",
+    "til/1783655836-componentry-dithered-logo.md",
+    "til/1783661572-componentry.md",
+    "Untitled.md",
     "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
     "til/1783487176-doto-ui.md",
     "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
