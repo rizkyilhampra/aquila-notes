@@ -11,10 +11,24 @@
             "id": "2ce84224c1c23a52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "til/1783953722-poster-ai.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1783953722-poster-ai"
             }
           }
         ]
@@ -207,6 +221,7 @@
   },
   "active": "2ce84224c1c23a52",
   "lastOpenFiles": [
+    "til/1783953722-poster-ai.md",
     "til/1781273641-command-code-ai.md",
     "til/1780889783-claude-code-using-kiro-api.md",
     "til/1781275465-openrouter.md",
@@ -233,7 +248,6 @@
     "til/1782271190-baidu-unlimited-ocr.md",
     "conflict-files-obsidian-git.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
-    "til/1780892724-task-id-bpjs.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
