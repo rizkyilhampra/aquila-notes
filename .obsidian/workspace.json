@@ -11,10 +11,24 @@
             "id": "d2f2856b19fa0a84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "til/1783953722-poster-ai.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1783953722-poster-ai"
             }
           }
         ]
@@ -205,7 +219,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "08f9cf94b2d9def7",
+  "active": "d2f2856b19fa0a84",
   "lastOpenFiles": [
     "til/1783953722-poster-ai.md",
     "til/1781273641-command-code-ai.md",
