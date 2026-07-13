@@ -1,5 +1,5 @@
 ---
-id: 1783655387-transitionsdev
+id: 1783655310-transitionsdev
 aliases: [Transitions.dev]
 tags: [react, frontend, animation, ai]
 publish: true

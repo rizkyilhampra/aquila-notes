@@ -1,5 +1,5 @@
 ---
-id: 1760364487-akses-local-development-server-dengan-ssh-tunneling
+id: 1760364389-akses-local-development-server-dengan-ssh-tunneling
 aliases: [Akses local development server dengan ssh tunneling]
 tags: [ssh, cheatsheets]
 publish: true

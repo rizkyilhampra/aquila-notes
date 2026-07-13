@@ -1,6 +1,6 @@
 ---
 publish: true
-id: 1742317101-setting-up-dns-on-my-arch-linux
+id: 1742317084-setting-up-dns-on-my-arch-linux
 aliases:
   - Setting Up DNS on My Arch Linux
 tags:

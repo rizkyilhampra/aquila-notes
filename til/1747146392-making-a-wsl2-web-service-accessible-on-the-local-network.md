@@ -1,7 +1,7 @@
 ---
 aliases:
 publish: true
-id: 1747146401-making-a-wsl2-web-service-accessible-on-the-local-network
+id: 1747146392-making-a-wsl2-web-service-accessible-on-the-local-network
 alias:
   - Making a WSL2 Web Service Accessible on the Local Network
 tags: []

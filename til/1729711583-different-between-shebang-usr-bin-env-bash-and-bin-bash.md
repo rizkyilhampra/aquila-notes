@@ -1,6 +1,6 @@
 ---
 publish: true
-id: 1729711583-different-between-usr-bin-env-bash-and-bin-bash
+id: 1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash
 aliases:
   - Different Between Shebang `/usr/bin/env bash` and `/bin/bash`
   - Difference Between Shebang `/usr/bin/env bash` and `/bin/bash`

@@ -1,5 +1,5 @@
 ---
-id: 1781275810-alishahryar1-free-claude-code
+id: 1781275800-alishahryar1-free-claude-code
 aliases:
   - Alishahryar1 Free Claude Code
 tags:

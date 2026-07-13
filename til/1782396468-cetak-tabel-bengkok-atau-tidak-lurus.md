@@ -1,5 +1,5 @@
 ---
-id: 1782396576-cetak-tabel-bengkok-atau-tidak-lurus
+id: 1782396468-cetak-tabel-bengkok-atau-tidak-lurus
 aliases: [Cetak Tabel Bengkok atau Tidak Lurus]
 tags: [it-support, printer, epson-l3250]
 publish: true

@@ -1,7 +1,7 @@
 ---
 aliases:
 publish: true
-id: 1757774948-how-to-decompile-an-python-310-program
+id: 1757774888-how-to-decompile-an-python-310-program
 alias:
   - How to decompile an python 3.10 program
 tags: []

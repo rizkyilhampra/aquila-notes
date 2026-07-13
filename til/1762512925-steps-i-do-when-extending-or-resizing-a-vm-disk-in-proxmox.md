@@ -1,5 +1,5 @@
 ---
-id: 1762512935-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox
+id: 1762512925-steps-i-do-when-extending-or-resizing-a-vm-disk-in-proxmox
 aliases: [Steps I do when extending or resizing a VM disk in Proxmox]
 tags: [proxmox]
 publish: true

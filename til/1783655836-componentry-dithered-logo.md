@@ -1,5 +1,5 @@
 ---
-id: 1783656989-componentry-dithered-logo
+id: 1783655836-componentry-dithered-logo
 aliases: [Componentry Dithered Logo]
 tags: [react, frontend, animation, shadcn]
 publish: true

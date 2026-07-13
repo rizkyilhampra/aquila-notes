@@ -1,5 +1,5 @@
 ---
-id: 1783950579-emilkowalski-skill
+id: 1783950520-emilkowalski-skill
 aliases: [Emilkowalski Skill]
 tags: [agent-skills, ui-ux, frontend]
 publish: true

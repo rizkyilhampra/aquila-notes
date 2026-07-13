@@ -1,5 +1,5 @@
 ---
-id: 1781315626-setup-arch-linux-in-wsl
+id: 1781315596-setup-arch-linux-in-wsl
 aliases:
   - Setup Arch Linux in WSL
 tags: []

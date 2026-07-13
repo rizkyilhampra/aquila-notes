@@ -1,5 +1,5 @@
 ---
-id: 1768967611-how-beszel-data-works
+id: 1768967547-how-beszel-data-works
 aliases:
   - How Beszel data works
 tags: []

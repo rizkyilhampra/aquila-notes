@@ -4,55 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ced47b7fc8226d65",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "69d28eedea4dbf94",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/aquila/Notes/aquila-notes",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "/bin/sh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "profileSourceId": "linuxIntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: OC | Emilkowalski note thoughts and tag usage"
-            }
-          }
-        ]
-      },
-      {
         "id": "6c39258d8b0ccdb8",
         "type": "tabs",
         "children": [
@@ -269,15 +220,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "69d28eedea4dbf94",
+  "active": "792277a642928d30",
   "lastOpenFiles": [
+    "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md.tmp",
     "til/1783952000-agent-skills.md",
-    "til/1783950520-emilkowalski-skill.md",
-    "til/1783487776-dotto-ui.md",
+    "templates/main.md",
     "til/1783488891-mapcn.md",
-    "til/1783655310-transitionsdev.md",
     "til/1783655836-componentry-dithered-logo.md",
     "til/1783661572-componentry.md",
+    "til/1783950520-emilkowalski-skill.md",
+    "til/1783487776-dotto-ui.md",
+    "til/1783655310-transitionsdev.md",
     "Untitled.md",
     "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
     "til/1783487176-doto-ui.md",
@@ -295,8 +248,6 @@
     "til/1781275465-openrouter.md",
     "til/1781275800-alishahryar1-free-claude-code.md",
     "til/1781275915-claude-code.md",
-    "til/1781276040-claude.md",
-    "Claude Code.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
