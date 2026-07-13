@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1783950520-emilkowalski-skill.md",
+                "file": "til/1783952000-agent-skills.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1783950520-emilkowalski-skill"
+              "title": "1783952000-agent-skills"
             }
           }
         ]
@@ -271,6 +271,7 @@
   },
   "active": "69d28eedea4dbf94",
   "lastOpenFiles": [
+    "til/1783952000-agent-skills.md",
     "til/1783950520-emilkowalski-skill.md",
     "til/1783487776-dotto-ui.md",
     "til/1783488891-mapcn.md",
@@ -296,7 +297,6 @@
     "til/1781275915-claude-code.md",
     "til/1781276040-claude.md",
     "Claude Code.md",
-    "OpenRouter.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
