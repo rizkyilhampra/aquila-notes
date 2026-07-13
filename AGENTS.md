@@ -2,6 +2,39 @@
 - User it's mainly use Bahasa, English, and both, if it's tell you to write an content, ensure question first about type of language we should use.
 - Focus on `./til/` only, except User tell you to read or modified on another dir.
 
+## Notes in `./til/`
+
+### Filename
+
+`<unix-timestamp>-<slug>.md` — e.g. `1783950520-emilkowalski-skill.md`. The slug is a lowercase, hyphenated version of the title.
+
+### Frontmatter schema
+
+Every note starts with YAML frontmatter:
+
+```yaml
+---
+id: <timestamp>-<slug>
+aliases: [Human Readable Title]
+tags: [tag1, tag2]
+publish: false
+created: YYYY-MM-DD HH:mm
+modified: YYYY-MM-DD HH:mm
+title: Human Readable Title
+---
+```
+
+- `publish` defaults to `false`; set `true` only when the note is ready.
+- `created` / `modified` use `YYYY-MM-DD HH:mm`. Update `modified` on edits.
+- `aliases` and `title` share the same human-readable name.
+
+### Linking & hub notes
+
+This is a digital garden — favor links over folders (Zettelkasten / MOC style).
+
+- Link between notes with `[[<timestamp>-<slug>|Alias]]` wikilinks so backlinks resolve.
+- A **hub note** (Map of Content) collects related notes under a topic, e.g. [[1783952000-agent-skills|Agent Skills]]. When adding a note that fits an existing hub, list it there so the backlink appears.
+
 ## Tags for `./til/`
 
 Use a small, consistent set of tags. Mix two kinds: **topic/tech** (what it's about) and **context/type** (work, personal, it-support, cheatsheets, etc.). Keep them precise — avoid generic tags like `tools` or `ai` that carry no filtering signal.
