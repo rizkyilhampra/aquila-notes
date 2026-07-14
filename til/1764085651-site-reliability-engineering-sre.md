@@ -4,7 +4,7 @@ aliases: [Site Reliability Engineering (SRE)]
 tags: [devops, observability]
 publish: true
 created: 2025-11-25 23:47
-modified: 2025-11-26 00:43
+modified: 2026-07-14 23:12
 title: Site Reliability Engineering (SRE)
 ---
 

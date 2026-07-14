@@ -26,7 +26,8 @@ title: Human Readable Title
 
 - `publish` defaults to `false`; set `true` only when the note is ready.
 - `created` / `modified` use `YYYY-MM-DD HH:mm`. Update `modified` on edits.
-- `aliases` and `title` share the same human-readable name.
+- `aliases` and `title` share the same human-readable name. Use `aliases` (plural) — Obsidian's alias feature requires the plural key; a note may list multiple aliases as a YAML array.
+- `id`'s timestamp must equal the filename timestamp (they must match exactly).
 
 ### Linking & hub notes
 
@@ -38,6 +39,19 @@ This is a digital garden — favor links over folders (Zettelkasten / MOC style)
 ## Tags for `./til/`
 
 Use a small, consistent set of tags. Mix two kinds: **topic/tech** (what it's about) and **context/type** (work, personal, it-support, cheatsheets, etc.). Keep them precise — avoid generic tags like `tools` or `ai` that carry no filtering signal.
+
+### Type tags (context/type)
+
+`work`, `personal`, `it-support`, `cheatsheets`, `rants`, `fleeting`.
+
+- `rants` — opinionated, personal capture (e.g. a reaction to a social post). Not daily journaling.
+- `fleeting` — raw, temporary Zettelkasten capture (a thought/question/observation) intended to be processed into a permanent note later, then often deleted or merged.
+- Avoid catch-all type tags (`notes`, `learning`) that are true of every explainer note — they carry no filter signal. A context/type tag must *differentiate* note types, not describe all of them.
+
+### Tag anti-patterns
+
+- Don't add a `topic` tag that's a strict one-off with no expected sibling notes unless it also serves as a useful filter (prefer the parent domain, e.g. `devops` over a single `sre` note).
+- Don't use `daily-notes` for one-off captures — it implies a dated journaling system. Use `rants` or `fleeting` instead.
 
 ### Domain tags (when to use `ui-ux` vs `frontend`)
 
