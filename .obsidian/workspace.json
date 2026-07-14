@@ -4,55 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "57c86be34c08d861",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4e80fd03c1e2a82",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/aquila/Notes/aquila-notes",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "/bin/sh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "profileSourceId": "linuxIntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: OpenCode"
-            }
-          }
-        ]
-      },
-      {
         "id": "507df27d861a7a3e",
         "type": "tabs",
         "children": [
@@ -62,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1764085651-site-reliability-engineering-sre.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1764085651-site-reliability-engineering-sre"
+              "title": "AGENTS"
             }
           }
         ]
@@ -137,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338,
-    "collapsed": true
+    "width": 338
   },
   "right": {
     "id": "e186bb544d1d1e37",
@@ -269,7 +219,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a4e80fd03c1e2a82",
+  "active": "d2f2856b19fa0a84",
   "lastOpenFiles": [
     "til/1764085651-site-reliability-engineering-sre.md",
     "til/1783953722-poster-ai.md",
