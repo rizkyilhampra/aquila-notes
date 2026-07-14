@@ -1,7 +1,7 @@
 ---
-id: 1764085666-site-reliability-engineering-sre
+id: 1764085651-site-reliability-engineering-sre
 aliases: [Site Reliability Engineering (SRE)]
-tags: []
+tags: [devops, observability, notes]
 publish: true
 created: 2025-11-25 23:47
 modified: 2025-11-26 00:43
@@ -13,9 +13,9 @@ title: Site Reliability Engineering (SRE)
 ## Definition
 By Amazon (AWS), SRE is the practice of using software tools to automate IT infrastructure tasks such as system management and application monitoring.[^aws] It's really related with SLAs, SLIs, and SLOs. 
 
-SRE will help software development team with providing metrics, logs, and traces as a part of observability. Process of observing the predefined metric it's monitoring. Monitoring when it is related with SRE is collect critical information that reflects the system performance. Metrics thats SRE monitor it's  by developer decide which parameter is critical in determining health of application. It's include latency, traffic, errros, and saturation which help to gain insight into system reliability itself. 
+SRE helps software development teams by providing metrics, logs, and traces as part of observability. Monitoring, in the SRE context, means collecting critical information that reflects system performance. The metrics SRE teams monitor are chosen by developers, who decide which parameters are critical to an application's health. These typically include latency, traffic, errors, and saturation (the "four golden signals"), which together give insight into the system's reliability.
 
-SRE it's basically practical implementation of DevOps.
+SRE is essentially the practical implementation of DevOps.
 > [!TODO]
 > Needs more info about it, like it's can both work together?
 
