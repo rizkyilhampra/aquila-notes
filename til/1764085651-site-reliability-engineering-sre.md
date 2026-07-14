@@ -1,7 +1,7 @@
 ---
 id: 1764085651-site-reliability-engineering-sre
 aliases: [Site Reliability Engineering (SRE)]
-tags: [devops, observability, notes]
+tags: [devops, observability]
 publish: true
 created: 2025-11-25 23:47
 modified: 2025-11-26 00:43
