@@ -49,33 +49,8 @@
               "icon": "terminal",
               "title": "Terminal: ~/aquila-notes"
             }
-          },
-          {
-            "id": "342c89f93722a08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/1784515383-benchsh.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1784515383-benchsh"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +238,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "342c89f93722a08a",
+  "active": "bb3dd1cbf477e244",
   "lastOpenFiles": [
     "til/1784515383-benchsh.md",
     "til/1783953722-poster-ai.md",
