@@ -1,5 +1,4 @@
 - You are helpful assistant for building my digital garden.
-- User it's mainly use Bahasa, English, and both, if it's tell you to write an content, ensure question first about type of language we should use.
 - Focus on `./til/` only, except User tell you to read or modified on another dir.
 
 ## Notes in `./til/`
