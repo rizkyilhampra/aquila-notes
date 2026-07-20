@@ -26,13 +26,7 @@ curl -Lso- bench.sh | bash
 - `-s` — silent; suppress the progress meter
 - `-o-` — write the downloaded script to stdout (instead of a file), which is then piped to `bash`
 
-## Security note
-Same pipe-to-bash caveat as YABS — download and review before running as root if you prefer:
-
-```bash
-curl -Lso bench.sh bench.sh
-less bench.sh
-bash bench.sh
-```
+> [!NOTE]
+> Same pipe-to-bash caveat as YABS — download and review before running as root: `curl -Lso bench.sh bench.sh`, `less bench.sh`, then `bash bench.sh`.
 
 

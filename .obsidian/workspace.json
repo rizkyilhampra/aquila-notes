@@ -97,6 +97,30 @@
               "icon": "lucide-file",
               "title": "1784530432-bench-sh-vps-benchmark-script"
             }
+          },
+          {
+            "id": "96836c56e4c11ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "til/1784530432-bench-sh-vps-benchmark-script.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1784530432-bench-sh-vps-benchmark-script"
+            }
           }
         ]
       }

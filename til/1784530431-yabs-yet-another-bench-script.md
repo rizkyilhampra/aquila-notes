@@ -27,13 +27,7 @@ curl -sL yabs.sh | bash
 - `-L` — follow redirects (yabs.sh redirects to the raw script on GitHub)
 - `| bash` — pipe the downloaded script straight into the shell
 
-## Security note
-Both commands below execute remote code, typically as root. If you'd rather inspect first:
-
-```bash
-curl -sL yabs.sh -o yabs.sh
-less yabs.sh      # review the source
-bash yabs.sh      # run only once you're comfortable
-```
+> [!NOTE]
+> Both commands execute remote code, typically as root. To inspect before running: download with `curl -sL yabs.sh -o yabs.sh`, review it with `less yabs.sh`, then run `bash yabs.sh`.
 
 
