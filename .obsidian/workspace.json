@@ -47,35 +47,10 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: ~/aquila-notes"
-            }
-          },
-          {
-            "id": "905013543b96a691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Terminal: OpenCode"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,10 +238,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "905013543b96a691",
+  "active": "3bc684ac10d15268",
   "lastOpenFiles": [
+    "til/1784529742-LAQC.md",
+    "til/1784529573-XTIT.md",
     "til/1784515383-benchsh.md",
-    "til/Untitled.md",
     "til/1783953722-poster-ai.md",
     "til/1783952000-agent-skills.md",
     "til/1783950520-emilkowalski-skill.md",
@@ -290,7 +266,6 @@
     "til/1781273641-command-code-ai.md",
     "til/1780889783-claude-code-using-kiro-api.md",
     "til/1780892724-task-id-bpjs.md",
-    "til/1781275465-openrouter.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
