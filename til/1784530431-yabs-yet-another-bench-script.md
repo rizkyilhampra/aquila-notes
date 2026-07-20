@@ -21,3 +21,5 @@ curl -sL yabs.sh | bash
 ```
 
 It measures CPU performance (both single- and multi-threaded), disk I/O through `dd` and `fio`, network throughput via `iperf3` to several locations, and a Geekbench score when the binary is reachable. 
+
+Source: [Github](https://github.com/masonr/yet-another-bench-script)
