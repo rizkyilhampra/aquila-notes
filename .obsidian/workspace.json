@@ -73,8 +73,33 @@
               "icon": "lucide-file",
               "title": "1784532299-deepsec-agent-powered-vulnerability-scanner"
             }
+          },
+          {
+            "id": "1303d127b07d3853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "til/1784532299-deepsec-agent-powered-vulnerability-scanner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1784532299-deepsec-agent-powered-vulnerability-scanner"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +287,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3bc684ac10d15268",
+  "active": "1303d127b07d3853",
   "lastOpenFiles": [
     "til/1784532299-deepsec-agent-powered-vulnerability-scanner.md",
     "til/1783952000-agent-skills.md",

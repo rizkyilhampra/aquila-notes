@@ -34,10 +34,14 @@ This is a digital garden — favor links over folders (Zettelkasten / MOC style)
 
 - Link between notes with `[[<timestamp>-<slug>|Alias]]` wikilinks so backlinks resolve.
 - A **hub note** (Map of Content) collects related notes under a topic, e.g. [[1783952000-agent-skills|Agent Skills]]. When adding a note that fits an existing hub, list it there so the backlink appears.
+- Link a note into a hub only if it fits the hub's *scope*, not merely because it name-drops a related concept (e.g. deepsec ships a SKILL.md but is not an `agent-skills` note, so it stays out of that hub).
+- Prefer wikilinking tools/models/people that already have their own note. Don't add a redundant link the child note already resolves (e.g. link `Claude Code`, which itself links to `Claude`; don't double-link `Claude`).
 
 ## Tags for `./til/`
 
-Use a small, consistent set of tags. Mix two kinds: **topic/tech** (what it's about) and **context/type** (work, personal, it-support, cheatsheets, etc.). Keep them precise — avoid generic tags like `tools` or `ai` that carry no filtering signal.
+Use a small, consistent set of tags. Mix two kinds: **topic/tech** (what it's about) and **context/type** (work, personal, it-support, cheatsheets, etc.). Keep them precise — avoid generic catch-all tags like `tools` that carry no filtering signal.
+
+- `ai` is a sanctioned topic tag — it's the established cluster for LLM/agent tooling (e.g. Claude, Claude Code, deepsec). Use it for AI products/tools; it does carry filter signal in this garden.
 
 ### Type tags (context/type)
 
@@ -65,4 +69,10 @@ Rule of thumb: a note can have both (design taste + ships frontend code), either
 
 - `agent-skills` — reserved strictly for notes about **SKILL.md packages** (the agent-skill manifest spec, e.g. `emilkowalski/skills`). Do NOT use it for AI tools/products in general (e.g. `claude-code`, `openrouter` are not `agent-skills` notes).
 
+  Test by *what the note is about*, not what the repo happens to ship: a product that merely bundles a `SKILL.md` (e.g. deepsec) is a note about that product, not about the manifest spec — so it is not an `agent-skills` note.
+
 Example: `tags: [agent-skills, ui-ux, frontend]` for a SKILL.md package about design engineering that ships real DOM/JS code.
+
+### Concision norm for explainer notes
+
+Keep explainers tight. A few short sections, no trivia (author bios, benchmark counts, model-version specifics) unless it adds filter or recall value. Prefer a clean pipeline/summary over exhaustive detail.
