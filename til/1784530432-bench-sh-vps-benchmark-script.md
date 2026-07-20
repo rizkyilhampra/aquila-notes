@@ -21,3 +21,5 @@ curl -Lso- bench.sh | bash
 ```
 
 It prints basic system info (CPU, memory, uptime, OS), runs a simple disk I/O test, and speed-tests the network against multiple global locations. 
+
+Source: [Github](https://github.com/teddysun/across/blob/master/bench.sh), [Web](https://bench.sh/en.html)

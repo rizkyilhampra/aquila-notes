@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "til/1784530430-vps-benchmark-scripts.md",
+                    "file": "til/1784530431-yabs-yet-another-bench-script.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1784530430-vps-benchmark-scripts"
+                  "title": "1784530431-yabs-yet-another-bench-script"
                 }
               }
             ]
@@ -277,11 +277,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3bc684ac10d15268",
+  "active": "96836c56e4c11ebe",
   "lastOpenFiles": [
-    "til/1784530430-vps-benchmark-scripts.md",
-    "til/1784530431-yabs-yet-another-bench-script.md",
     "til/1784530432-bench-sh-vps-benchmark-script.md",
+    "til/1784530431-yabs-yet-another-bench-script.md",
+    "til/1784530430-vps-benchmark-scripts.md",
     "til/1784530067-vps-benchmark-script.md",
     "til/1784529970-vps-benchmark-script.md",
     "AGENTS.md",
