@@ -4,92 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ad41d62b0a53df",
-        "type": "split",
+        "id": "48223377a04bc298",
+        "type": "tabs",
         "children": [
           {
-            "id": "eb27c603380dbba3",
-            "type": "tabs",
-            "dimension": 50.1187648456057,
-            "children": [
-              {
-                "id": "96836c56e4c11ebe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "til/1784530431-yabs-yet-another-bench-script.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
+            "id": "3bc684ac10d15268",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/home/airi-rspi/aquila-notes",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "environment": [],
+                    "executable": "/bin/sh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "linux": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "icon": "lucide-file",
-                  "title": "1784530431-yabs-yet-another-bench-script"
+                  "profileSourceId": "linuxIntegratedDefault",
+                  "serial": null,
+                  "userTitle": ""
                 }
-              }
-            ]
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: OpenCode"
+            }
           },
           {
-            "id": "48223377a04bc298",
-            "type": "tabs",
-            "dimension": 49.8812351543943,
-            "children": [
-              {
-                "id": "3bc684ac10d15268",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/home/airi-rspi/aquila-notes",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "environment": [],
-                        "executable": "/bin/sh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "linuxIntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: OpenCode"
+            "id": "46ae83281facd613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "til/1784532299-deepsec-agent-powered-vulnerability-scanner.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "1784532299-deepsec-agent-powered-vulnerability-scanner"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,6 +264,9 @@
   },
   "active": "3bc684ac10d15268",
   "lastOpenFiles": [
+    "til/1784532299-deepsec-agent-powered-vulnerability-scanner.md",
+    "til/1783952000-agent-skills.md",
+    "til/1783655310-transitionsdev.md",
     "til/1784530431-yabs-yet-another-bench-script.md",
     "til/1784531848-IORJ.md",
     "til/1784530432-bench-sh-vps-benchmark-script.md",
@@ -291,12 +279,10 @@
     "til/1784529573-XTIT.md",
     "til/1784515383-benchsh.md",
     "til/1783953722-poster-ai.md",
-    "til/1783952000-agent-skills.md",
     "til/1783950520-emilkowalski-skill.md",
     "til/1764085651-site-reliability-engineering-sre.md",
     "til/1783487776-dotto-ui.md",
     "til/1783488891-mapcn.md",
-    "til/1783655310-transitionsdev.md",
     "til/1783655836-componentry-dithered-logo.md",
     "til/1783661572-componentry.md",
     "Untitled.md",
@@ -304,7 +290,6 @@
     "til/1783487176-doto-ui.md",
     "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
     "til/1778171842-bpjstk-bpu.md",
-    "til/1778163227-openwrt.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
