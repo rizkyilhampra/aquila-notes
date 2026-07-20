@@ -5,10 +5,11 @@ aliases:
   - Teddysun Benchmark
 tags:
   - vps
+  - devops
   - cheatsheets
 publish: true
 created: 2026-07-20 14:53
-modified: 2026-07-20 14:53
+modified: 2026-07-20 15:20
 title: bench.sh (Teddysun VPS Benchmark)
 ---
 

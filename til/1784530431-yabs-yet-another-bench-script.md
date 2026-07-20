@@ -5,10 +5,11 @@ aliases:
   - Yet Another Bench Script
 tags:
   - vps
+  - devops
   - cheatsheets
 publish: true
 created: 2026-07-20 14:53
-modified: 2026-07-20 14:53
+modified: 2026-07-20 15:20
 title: YABS (Yet Another Bench Script)
 ---
 
