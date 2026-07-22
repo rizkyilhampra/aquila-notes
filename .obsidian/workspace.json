@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "til/1783487776-dotto-ui.md",
+                    "file": "til/1784733338-blume.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1783487776-dotto-ui"
+                  "title": "1784733338-blume"
                 }
               }
             ]
@@ -279,6 +279,8 @@
   },
   "active": "ad7fd5ca1434cb41",
   "lastOpenFiles": [
+    "til/1783487776-dotto-ui.md",
+    "til/1784733338-blume.md",
     "til/1784532299-vercel-labs-deepsec.md",
     "til/1784731258-graphify.md",
     "til/1784532299-deepsec-agent-powered-vulnerability-scanner.md",
@@ -298,14 +300,12 @@
     "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
     "til/1783661572-componentry.md",
     "til/1783655310-transitionsdev.md",
-    "til/1783487776-dotto-ui.md",
     "til/1783952000-agent-skills.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md.tmp",
     "templates/main.md",
     "til/1783488891-mapcn.md",
     "til/1783655836-componentry-dithered-logo.md",
     "til/1783950520-emilkowalski-skill.md",
-    "Untitled.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
