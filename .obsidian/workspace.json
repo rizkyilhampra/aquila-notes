@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "til/1784731258-graphify.md",
+                    "file": "til/1784532299-vercel-labs-deepsec.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,7 +33,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1784731258-graphify"
+                  "title": "1784532299-vercel-labs-deepsec"
                 }
               }
             ]
@@ -83,7 +83,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: opencode ~/N/aquila-notes"
+                  "title": "Terminal: OC | Rename deepsec note to vercel-labs/de..."
                 }
               }
             ]
@@ -279,6 +279,7 @@
   },
   "active": "ad7fd5ca1434cb41",
   "lastOpenFiles": [
+    "til/1784532299-vercel-labs-deepsec.md",
     "til/1784731258-graphify.md",
     "til/1784532299-deepsec-agent-powered-vulnerability-scanner.md",
     "til/1784530430-vps-benchmark-scripts.md",
@@ -305,7 +306,6 @@
     "til/1783655836-componentry-dithered-logo.md",
     "til/1783950520-emilkowalski-skill.md",
     "Untitled.md",
-    "til/1782827123-fixing-network-shared-folder-access-issues-in-windows-11.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
