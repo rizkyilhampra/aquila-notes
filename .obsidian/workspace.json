@@ -4,92 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "49bf3ffd31443a8f",
-        "type": "split",
+        "id": "13fcd44ce69f47b5",
+        "type": "tabs",
         "children": [
           {
-            "id": "13fcd44ce69f47b5",
-            "type": "tabs",
-            "dimension": 41.71270718232044,
-            "children": [
-              {
-                "id": "ad7fd5ca1434cb41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "til/1784733338-blume.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "1784733338-blume"
+            "id": "ad7fd5ca1434cb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "til/1784733338-blume.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
-          },
-          {
-            "id": "1c6fbe93255a8baf",
-            "type": "tabs",
-            "dimension": 58.28729281767956,
-            "children": [
-              {
-                "id": "ea9a1e6ca476a32d",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/home/aquila/Notes/aquila-notes",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "environment": [],
-                        "executable": "/bin/sh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "linuxIntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: OC | Rename deepsec note to vercel-labs/de..."
-                }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "1784733338-blume"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
