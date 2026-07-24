@@ -4,34 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "baa6aa7a10bd4018",
-        "type": "tabs",
+        "id": "81a502b028809763",
+        "type": "split",
         "children": [
           {
-            "id": "9638f314eb55adf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/1784909975-mengatasi-web-page-selalu-minta-translate-chrome.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "baa6aa7a10bd4018",
+            "type": "tabs",
+            "dimension": 36.32596685082873,
+            "children": [
+              {
+                "id": "9638f314eb55adf1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "til/1784909975-mengatasi-web-page-selalu-minta-translate-chrome.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1784909975-mengatasi-web-page-selalu-minta-translate-chrome"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "1784909975-mengatasi-web-page-selalu-minta-translate-chrome"
-            }
+              }
+            ]
+          },
+          {
+            "id": "57c86254a600210c",
+            "type": "tabs",
+            "dimension": 63.67403314917127,
+            "children": [
+              {
+                "id": "3027f6e936b34334",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/aquila/Notes/aquila-notes",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "/bin/sh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "profileSourceId": "linuxIntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ⌘ Command Code · aquila-notes"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -219,10 +277,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9638f314eb55adf1",
+  "active": "3027f6e936b34334",
   "lastOpenFiles": [
-    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/1784909975-mengatasi-web-page-selalu-minta-translate-chrome.md",
+    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
     "til/1784733338-blume.md",
     "til/1783487776-dotto-ui.md",
     "til/1784532299-vercel-labs-deepsec.md",
