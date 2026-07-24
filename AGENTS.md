@@ -39,6 +39,14 @@ This is a digital garden — favor links over folders (Zettelkasten / MOC style)
 
 ## Tags for `./til/`
 
+### Pre-scan rule (mandatory)
+
+Before picking tags for a note, scan `til/**` frontmatter to inventory every tag currently in use. Inspect **how** each tag is used — what notes carry it, not just the tag name — so you don't misapply a tag based on dictionary meaning alone. Example: `it-support` sounds like "any troubleshooting," but in this garden every note under it is sysadmin/infra/hardware (printer, network sharing, SSH tunneling). A frontend dev tip is not `it-support`.
+
+After scanning, provide chain-of-thought reasoning for your tag picks — why each tag fits this note, and why plausible alternatives were excluded. The user reviews this before accepting.
+
+### General
+
 Use a small, consistent set of tags. Mix two kinds: **topic/tech** (what it's about) and **context/type** (work, personal, it-support, cheatsheets, etc.). Keep them precise — avoid generic catch-all tags like `tools` that carry no filtering signal.
 
 - `ai` is a sanctioned topic tag — it's the established cluster for LLM/agent tooling (e.g. Claude, Claude Code, deepsec). Use it for AI products/tools; it does carry filter signal in this garden.
@@ -47,6 +55,8 @@ Use a small, consistent set of tags. Mix two kinds: **topic/tech** (what it's ab
 
 `work`, `personal`, `it-support`, `cheatsheets`, `rants`, `fleeting`.
 
+- `it-support` — sysadmin/infra/hardware troubleshooting only (printer, network sharing, SSH, DNS, etc.). Do NOT use for dev tips or code-level fixes; those are `cheatsheets` or a topic tag.
+- `cheatsheets` — quick reference / copy-paste fix. One-liner solutions, config snippets, command recipes.
 - `rants` — opinionated, personal capture (e.g. a reaction to a social post). Not daily journaling.
 - `fleeting` — raw, temporary Zettelkasten capture (a thought/question/observation) intended to be processed into a permanent note later, then often deleted or merged.
 - Avoid catch-all type tags (`notes`, `learning`) that are true of every explainer note — they carry no filter signal. A context/type tag must *differentiate* note types, not describe all of them.
