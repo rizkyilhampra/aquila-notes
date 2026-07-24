@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sre",
+                "query": "obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,7 +220,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ad7fd5ca1434cb41",
+  "active": "05ea27116dfd5e6d",
   "lastOpenFiles": [
     "til/1783487776-dotto-ui.md",
     "til/1784733338-blume.md",
