@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13fcd44ce69f47b5",
+        "id": "baa6aa7a10bd4018",
         "type": "tabs",
         "children": [
           {
-            "id": "ad7fd5ca1434cb41",
+            "id": "9638f314eb55adf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1784733338-blume.md",
+                "file": "til/1784909975-mengatasi-web-page-selalu-minta-translate-chrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1784733338-blume"
+              "title": "1784909975-mengatasi-web-page-selalu-minta-translate-chrome"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,10 +219,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "05ea27116dfd5e6d",
+  "active": "9638f314eb55adf1",
   "lastOpenFiles": [
-    "til/1783487776-dotto-ui.md",
+    "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
+    "til/1784909975-mengatasi-web-page-selalu-minta-translate-chrome.md",
     "til/1784733338-blume.md",
+    "til/1783487776-dotto-ui.md",
     "til/1784532299-vercel-labs-deepsec.md",
     "til/1784731258-graphify.md",
     "til/1784532299-deepsec-agent-powered-vulnerability-scanner.md",
@@ -247,8 +248,6 @@
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md.tmp",
     "templates/main.md",
     "til/1783488891-mapcn.md",
-    "til/1783655836-componentry-dithered-logo.md",
-    "til/1783950520-emilkowalski-skill.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
