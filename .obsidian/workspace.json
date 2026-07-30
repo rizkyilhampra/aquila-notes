@@ -4,55 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d496d79888bf87b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f746ea93535302a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "/home/aquila/Notes/aquila-notes/til",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "environment": [],
-                    "executable": "/bin/sh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "linux": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "profileSourceId": "linuxIntegratedDefault",
-                  "serial": null,
-                  "userTitle": ""
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: OpenCode"
-            }
-          }
-        ]
-      },
-      {
         "id": "baa6aa7a10bd4018",
         "type": "tabs",
         "children": [
@@ -62,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1785431063-another-course-from-emil-kowalski-aiforuidev.md",
+                "file": "til/1785431790-tanstack-charts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1785431063-another-course-from-emil-kowalski-aiforuidev"
+              "title": "1785431790-tanstack-charts"
             }
           }
         ]
@@ -249,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,10 +219,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9638f314eb55adf1",
+  "active": "08f9cf94b2d9def7",
   "lastOpenFiles": [
-    "til/1785429461-course-from-emil-kowalski-animationsdev.md",
     "til/1785431063-another-course-from-emil-kowalski-aiforuidev.md",
+    "til/1785431790-tanstack-charts.md",
+    "til/1785429461-course-from-emil-kowalski-animationsdev.md",
     "AGENTS.md",
     "1785430577-RHZX.md",
     "til/1784909975-mengatasi-web-page-selalu-minta-translate-chrome.md",
@@ -296,7 +247,6 @@
     "til/1781315596-setup-arch-linux-in-wsl.md",
     "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
     "til/1783661572-componentry.md",
-    "til/1783655310-transitionsdev.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md.tmp",
     "til",
     "engineering",
