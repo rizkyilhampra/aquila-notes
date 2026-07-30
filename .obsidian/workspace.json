@@ -47,7 +47,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: OC | Naming title for Emil Kowalski course..."
+              "title": "Terminal: OpenCode"
             }
           }
         ]
@@ -269,7 +269,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9f746ea93535302a",
+  "active": "9638f314eb55adf1",
   "lastOpenFiles": [
     "til/1785429461-course-from-emil-kowalski-animationsdev.md",
     "AGENTS.md",

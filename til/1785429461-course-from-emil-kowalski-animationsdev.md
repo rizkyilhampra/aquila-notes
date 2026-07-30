@@ -9,3 +9,4 @@ title: Course from Emil Kowalski (Animations.dev)
 ---
 
 # Course from Emil Kowalski (Animations.dev)
+From who is behind [[til/1783950520-emilkowalski-skill|Emilkowalski Skill]]
