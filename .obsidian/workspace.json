@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1785429461-course-from-emil-kowalski-animationsdev.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1785429461-course-from-emil-kowalski-animationsdev"
+              "title": "AGENTS"
             }
           }
         ]
@@ -272,6 +272,7 @@
   "active": "9638f314eb55adf1",
   "lastOpenFiles": [
     "til/1785429461-course-from-emil-kowalski-animationsdev.md",
+    "1785430577-RHZX.md",
     "AGENTS.md",
     "til/1784909975-mengatasi-web-page-selalu-minta-translate-chrome.md",
     "til/1760364389-akses-local-development-server-dengan-ssh-tunneling.md",
@@ -297,7 +298,6 @@
     "til/1783655310-transitionsdev.md",
     "til/1783952000-agent-skills.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md.tmp",
-    "templates/main.md",
     "til",
     "engineering",
     "engineering/system-architecture/microservices",
