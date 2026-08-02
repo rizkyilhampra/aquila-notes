@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1785431790-tanstack-charts.md",
+                "file": "til/1785685494-tanstack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1785431790-tanstack-charts"
+              "title": "1785685494-tanstack"
             }
           }
         ]
@@ -223,10 +223,11 @@
   },
   "active": "9638f314eb55adf1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "til/1785468239-codex-security.md",
-    "til/1785431063-another-course-from-emil-kowalski-aiforuidev.md",
+    "til/1785685494-tanstack.md",
     "til/1785431790-tanstack-charts.md",
+    "conflict-files-obsidian-git.md",
+    "til/1785431063-another-course-from-emil-kowalski-aiforuidev.md",
     "til/1785429461-course-from-emil-kowalski-animationsdev.md",
     "AGENTS.md",
     "1785430577-RHZX.md",
@@ -248,7 +249,6 @@
     "til/1781275800-alishahryar1-free-claude-code.md",
     "til/1781276040-claude.md",
     "til/1781315596-setup-arch-linux-in-wsl.md",
-    "til/1782396468-cetak-tabel-bengkok-atau-tidak-lurus.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md.tmp",
     "til",
     "engineering",
