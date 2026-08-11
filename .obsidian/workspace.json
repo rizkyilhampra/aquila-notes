@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "til/1785685494-tanstack.md",
+                "file": "movies/1786461927-backrooms-2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1785685494-tanstack"
+              "title": "1786461927-backrooms-2026"
             }
           }
         ]
@@ -223,8 +223,15 @@
   },
   "active": "9638f314eb55adf1",
   "lastOpenFiles": [
-    "til/1785468239-codex-security.md",
+    "movies/1778436762-undertone.md",
+    "movies/1786461927-backrooms-2026.md",
+    "movies/1774713370-28-years-later-the-bone-temple-2026.md",
+    "movies/1757258870-movies.md",
+    "movies/1757259062-bring-her-back.md",
+    "movies/1757270819-28-years-later.md",
+    "movies/1786461906-backrooms.md",
     "til/1785685494-tanstack.md",
+    "til/1785468239-codex-security.md",
     "til/1785431790-tanstack-charts.md",
     "conflict-files-obsidian-git.md",
     "til/1785431063-another-course-from-emil-kowalski-aiforuidev.md",
@@ -242,13 +249,6 @@
     "til/1784530431-yabs-yet-another-bench-script.md",
     "til/1764085651-site-reliability-engineering-sre.md",
     "til/1784530432-bench-sh-vps-benchmark-script.md",
-    "til/1783953722-poster-ai.md",
-    "til/1781273641-command-code-ai.md",
-    "til/1780889783-claude-code-using-kiro-api.md",
-    "til/1781275465-openrouter.md",
-    "til/1781275800-alishahryar1-free-claude-code.md",
-    "til/1781276040-claude.md",
-    "til/1781315596-setup-arch-linux-in-wsl.md",
     "til/1729711583-different-between-shebang-usr-bin-env-bash-and-bin-bash.md.tmp",
     "til",
     "engineering",
