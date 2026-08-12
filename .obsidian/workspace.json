@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "1786461927-backrooms-2026"
             }
+          },
+          {
+            "id": "3f50de6c5ce65f86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +234,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9638f314eb55adf1",
+  "active": "3f50de6c5ce65f86",
   "lastOpenFiles": [
     "movies/1778436762-undertone.md",
     "movies/1786461927-backrooms-2026.md",
