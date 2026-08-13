@@ -26,6 +26,7 @@ title: Human Readable Title
 - `publish` defaults to `false`; set `true` only when the note is ready.
 - `created` / `modified` use `YYYY-MM-DD HH:mm`. Update `modified` on edits.
 - `aliases` and `title` share the same human-readable name. Use `aliases` (plural) — Obsidian's alias feature requires the plural key; a note may list multiple aliases as a YAML array.
+- Human-readable titles (`title`, `aliases`, and the note's H1) should capitalize each word, e.g. `Mengapa Harus Pake S3 (Object Storage)?` — not lowercase like `Mengapa harus pake ...`. No space before `?`.
 - `id`'s timestamp must equal the filename timestamp (they must match exactly).
 
 ### Linking & hub notes
